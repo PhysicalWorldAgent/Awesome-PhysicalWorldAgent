@@ -1,0 +1,6339 @@
+[
+  {
+    "id": "arxiv220107207",
+    "title": "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents",
+    "authors": [
+      "Wenlong Huang",
+      "Pieter Abbeel",
+      "Deepak Pathak",
+      "Igor Mordatch"
+    ],
+    "year": 2022,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2201.07207",
+    "doi": ""
+  },
+  {
+    "id": "arxiv220401691",
+    "title": "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances",
+    "authors": [
+      "Michael Ahn",
+      "Anthony Brohan",
+      "Noah Brown",
+      "Yevgen Chebotar",
+      "Omar Cortes",
+      "Byron David",
+      "Chelsea Finn",
+      "Chuyuan Fu",
+      "Keerthana Gopalakrishnan",
+      "Karol Hausman",
+      "Alex Herzog",
+      "Daniel Ho",
+      "Jasmine Hsu",
+      "Julian Ibarz",
+      "Brian Ichter",
+      "Alex Irpan",
+      "Eric Jang",
+      "Rosario Jauregui Ruano",
+      "Kyle Jeffrey",
+      "Sally Jesmonth",
+      "Nikhil J Joshi",
+      "Ryan Julian",
+      "Dmitry Kalashnikov",
+      "Yuheng Kuang",
+      "Kuang-Huei Lee",
+      "Sergey Levine",
+      "Yao Lu",
+      "Linda Luu",
+      "Carolina Parada",
+      "Peter Pastor",
+      "Jornell Quiambao",
+      "Kanishka Rao",
+      "Jarek Rettinghouse",
+      "Diego Reyes",
+      "Pierre Sermanet",
+      "Nicolas Sievers",
+      "Clayton Tan",
+      "Alexander Toshev",
+      "Vincent Vanhoucke",
+      "Fei Xia",
+      "Ted Xiao",
+      "Peng Xu",
+      "Sichun Xu",
+      "Mengyuan Yan",
+      "Andy Zeng"
+    ],
+    "year": 2022,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2204.01691",
+    "doi": ""
+  },
+  {
+    "id": "arxiv220608896",
+    "title": "Evolution through Large Models",
+    "authors": [
+      "Joel Lehman",
+      "Jonathan Gordon",
+      "Shawn Jain",
+      "Kamal Ndousse",
+      "Cathy Yeh",
+      "Kenneth O. Stanley"
+    ],
+    "year": 2022,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2206.08896",
+    "doi": ""
+  },
+  {
+    "id": "arxiv220705608",
+    "title": "Inner Monologue: Embodied Reasoning through Planning with Language Models",
+    "authors": [
+      "Wenlong Huang",
+      "Fei Xia",
+      "Ted Xiao",
+      "Harris Chan",
+      "Jacky Liang",
+      "Pete Florence",
+      "Andy Zeng",
+      "Jonathan Tompson",
+      "Igor Mordatch",
+      "Yevgen Chebotar",
+      "Pierre Sermanet",
+      "Noah Brown",
+      "Tomas Jackson",
+      "Linda Luu",
+      "Sergey Levine",
+      "Karol Hausman",
+      "Brian Ichter"
+    ],
+    "year": 2022,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2207.05608",
+    "doi": ""
+  },
+  {
+    "id": "arxiv220907753",
+    "title": "Code as Policies: Language Model Programs for Embodied Control",
+    "authors": [
+      "Jacky Liang",
+      "Wenlong Huang",
+      "Fei Xia",
+      "Peng Xu",
+      "Karol Hausman",
+      "Brian Ichter",
+      "Pete Florence",
+      "Andy Zeng"
+    ],
+    "year": 2022,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2209.07753",
+    "doi": ""
+  },
+  {
+    "id": "arxiv220911302",
+    "title": "ProgPrompt: Generating Situated Robot Task Plans using Large Language Models",
+    "authors": [
+      "Ishika Singh",
+      "Valts Blukis",
+      "Arsalan Mousavian",
+      "Ankit Goyal",
+      "Danfei Xu",
+      "Jonathan Tremblay",
+      "Dieter Fox",
+      "Jesse Thomason",
+      "Animesh Garg"
+    ],
+    "year": 2022,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2209.11302",
+    "doi": ""
+  },
+  {
+    "id": "arxiv230211649",
+    "title": "Grounding Complex Natural Language Commands for Temporal Tasks in Unseen Environments",
+    "authors": [
+      "Jason Xinyu Liu",
+      "Ziyi Yang",
+      "Ifrah Idrees",
+      "Sam Liang",
+      "Benjamin Schornstein",
+      "Stefanie Tellex",
+      "Ankit Shah"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2302.11649",
+    "doi": ""
+  },
+  {
+    "id": "arxiv230307280",
+    "title": "Vision-Language Models as Success Detectors",
+    "authors": [
+      "Yuqing Du",
+      "Ksenia Konyushkova",
+      "Misha Denil",
+      "Akhil Raju",
+      "Jessica Landon",
+      "Felix Hill",
+      "Nando de Freitas",
+      "Serkan Cabi"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2303.07280",
+    "doi": ""
+  },
+  {
+    "id": "arxiv230314100",
+    "title": "Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting",
+    "authors": [
+      "Marta Skreta",
+      "Naruki Yoshikawa",
+      "Sebastian Arellano-Rubach",
+      "Zhi Ji",
+      "Lasse Bjørn Kristensen",
+      "Kourosh Darvish",
+      "Alán Aspuru-Guzik",
+      "Florian Shkurti",
+      "Animesh Garg"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2303.14100",
+    "doi": ""
+  },
+  {
+    "id": "arxiv230405376",
+    "title": "ChemCrow: Augmenting large-language models with chemistry tools",
+    "authors": [
+      "Andres M Bran",
+      "Sam Cox",
+      "Oliver Schilter",
+      "Carlo Baldassari",
+      "Andrew D White",
+      "Philippe Schwaller"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2304.05376",
+    "doi": ""
+  },
+  {
+    "id": "arxiv230410267",
+    "title": "LLMs can generate robotic scripts from goal-oriented instructions in biological laboratory automation",
+    "authors": [
+      "Takashi Inagaki",
+      "Akari Kato",
+      "Koichi Takahashi",
+      "Haruka Ozaki",
+      "Genki N. Kanda"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2304.10267",
+    "doi": ""
+  },
+  {
+    "id": "arxiv230411477",
+    "title": "LLM+P: Empowering Large Language Models with Optimal Planning Proficiency",
+    "authors": [
+      "Bo Liu",
+      "Yuqian Jiang",
+      "Xiaohan Zhang",
+      "Qiang Liu",
+      "Shiqi Zhang",
+      "Joydeep Biswas",
+      "Peter Stone"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2304.11477",
+    "doi": ""
+  },
+  {
+    "id": "arxiv230511176",
+    "title": "Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model",
+    "authors": [
+      "Siyuan Huang",
+      "Zhengkai Jiang",
+      "Hao Dong",
+      "Yu Qiao",
+      "Peng Gao",
+      "Hongsheng Li"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2305.11176",
+    "doi": ""
+  },
+  {
+    "id": "arxiv230515809",
+    "title": "ChatGPT for PLC/DCS Control Logic Generation",
+    "authors": [
+      "Heiko Koziolek",
+      "Sten Gruener",
+      "Virendra Ashiwal"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2305.15809",
+    "doi": ""
+  },
+  {
+    "id": "arxiv230516291",
+    "title": "Voyager: An Open-Ended Embodied Agent with Large Language Models",
+    "authors": [
+      "Guanzhi Wang",
+      "Yuqi Xie",
+      "Yunfan Jiang",
+      "Ajay Mandlekar",
+      "Chaowei Xiao",
+      "Yuke Zhu",
+      "Linxi Fan",
+      "Anima Anandkumar"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2305.16291",
+    "doi": ""
+  },
+  {
+    "id": "arxiv230516744",
+    "title": "Demo2Code: From Summarizing Demonstrations to Synthesizing Code via Extended Chain-of-Thought",
+    "authors": [
+      "Huaxiaoyue Wang",
+      "Gonzalo Gonzalez-Pumariega",
+      "Yash Sharma",
+      "Sanjiban Choudhury"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2305.16744",
+    "doi": ""
+  },
+  {
+    "id": "arxiv230603310",
+    "title": "LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning",
+    "authors": [
+      "Bo Liu",
+      "Yifeng Zhu",
+      "Chongkai Gao",
+      "Yihao Feng",
+      "Qiang Liu",
+      "Yuke Zhu",
+      "Peter Stone"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2306.03310",
+    "doi": ""
+  },
+  {
+    "id": "arxiv230606531",
+    "title": "AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers",
+    "authors": [
+      "Yongchao Chen",
+      "Jacob Arkin",
+      "Charles Dawson",
+      "Yang Zhang",
+      "Nicholas Roy",
+      "Chuchu Fan"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2306.06531",
+    "doi": ""
+  },
+  {
+    "id": "arxiv230608647",
+    "title": "Language to Rewards for Robotic Skill Synthesis",
+    "authors": [
+      "Wenhao Yu",
+      "Nimrod Gileadi",
+      "Chuyuan Fu",
+      "Sean Kirmani",
+      "Kuang-Huei Lee",
+      "Montse Gonzalez Arenas",
+      "Hao-Tien Lewis Chiang",
+      "Tom Erez",
+      "Leonard Hasenclever",
+      "Jan Humplik",
+      "Brian Ichter",
+      "Ted Xiao",
+      "Peng Xu",
+      "Andy Zeng",
+      "Tingnan Zhang",
+      "Nicolas Heess",
+      "Dorsa Sadigh",
+      "Jie Tan",
+      "Yuval Tassa",
+      "Fei Xia"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2306.08647",
+    "doi": ""
+  },
+  {
+    "id": "arxiv230615724",
+    "title": "REFLECT: Summarizing Robot Experiences for Failure Explanation and Correction",
+    "authors": [
+      "Zeyi Liu",
+      "Arpit Bahety",
+      "Shuran Song"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2306.15724",
+    "doi": ""
+  },
+  {
+    "id": "arxiv230617582",
+    "title": "ChatGPT for Robotics: Design Principles and Model Abilities",
+    "authors": [
+      "Sai Vemprala",
+      "Rogerio Bonatti",
+      "Arthur Bucker",
+      "Ashish Kapoor"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2306.17582",
+    "doi": ""
+  },
+  {
+    "id": "arxiv230705973",
+    "title": "VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models",
+    "authors": [
+      "Wenlong Huang",
+      "Chen Wang",
+      "Ruohan Zhang",
+      "Yunzhu Li",
+      "Jiajun Wu",
+      "Li Fei-Fei"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2307.05973",
+    "doi": ""
+  },
+  {
+    "id": "arxiv230714535",
+    "title": "Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition",
+    "authors": [
+      "Huy Ha",
+      "Pete Florence",
+      "Shuran Song"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2307.14535",
+    "doi": ""
+  },
+  {
+    "id": "arxiv230906687",
+    "title": "Self-Refined Large Language Model as Automated Reward Function Designer for Deep Reinforcement Learning in Robotics",
+    "authors": [
+      "Jiayang Song",
+      "Zhehua Zhou",
+      "Jiawei Liu",
+      "Chunrong Fang",
+      "Zhan Shu",
+      "Lei Ma"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2309.06687",
+    "doi": ""
+  },
+  {
+    "id": "arxiv230909919",
+    "title": "Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents",
+    "authors": [
+      "Ziyi Yang",
+      "Shreyas S. Raman",
+      "Ankit Shah",
+      "Stefanie Tellex"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2309.09919",
+    "doi": ""
+  },
+  {
+    "id": "arxiv230911489",
+    "title": "Text2Reward: Reward Shaping with Language Models for Reinforcement Learning",
+    "authors": [
+      "Tianbao Xie",
+      "Siheng Zhao",
+      "Chen Henry Wu",
+      "Yitao Liu",
+      "Qian Luo",
+      "Victor Zhong",
+      "Yanchao Yang",
+      "Tao Yu"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2309.11489",
+    "doi": ""
+  },
+  {
+    "id": "arxiv231001361",
+    "title": "GenSim: Generating Robotic Simulation Tasks via Large Language Models",
+    "authors": [
+      "Lirui Wang",
+      "Yiyang Ling",
+      "Zhecheng Yuan",
+      "Mohit Shridhar",
+      "Chen Bao",
+      "Yuzhe Qin",
+      "Bailin Wang",
+      "Huazhe Xu",
+      "Xiaolong Wang"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2310.01361",
+    "doi": ""
+  },
+  {
+    "id": "arxiv231006770",
+    "title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+    "authors": [
+      "Carlos E. Jimenez",
+      "John Yang",
+      "Alexander Wettig",
+      "Shunyu Yao",
+      "Kexin Pei",
+      "Ofir Press",
+      "Karthik Narasimhan"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2310.06770",
+    "doi": ""
+  },
+  {
+    "id": "arxiv231008588",
+    "title": "Octopus: Embodied Vision-Language Programmer from Environmental Feedback",
+    "authors": [
+      "Jingkang Yang",
+      "Yuhao Dong",
+      "Shuai Liu",
+      "Bo Li",
+      "Ziyue Wang",
+      "Chencheng Jiang",
+      "Haoran Tan",
+      "Jiamu Kang",
+      "Yuanhan Zhang",
+      "Kaiyang Zhou",
+      "Ziwei Liu"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2310.08588",
+    "doi": ""
+  },
+  {
+    "id": "arxiv231012931",
+    "title": "Eureka: Human-Level Reward Design via Coding Large Language Models",
+    "authors": [
+      "Yecheng Jason Ma",
+      "William Liang",
+      "Guanzhi Wang",
+      "De-An Huang",
+      "Osbert Bastani",
+      "Dinesh Jayaraman",
+      "Yuke Zhu",
+      "Linxi Fan",
+      "Anima Anandkumar"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2310.12931",
+    "doi": ""
+  },
+  {
+    "id": "arxiv231018308",
+    "title": "Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models",
+    "authors": [
+      "Pushkal Katara",
+      "Zhou Xian",
+      "Katerina Fragkiadaki"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2310.18308",
+    "doi": ""
+  },
+  {
+    "id": "arxiv231100967",
+    "title": "Vision-Language Interpreter for Robot Task Planning",
+    "authors": [
+      "Keisuke Shirai",
+      "Cristian C. Beltran-Hernandez",
+      "Masashi Hamaya",
+      "Atsushi Hashimoto",
+      "Shohei Tanaka",
+      "Kento Kawaharazuka",
+      "Kazutoshi Tanaka",
+      "Yoshitaka Ushiku",
+      "Shinsuke Mori"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2311.00967",
+    "doi": ""
+  },
+  {
+    "id": "arxiv231101455",
+    "title": "RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation",
+    "authors": [
+      "Yufei Wang",
+      "Zhou Xian",
+      "Feng Chen",
+      "Tsun-Hsuan Wang",
+      "Yian Wang",
+      "Katerina Fragkiadaki",
+      "Zackory Erickson",
+      "David Held",
+      "Chuang Gan"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2311.01455",
+    "doi": ""
+  },
+  {
+    "id": "arxiv231107226",
+    "title": "Large Language Models for Robotics: A Survey",
+    "authors": [
+      "Fanlong Zeng",
+      "Wensheng Gan",
+      "Zezheng Huai",
+      "Lichao Sun",
+      "Hechang Chen",
+      "Yongheng Wang",
+      "Ning Liu",
+      "Philip S. Yu"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2311.07226",
+    "doi": ""
+  },
+  {
+    "id": "arxiv231110678",
+    "title": "Distilling and Retrieving Generalizable Knowledge for Robot Manipulation via Language Corrections",
+    "authors": [
+      "Lihan Zha",
+      "Yuchen Cui",
+      "Li-Heng Lin",
+      "Minae Kwon",
+      "Montserrat Gonzalez Arenas",
+      "Andy Zeng",
+      "Fei Xia",
+      "Dorsa Sadigh"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2311.10678",
+    "doi": ""
+  },
+  {
+    "id": "arxiv231111183",
+    "title": "Deploying and Evaluating LLMs to Program Service Mobile Robots",
+    "authors": [
+      "Zichao Hu",
+      "Francesca Lucchetti",
+      "Claire Schlesinger",
+      "Yash Saxena",
+      "Anders Freeman",
+      "Sadanand Modak",
+      "Arjun Guha",
+      "Joydeep Biswas"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2311.11183",
+    "doi": ""
+  },
+  {
+    "id": "arxiv231201421",
+    "title": "RobotGPT: Robot Manipulation Learning from ChatGPT",
+    "authors": [
+      "Yixiang Jin",
+      "Dingzhe Li",
+      "Yong A",
+      "Jun Shi",
+      "Peng Hao",
+      "Fuchun Sun",
+      "Jianwei Zhang",
+      "Bin Fang"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2312.01421",
+    "doi": ""
+  },
+  {
+    "id": "arxiv231204372",
+    "title": "LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs",
+    "authors": [
+      "Yunsheng Ma",
+      "Can Cui",
+      "Xu Cao",
+      "Wenqian Ye",
+      "Peiran Liu",
+      "Juanwu Lu",
+      "Amr Abdelraouf",
+      "Rohit Gupta",
+      "Kyungtae Han",
+      "Aniket Bera",
+      "James M. Rehg",
+      "Ziran Wang"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2312.04372",
+    "doi": ""
+  },
+  {
+    "id": "arxiv231204474",
+    "title": "Chain of Code: Reasoning with a Language Model-Augmented Code Emulator",
+    "authors": [
+      "Chengshu Li",
+      "Jacky Liang",
+      "Andy Zeng",
+      "Xinyun Chen",
+      "Karol Hausman",
+      "Dorsa Sadigh",
+      "Sergey Levine",
+      "Li Fei-Fei",
+      "Fei Xia",
+      "Brian Ichter"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2312.04474",
+    "doi": ""
+  },
+  {
+    "id": "arxiv231207843",
+    "title": "Foundation Models in Robotics: Applications, Challenges, and the Future",
+    "authors": [
+      "Roya Firoozi",
+      "Johnathan Tucker",
+      "Stephen Tian",
+      "Anirudha Majumdar",
+      "Jiankai Sun",
+      "Weiyu Liu",
+      "Yuke Zhu",
+      "Shuran Song",
+      "Ashish Kapoor",
+      "Karol Hausman",
+      "Brian Ichter",
+      "Danny Driess",
+      "Jiajun Wu",
+      "Cewu Lu",
+      "Mac Schwager"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2312.07843",
+    "doi": ""
+  },
+  {
+    "id": "arxiv231208782",
+    "title": "Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis",
+    "authors": [
+      "Yafei Hu",
+      "Quanting Xie",
+      "Vidhi Jain",
+      "Jonathan Francis",
+      "Jay Patrikar",
+      "Nikhil Keetha",
+      "Seungchan Kim",
+      "Yaqi Xie",
+      "Tianyi Zhang",
+      "Hao-Shu Fang",
+      "Shibo Zhao",
+      "Shayegan Omidshafiei",
+      "Dong-Ki Kim",
+      "Ali-akbar Agha-mohammadi",
+      "Katia Sycara",
+      "Matthew Johnson-Roberson",
+      "Dhruv Batra",
+      "Xiaolong Wang",
+      "Sebastian Scherer",
+      "Chen Wang",
+      "Zsolt Kira",
+      "Fei Xia",
+      "Yonatan Bisk"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2312.08782",
+    "doi": ""
+  },
+  {
+    "id": "arxiv231209067",
+    "title": "Holodeck: Language Guided Generation of 3D Embodied AI Environments",
+    "authors": [
+      "Yue Yang",
+      "Fan-Yun Sun",
+      "Luca Weihs",
+      "Eli VanderBilt",
+      "Alvaro Herrasti",
+      "Winson Han",
+      "Jiajun Wu",
+      "Nick Haber",
+      "Ranjay Krishna",
+      "Lingjie Liu",
+      "Chris Callison-Burch",
+      "Mark Yatskar",
+      "Aniruddha Kembhavi",
+      "Christopher Clark"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2312.09067",
+    "doi": ""
+  },
+  {
+    "id": "arxiv231210807",
+    "title": "Bridging Language and Action: A Survey of Language-Conditioned Robot Manipulation",
+    "authors": [
+      "Xiangtong Yao",
+      "Hongkuan Zhou",
+      "Oier Mees",
+      "Yuan Meng",
+      "Ted Xiao",
+      "Yonatan Bisk",
+      "Jean Oh",
+      "Edward Johns",
+      "Mohit Shridhar",
+      "Dhruv Shah",
+      "Jesse Thomason",
+      "Kai Huang",
+      "Joyce Chai",
+      "Zhenshan Bing",
+      "Alois Knoll"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2312.10807",
+    "doi": ""
+  },
+  {
+    "id": "arxiv231214950",
+    "title": "TypeFly: Flying Drones with Large Language Model",
+    "authors": [
+      "Guojun Chen",
+      "Xiaojing Yu",
+      "Neiwen Ling",
+      "Lin Zhong"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2312.14950",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240105443",
+    "title": "LLM4PLC: Harnessing Large Language Models for Verifiable Programming of PLCs in Industrial Control Systems",
+    "authors": [
+      "Mohamad Fakih",
+      "Rahul Dharmaji",
+      "Yasamin Moghaddas",
+      "Gustavo Quiros Araya",
+      "Oluwatosin Ogundare",
+      "Mohammad Abdullah Al Faruque"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2401.05443",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240201030",
+    "title": "Executable Code Actions Elicit Better LLM Agents",
+    "authors": [
+      "Xingyao Wang",
+      "Yangyi Chen",
+      "Lifan Yuan",
+      "Yizhe Zhang",
+      "Yunzhu Li",
+      "Hao Peng",
+      "Heng Ji"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2402.01030",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240205741",
+    "title": "Real-World Robot Applications of Foundation Models: A Review",
+    "authors": [
+      "Kento Kawaharazuka",
+      "Tatsuya Matsushima",
+      "Andrew Gambardella",
+      "Jiaxian Guo",
+      "Chris Paxton",
+      "Andy Zeng"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2402.05741",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240208178",
+    "title": "LoTa-Bench: Benchmarking Language-oriented Task Planners for Embodied Agents",
+    "authors": [
+      "Jae-Woo Choi",
+      "Youngwoo Yoon",
+      "Hyobin Ong",
+      "Jaehong Kim",
+      "Minsu Jang"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2402.08178",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240211450",
+    "title": "Learning to Learn Faster from Human Feedback with Language Model Predictive Control",
+    "authors": [
+      "Jacky Liang",
+      "Fei Xia",
+      "Wenhao Yu",
+      "Andy Zeng",
+      "Montserrat Gonzalez Arenas",
+      "Maria Attarian",
+      "Maria Bauza",
+      "Matthew Bennice",
+      "Alex Bewley",
+      "Adil Dostmohamed",
+      "Chuyuan Kelly Fu",
+      "Nimrod Gileadi",
+      "Marissa Giustina",
+      "Keerthana Gopalakrishnan",
+      "Leonard Hasenclever",
+      "Jan Humplik",
+      "Jasmine Hsu",
+      "Nikhil Joshi",
+      "Ben Jyenis",
+      "Chase Kew",
+      "Sean Kirmani",
+      "Tsang-Wei Edward Lee",
+      "Kuang-Huei Lee",
+      "Assaf Hurwitz Michaely",
+      "Joss Moore",
+      "Ken Oslund",
+      "Dushyant Rao",
+      "Allen Ren",
+      "Baruch Tabanpour",
+      "Quan Vuong",
+      "Ayzaan Wahid",
+      "Ted Xiao",
+      "Ying Xu",
+      "Vincent Zhuang",
+      "Peng Xu",
+      "Erik Frey",
+      "Ken Caluwaerts",
+      "Tingnan Zhang",
+      "Brian Ichter",
+      "Jonathan Tompson",
+      "Leila Takayama",
+      "Vincent Vanhoucke",
+      "Izhak Shafran",
+      "Maja Mataric",
+      "Dorsa Sadigh",
+      "Nicolas Heess",
+      "Kanishka Rao",
+      "Nik Stewart",
+      "Jie Tan",
+      "Carolina Parada"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2402.11450",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240214623",
+    "title": "RoboScript: Code Generation for Free-Form Manipulation Tasks across Real and Simulation",
+    "authors": [
+      "Junting Chen",
+      "Yao Mu",
+      "Qiaojun Yu",
+      "Tianming Wei",
+      "Silang Wu",
+      "Zhecheng Yuan",
+      "Zhixuan Liang",
+      "Chao Yang",
+      "Kaipeng Zhang",
+      "Wenqi Shao",
+      "Yu Qiao",
+      "Huazhe Xu",
+      "Mingyu Ding",
+      "Ping Luo"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2402.14623",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240216117",
+    "title": "RoboCodeX: Multimodal Code Generation for Robotic Behavior Synthesis",
+    "authors": [
+      "Yao Mu",
+      "Junting Chen",
+      "Qinglong Zhang",
+      "Shoufa Chen",
+      "Qiaojun Yu",
+      "Chongjian Ge",
+      "Runjian Chen",
+      "Zhixuan Liang",
+      "Mengkang Hu",
+      "Chaofan Tao",
+      "Peize Sun",
+      "Haibao Yu",
+      "Chao Yang",
+      "Wenqi Shao",
+      "Wenhai Wang",
+      "Jifeng Dai",
+      "Yu Qiao",
+      "Mingyu Ding",
+      "Ping Luo"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2402.16117",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240400282",
+    "title": "Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods",
+    "authors": [
+      "Yuji Cao",
+      "Huan Zhao",
+      "Yuheng Cheng",
+      "Ting Shu",
+      "Yue Chen",
+      "Guolong Liu",
+      "Gaoqi Liang",
+      "Junhua Zhao",
+      "Jinyue Yan",
+      "Yun Li"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2404.00282",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240403629",
+    "title": "ROBUST: 221 Bugs in the Robot Operating System",
+    "authors": [
+      "Christopher S. Timperley",
+      "Gijs van der Hoorn",
+      "André Santos",
+      "Harshavardhan Deshpande",
+      "Andrzej Wąsowski"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2404.03629",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240405291",
+    "title": "Long-horizon Locomotion and Manipulation on a Quadrupedal Robot with Large Language Models",
+    "authors": [
+      "Yutao Ouyang",
+      "Jinhan Li",
+      "Yunfei Li",
+      "Zhongyu Li",
+      "Chao Yu",
+      "Koushil Sreenath",
+      "Yi Wu"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2404.05291",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240406645",
+    "title": "GenCHiP: Generating Robot Policy Code for High-Precision and Contact-Rich Manipulation Tasks",
+    "authors": [
+      "Kaylee Burns",
+      "Ajinkya Jain",
+      "Keegan Go",
+      "Fei Xia",
+      "Michael Stark",
+      "Stefan Schaal",
+      "Karol Hausman"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2404.06645",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240501874",
+    "title": "Automated Control Logic Test Case Generation using Large Language Models",
+    "authors": [
+      "Heiko Koziolek",
+      "Virendra Ashiwal",
+      "Soumyadip Bandyopadhyay",
+      "Chandrika K R"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2405.01874",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240503709",
+    "title": "ScenicNL: Generating Probabilistic Scenario Programs from Natural Language",
+    "authors": [
+      "Karim Elmaaroufi",
+      "Devan Shanker",
+      "Ana Cismaru",
+      "Marcell Vazquez-Chanlatte",
+      "Alberto Sangiovanni-Vincentelli",
+      "Matei Zaharia",
+      "Sanjit A. Seshia"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2405.03709",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240505941",
+    "title": "Evaluating Real-World Robot Manipulation Policies in Simulation",
+    "authors": [
+      "Xuanlin Li",
+      "Kyle Hsu",
+      "Jiayuan Gu",
+      "Karl Pertsch",
+      "Oier Mees",
+      "Homer Rich Walke",
+      "Chuyuan Fu",
+      "Ishikaa Lunawat",
+      "Isabel Sieh",
+      "Sean Kirmani",
+      "Sergey Levine",
+      "Jiajun Wu",
+      "Chelsea Finn",
+      "Hao Su",
+      "Quan Vuong",
+      "Ted Xiao"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2405.05941",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240511656",
+    "title": "URDFormer: A Pipeline for Constructing Articulated Simulation Environments from Real-World Images",
+    "authors": [
+      "Zoey Chen",
+      "Aaron Walsman",
+      "Marius Memmel",
+      "Kaichun Mo",
+      "Alex Fang",
+      "Karthikeya Vemuri",
+      "Alan Wu",
+      "Dieter Fox",
+      "Abhishek Gupta"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2405.11656",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240514062",
+    "title": "ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for Autonomous Vehicles",
+    "authors": [
+      "Jiawei Zhang",
+      "Chejian Xu",
+      "Bo Li"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2405.14062",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240514093",
+    "title": "A Survey on Vision-Language-Action Models for Embodied AI",
+    "authors": [
+      "Yueen Ma",
+      "Zixing Song",
+      "Yuzheng Zhuang",
+      "Jianye Hao",
+      "Irwin King"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2405.14093",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240515019",
+    "title": "Agentic Skill Discovery",
+    "authors": [
+      "Xufeng Zhao",
+      "Cornelius Weber",
+      "Stefan Wermter"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2405.15019",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240515568",
+    "title": "OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code",
+    "authors": [
+      "Maxence Faldor",
+      "Jenny Zhang",
+      "Antoine Cully",
+      "Jeff Clune"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2405.15568",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240515793",
+    "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+    "authors": [
+      "John Yang",
+      "Carlos E. Jimenez",
+      "Alexander Wettig",
+      "Kilian Lieret",
+      "Shunyu Yao",
+      "Karthik Narasimhan",
+      "Ofir Press"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2405.15793",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240520179",
+    "title": "Robo-Instruct: Simulator-Augmented Instruction Alignment For Finetuning Code LLMs",
+    "authors": [
+      "Zichao Hu",
+      "Junyi Jessy Li",
+      "Arjun Guha",
+      "Joydeep Biswas"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2405.20179",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240600515",
+    "title": "A Survey on Large Language Models for Code Generation",
+    "authors": [
+      "Juyong Jiang",
+      "Fan Wang",
+      "Jiasi Shen",
+      "Sungju Kim",
+      "Sunghun Kim"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2406.00515",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240601309",
+    "title": "REvolve: Reward Evolution with Large Language Models using Human Feedback",
+    "authors": [
+      "Rishi Hazra",
+      "Alkis Sygkounas",
+      "Andreas Persson",
+      "Amy Loutfi",
+      "Pedro Zuidberg Dos Martires"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2406.01309",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240601967",
+    "title": "DrEureka: Language Model Guided Sim-To-Real Transfer",
+    "authors": [
+      "Yecheng Jason Ma",
+      "William Liang",
+      "Hung-Ju Wang",
+      "Sam Wang",
+      "Yuke Zhu",
+      "Linxi Fan",
+      "Osbert Bastani",
+      "Dinesh Jayaraman"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2406.01967",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240603757",
+    "title": "RoboCoder: Robotic Learning from Basic Skills to General Tasks with Large Language Models",
+    "authors": [
+      "Jingyao Li",
+      "Pengguang Chen",
+      "Sitong Wu",
+      "Chuanyang Zheng",
+      "Hong Xu",
+      "Jiaya Jia"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2406.03757",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240605572",
+    "title": "Trust the PRoC3S: Solving Long-Horizon Robotics Problems with LLMs and Constraint Satisfaction",
+    "authors": [
+      "Aidan Curtis",
+      "Nishanth Kumar",
+      "Jing Cao",
+      "Tomás Lozano-Pérez",
+      "Leslie Pack Kaelbling"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2406.05572",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240608474",
+    "title": "Real2Code: Reconstruct Articulated Objects via Code Generation",
+    "authors": [
+      "Zhao Mandi",
+      "Yijia Weng",
+      "Dominik Bauer",
+      "Shuran Song"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2406.08474",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240608824",
+    "title": "LLM-Driven Robots Risk Enacting Discrimination, Violence, and Unlawful Actions",
+    "authors": [
+      "Andrew Hundt",
+      "Rumaisa Azeem",
+      "Masoumeh Mansouri",
+      "Martim Brandão"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2406.08824",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240614596",
+    "title": "VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought",
+    "authors": [
+      "Gabriel Sarch",
+      "Lawrence Jang",
+      "Michael J. Tarr",
+      "William W. Cohen",
+      "Kenneth Marino",
+      "Katerina Fragkiadaki"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2406.14596",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240618746",
+    "title": "Lifelong Robot Library Learning: Bootstrapping Composable and Generalizable Skills for Embodied Control with Language Models",
+    "authors": [
+      "Georgios Tziafas",
+      "Hamidreza Kasaei"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2406.18746",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240619741",
+    "title": "ROS-LLM: A ROS framework for embodied AI with task feedback and structured reasoning",
+    "authors": [
+      "Christopher E. Mower",
+      "Yuhui Wan",
+      "Hongzhan Yu",
+      "Antoine Grosnit",
+      "Jonas Gonzalez-Billandon",
+      "Matthieu Zimmer",
+      "Jinlong Wang",
+      "Xinyu Zhang",
+      "Yao Zhao",
+      "Anbang Zhai",
+      "Puze Liu",
+      "Daniel Palenicek",
+      "Davide Tateo",
+      "Cesar Cadena",
+      "Marco Hutter",
+      "Jan Peters",
+      "Guangjian Tian",
+      "Yuzheng Zhuang",
+      "Kun Shao",
+      "Xingyue Quan",
+      "Jianye Hao",
+      "Jun Wang",
+      "Haitham Bou-Ammar"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2406.19741",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240703321",
+    "title": "Planetarium: A Rigorous Benchmark for Translating Text to Structured Planning Languages",
+    "authors": [
+      "Max Zuo",
+      "Francisco Piedrahita Velez",
+      "Xiaochen Li",
+      "Michael L. Littman",
+      "Stephen H. Bach"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2407.03321",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240708626",
+    "title": "RoboMorph: Evolving Robot Morphology using Large Language Models",
+    "authors": [
+      "Kevin Qiu",
+      "Władysław Pałucki",
+      "Krzysztof Ciebiera",
+      "Paweł Fijałkowski",
+      "Marek Cygan",
+      "Łukasz Kuciński"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2407.08626",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240715325",
+    "title": "Odyssey: Empowering Minecraft Agents with Open-World Skills",
+    "authors": [
+      "Shunyu Liu",
+      "Yaoru Li",
+      "Kongcheng Zhang",
+      "Zhenyu Cui",
+      "Wenkai Fang",
+      "Yuxuan Zheng",
+      "Tongya Zheng",
+      "Mingli Song"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2407.15325",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240716741",
+    "title": "OpenHands: An Open Platform for AI Software Developers as Generalist Agents",
+    "authors": [
+      "Xingyao Wang",
+      "Boxuan Li",
+      "Yufan Song",
+      "Frank F. Xu",
+      "Xiangru Tang",
+      "Mingchen Zhuge",
+      "Jiayi Pan",
+      "Yueqi Song",
+      "Bowen Li",
+      "Jaskirat Singh",
+      "Hoang H. Tran",
+      "Fuqiang Li",
+      "Ren Ma",
+      "Mingzhang Zheng",
+      "Bill Qian",
+      "Yanjun Shao",
+      "Niklas Muennighoff",
+      "Yizhe Zhang",
+      "Binyuan Hui",
+      "Junyang Lin",
+      "Robert Brennan",
+      "Hao Peng",
+      "Heng Ji",
+      "Graham Neubig"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2407.16741",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240720242",
+    "title": "BadRobot: Jailbreaking Embodied LLM Agents in the Physical World",
+    "authors": [
+      "Hangtao Zhang",
+      "Chenyu Zhu",
+      "Xianlong Wang",
+      "Ziqi Zhou",
+      "Changgan Yin",
+      "Minghui Li",
+      "Lulu Xue",
+      "Yichen Wang",
+      "Shengshan Hu",
+      "Aishan Liu",
+      "Peijin Guo",
+      "Leo Yu Zhang"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2407.20242",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240901652",
+    "title": "ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation",
+    "authors": [
+      "Wenlong Huang",
+      "Chen Wang",
+      "Yunzhu Li",
+      "Ruohan Zhang",
+      "Li Fei-Fei"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2409.01652",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240902977",
+    "title": "Large Language Model-Based Agents for Software Engineering: A Survey",
+    "authors": [
+      "Junwei Liu",
+      "Kaixin Wang",
+      "Yixuan Chen",
+      "Xin Peng",
+      "Zhenpeng Chen",
+      "Lingming Zhang",
+      "Yiling Lou"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2409.02977",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240909491",
+    "title": "Robot Learning as an Empirical Science: Best Practices for Policy Evaluation",
+    "authors": [
+      "Hadas Kress-Gazit",
+      "Kunimatsu Hashimoto",
+      "Naveen Kuppuswamy",
+      "Paarth Shah",
+      "Phoebe Horgan",
+      "Gordon Richardson",
+      "Siyuan Feng",
+      "Benjamin Burchfiel"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2409.09491",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240918382",
+    "title": "CurricuLLM: Automatic Task Curricula Design for Learning Complex Robot Skills using Large Language Models",
+    "authors": [
+      "Kanghyun Ryu",
+      "Qiayuan Liao",
+      "Zhongyu Li",
+      "Payam Delgosha",
+      "Koushil Sreenath",
+      "Negar Mehr"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2409.18382",
+    "doi": ""
+  },
+  {
+    "id": "arxiv240919471",
+    "title": "SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models",
+    "authors": [
+      "Yi Wu",
+      "Zikang Xiong",
+      "Yiran Hu",
+      "Shreyash S. Iyengar",
+      "Nan Jiang",
+      "Aniket Bera",
+      "Lin Tan",
+      "Suresh Jagannathan"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2409.19471",
+    "doi": ""
+  },
+  {
+    "id": "arxiv241000371",
+    "title": "AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation",
+    "authors": [
+      "Jiafei Duan",
+      "Wilbert Pumacay",
+      "Nishanth Kumar",
+      "Yi Ru Wang",
+      "Shulin Tian",
+      "Wentao Yuan",
+      "Ranjay Krishna",
+      "Dieter Fox",
+      "Ajay Mandlekar",
+      "Yijie Guo"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2410.00371",
+    "doi": ""
+  },
+  {
+    "id": "arxiv241001345",
+    "title": "Towards Generalizable Vision-Language Robotic Manipulation: A Benchmark and LLM-guided 3D Policy",
+    "authors": [
+      "Ricardo Garcia",
+      "Shizhe Chen",
+      "Cordelia Schmid"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2410.01345",
+    "doi": ""
+  },
+  {
+    "id": "arxiv241003645",
+    "title": "GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs",
+    "authors": [
+      "Pu Hua",
+      "Minghuan Liu",
+      "Annabella Macaluso",
+      "Yunfeng Lin",
+      "Weinan Zhang",
+      "Huazhe Xu",
+      "Lirui Wang"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2410.03645",
+    "doi": ""
+  },
+  {
+    "id": "arxiv241004640",
+    "title": "Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistency and Progress",
+    "authors": [
+      "Christopher Agia",
+      "Rohan Sinha",
+      "Jingyun Yang",
+      "Zi-ang Cao",
+      "Rika Antonova",
+      "Marco Pavone",
+      "Jeannette Bohg"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2410.04640",
+    "doi": ""
+  },
+  {
+    "id": "arxiv241007166",
+    "title": "Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making",
+    "authors": [
+      "Manling Li",
+      "Shiyu Zhao",
+      "Qineng Wang",
+      "Kangrui Wang",
+      "Yu Zhou",
+      "Sanjana Srivastava",
+      "Cem Gokmen",
+      "Tony Lee",
+      "Li Erran Li",
+      "Ruohan Zhang",
+      "Weiyu Liu",
+      "Percy Liang",
+      "Li Fei-Fei",
+      "Jiayuan Mao",
+      "Jiajun Wu"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2410.07166",
+    "doi": ""
+  },
+  {
+    "id": "arxiv241013691",
+    "title": "Jailbreaking LLM-Controlled Robots",
+    "authors": [
+      "Alexander Robey",
+      "Zachary Ravichandran",
+      "Vijay Kumar",
+      "Hamed Hassani",
+      "George J. Pappas"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2410.13691",
+    "doi": ""
+  },
+  {
+    "id": "arxiv241013837",
+    "title": "ORSO: Accelerating Reward Design via Online Reward Selection and Policy Optimization",
+    "authors": [
+      "Chen Bo Calvin Zhang",
+      "Zhang-Wei Hong",
+      "Aldo Pacchiano",
+      "Pulkit Agrawal"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2410.13837",
+    "doi": ""
+  },
+  {
+    "id": "arxiv241013882",
+    "title": "Articulate-Anything: Automatic Modeling of Articulated Objects via a Vision-Language Foundation Model",
+    "authors": [
+      "Long Le",
+      "Jason Xie",
+      "William Liang",
+      "Hung-Ju Wang",
+      "Yue Yang",
+      "Yecheng Jason Ma",
+      "Kyle Vedder",
+      "Arjun Krishna",
+      "Dinesh Jayaraman",
+      "Eric Eaton"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2410.13882",
+    "doi": ""
+  },
+  {
+    "id": "arxiv241014660",
+    "title": "A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning",
+    "authors": [
+      "Shengjie Sun",
+      "Runze Liu",
+      "Jiafei Lyu",
+      "Jing-Wen Yang",
+      "Liangpeng Zhang",
+      "Xiu Li"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2410.14660",
+    "doi": ""
+  },
+  {
+    "id": "arxiv241014865",
+    "title": "Joint Verification and Refinement of Language Models for Safety-Constrained Planning",
+    "authors": [
+      "Yunhao Yang",
+      "Neel P. Bhatt",
+      "William Ward",
+      "Zichao Hu",
+      "Joydeep Biswas",
+      "Ufuk Topcu"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2410.14865",
+    "doi": ""
+  },
+  {
+    "id": "arxiv241015536",
+    "title": "GRS: Generating Robotic Simulation Tasks from Real-World Images",
+    "authors": [
+      "Alex Zook",
+      "Fan-Yun Sun",
+      "Josef Spjut",
+      "Valts Blukis",
+      "Stan Birchfield",
+      "Jonathan Tremblay"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2410.15536",
+    "doi": ""
+  },
+  {
+    "id": "arxiv241018893",
+    "title": "Creating and Repairing Robot Programs in Open-World Domains",
+    "authors": [
+      "Claire Schlesinger",
+      "Arjun Guha",
+      "Joydeep Biswas"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2410.18893",
+    "doi": ""
+  },
+  {
+    "id": "arxiv241101775",
+    "title": "Eurekaverse: Environment Curriculum Generation via Large Language Models",
+    "authors": [
+      "William Liang",
+      "Sam Wang",
+      "Hung-Ju Wang",
+      "Osbert Bastani",
+      "Dinesh Jayaraman",
+      "Yecheng Jason Ma"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2411.01775",
+    "doi": ""
+  },
+  {
+    "id": "arxiv241102317",
+    "title": "Defining and Evaluating Physical Safety for Large Language Models",
+    "authors": [
+      "Yung-Chen Tang",
+      "Pin-Yu Chen",
+      "Tsung-Yi Ho"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2411.02317",
+    "doi": ""
+  },
+  {
+    "id": "arxiv241104549",
+    "title": "Vision Language Models are In-Context Value Learners",
+    "authors": [
+      "Yecheng Jason Ma",
+      "Joey Hejna",
+      "Ayzaan Wahid",
+      "Chuyuan Fu",
+      "Dhruv Shah",
+      "Jacky Liang",
+      "Zhuo Xu",
+      "Sean Kirmani",
+      "Peng Xu",
+      "Danny Driess",
+      "Ted Xiao",
+      "Jonathan Tompson",
+      "Osbert Bastani",
+      "Dinesh Jayaraman",
+      "Wenhao Yu",
+      "Tingnan Zhang",
+      "Dorsa Sadigh",
+      "Fei Xia"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2411.04549",
+    "doi": ""
+  },
+  {
+    "id": "arxiv241204455",
+    "title": "Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection",
+    "authors": [
+      "Enshen Zhou",
+      "Qi Su",
+      "Cheng Chi",
+      "Zhizheng Zhang",
+      "Zhongyuan Wang",
+      "Tiejun Huang",
+      "Lu Sheng",
+      "He Wang"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2412.04455",
+    "doi": ""
+  },
+  {
+    "id": "arxiv241213178",
+    "title": "SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents",
+    "authors": [
+      "Sheng Yin",
+      "Xianghe Pang",
+      "Yuanzhuo Ding",
+      "Menglan Chen",
+      "Yutong Bi",
+      "Yichen Xiong",
+      "Wenhao Huang",
+      "Zhen Xiang",
+      "Jing Shao",
+      "Siheng Chen"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2412.13178",
+    "doi": ""
+  },
+  {
+    "id": "arxiv241216633",
+    "title": "Easier Said Than Done: Unpacking Intent-Behavior Gap in Jailbreaking LLM-Based Robots",
+    "authors": [
+      "Xuancun Lu",
+      "Zhengxian Huang",
+      "Xinfeng Li",
+      "Chi Zhang",
+      "Xiaoyu Ji",
+      "Wenyuan Xu"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2412.16633",
+    "doi": ""
+  },
+  {
+    "id": "arxiv241218194",
+    "title": "VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks",
+    "authors": [
+      "Shiduo Zhang",
+      "Zhe Xu",
+      "Peiju Liu",
+      "Xiaopeng Yu",
+      "Yuan Li",
+      "Qinghui Gao",
+      "Zhaoye Fei",
+      "Zhangyue Yin",
+      "Zuxuan Wu",
+      "Yu-Gang Jiang",
+      "Xipeng Qiu"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2412.18194",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250104268",
+    "title": "Robotic Programmer: Video Instructed Policy Code Generation for Robotic Manipulation",
+    "authors": [
+      "Senwei Xie",
+      "Hongyu Wang",
+      "Zhanqi Xiao",
+      "Ruiping Wang",
+      "Xilin Chen"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2501.04268",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250209560",
+    "title": "EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents",
+    "authors": [
+      "Rui Yang",
+      "Hanyang Chen",
+      "Junyu Zhang",
+      "Mark Zhao",
+      "Cheng Qian",
+      "Kangrui Wang",
+      "Qineng Wang",
+      "Teja Venkat Koripella",
+      "Marziyeh Movahedi",
+      "Manling Li",
+      "Heng Ji",
+      "Huan Zhang",
+      "Tong Zhang"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2502.09560",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250213143",
+    "title": "SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation",
+    "authors": [
+      "Zekun Qi",
+      "Wenyao Zhang",
+      "Yufei Ding",
+      "Runpei Dong",
+      "Xinqiang Yu",
+      "Jingwen Li",
+      "Lingyun Xu",
+      "Baoyu Li",
+      "Xialin He",
+      "Guofan Fan",
+      "Jiazhao Zhang",
+      "Jiawei He",
+      "Jiayuan Gu",
+      "Xin Jin",
+      "Kaisheng Ma",
+      "Zhizheng Zhang",
+      "He Wang",
+      "Li Yi"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2502.13143",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250301700",
+    "title": "Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation",
+    "authors": [
+      "Yongchao Chen",
+      "Yilun Hao",
+      "Yang Zhang",
+      "Chuchu Fan"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2503.01700",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250304280",
+    "title": "Towards Autonomous Reinforcement Learning for Real-World Robotic Manipulation with Large Language Models",
+    "authors": [
+      "Niccolò Turcato",
+      "Matteo Iovino",
+      "Aris Synodinos",
+      "Alberto Dalla Libera",
+      "Ruggero Carli",
+      "Pietro Falco"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2503.04280",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250307885",
+    "title": "Safety Guardrails for LLM-Enabled Robots",
+    "authors": [
+      "Zachary Ravichandran",
+      "Alexander Robey",
+      "Vijay Kumar",
+      "George J. Pappas",
+      "Hamed Hassani"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2503.07885",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250310966",
+    "title": "Is Your Imitation Learning Policy Better than Mine? Policy Comparison with Near-Optimal Stopping",
+    "authors": [
+      "David Snyder",
+      "Asher James Hancock",
+      "Apurva Badithela",
+      "Emma Dixon",
+      "Patrick Miller",
+      "Rares Andrei Ambrus",
+      "Anirudha Majumdar",
+      "Masha Itkina",
+      "Haruki Nishimura"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2503.10966",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250320020",
+    "title": "Gemini Robotics: Bringing AI into the Physical World",
+    "authors": [
+      "Gemini Robotics Team"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2503.20020",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250323875",
+    "title": "GenSwarm: Scalable Multi-Robot Code-Policy Generation and Deployment via Language Models",
+    "authors": [
+      "Wenkang Ji",
+      "Huaben Chen",
+      "Mingyang Chen",
+      "Guobin Zhu",
+      "Lufeng Xu",
+      "Roderich Groß",
+      "Rui Zhou",
+      "Ming Cao",
+      "Shiyu Zhao"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2503.23875",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250324278",
+    "title": "AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World",
+    "authors": [
+      "Zhiyuan Zhou",
+      "Pranav Atreya",
+      "You Liang Tan",
+      "Karl Pertsch",
+      "Sergey Levine"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2503.24278",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250407981",
+    "title": "ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use",
+    "authors": [
+      "Kaixin Li",
+      "Ziyang Meng",
+      "Hongzhan Lin",
+      "Ziyang Luo",
+      "Yuchen Tian",
+      "Jing Ma",
+      "Zhiyong Huang",
+      "Tat-Seng Chua"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2504.07981",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250412636",
+    "title": "A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation",
+    "authors": [
+      "Rongtao Xu",
+      "Jian Zhang",
+      "Minghao Guo",
+      "Youpeng Wen",
+      "Haoting Yang",
+      "Min Lin",
+      "Jianzheng Huang",
+      "Zhe Li",
+      "Kaidong Zhang",
+      "Liqiong Wang",
+      "Yuxuan Kuang",
+      "Meng Cao",
+      "Feng Zheng",
+      "Xiaodan Liang"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2504.12636",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250600276",
+    "title": "RoboMoRe: LLM-based Robot Co-design via Joint Optimization of Morphology and Reward",
+    "authors": [
+      "Jiawei Fang",
+      "Yuxuan Sun",
+      "Chengtian Ma",
+      "Qiuyu Lu",
+      "Lining Yao"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2506.00276",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250602507",
+    "title": "AURA: Autonomous Upskilling with Retrieval-Augmented Agents",
+    "authors": [
+      "Alvin Zhu",
+      "Yusuke Tanaka",
+      "Andrew Goldberg",
+      "Dennis Hong"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2506.02507",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250611003",
+    "title": "EmbedAgent: Benchmarking Large Language Models in Embedded System Development",
+    "authors": [
+      "Ruiyang Xu",
+      "Jialun Cao",
+      "Mingyuan Wu",
+      "Wenliang Zhong",
+      "Yaojie Lu",
+      "Ben He",
+      "Xianpei Han",
+      "Shing-Chi Cheung",
+      "Le Sun"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2506.11003",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250616652",
+    "title": "CodeDiffuser: Attention-Enhanced Diffusion Policy via VLM-Generated Code for Instruction Ambiguity",
+    "authors": [
+      "Guang Yin",
+      "Yitong Li",
+      "Yixuan Wang",
+      "Dale McConachie",
+      "Paarth Shah",
+      "Kunimatsu Hashimoto",
+      "Huan Zhang",
+      "Katherine Liu",
+      "Yunzhu Li"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2506.16652",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250618088",
+    "title": "RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation",
+    "authors": [
+      "Tianxing Chen",
+      "Zanxin Chen",
+      "Baijun Chen",
+      "Zijian Cai",
+      "Yibin Liu",
+      "Zixuan Li",
+      "Qiwei Liang",
+      "Xianliang Lin",
+      "Yiheng Ge",
+      "Zhenyu Gu",
+      "Weiliang Deng",
+      "Yubin Guo",
+      "Tian Nian",
+      "Xuanbing Xie",
+      "Qiangyu Chen",
+      "Kailun Su",
+      "Tianling Xu",
+      "Guodong Liu",
+      "Mengkang Hu",
+      "Huan-ang Gao",
+      "Kaixuan Wang",
+      "Zhixuan Liang",
+      "Yusen Qin",
+      "Xiaokang Yang",
+      "Ping Luo",
+      "Yao Mu"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2506.18088",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250618123",
+    "title": "RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies",
+    "authors": [
+      "Pranav Atreya",
+      "Karl Pertsch",
+      "Tony Lee",
+      "Moo Jin Kim",
+      "Arhan Jain",
+      "Artur Kuramshin",
+      "Clemens Eppner",
+      "Cyrus Neary",
+      "Edward Hu",
+      "Fabio Ramos",
+      "Jonathan Tremblay",
+      "Kanav Arora",
+      "Kirsty Ellis",
+      "Luca Macesanu",
+      "Marcel Torne Villasevil",
+      "Matthew Leonard",
+      "Meedeum Cho",
+      "Ozgur Aslan",
+      "Shivin Dass",
+      "Jie Wang",
+      "William Reger",
+      "Xingfang Yuan",
+      "Xuning Yang",
+      "Abhishek Gupta",
+      "Dinesh Jayaraman",
+      "Glen Berseth",
+      "Kostas Daniilidis",
+      "Roberto Martin-Martin",
+      "Youngwoon Lee",
+      "Percy Liang",
+      "Chelsea Finn",
+      "Sergey Levine"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2506.18123",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250701925",
+    "title": "A Survey on Vision-Language-Action Models: An Action Tokenization Perspective",
+    "authors": [
+      "Yifan Zhong",
+      "Fengshuo Bai",
+      "Shaofei Cai",
+      "Xuchuan Huang",
+      "Zhang Chen",
+      "Xiaowei Zhang",
+      "Yuanfei Wang",
+      "Shaoyang Guo",
+      "Tianrui Guan",
+      "Ka Nam Lui",
+      "Zhiquan Qi",
+      "Yitao Liang",
+      "Yuanpei Chen",
+      "Yaodong Yang"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2507.01925",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250701930",
+    "title": "Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations",
+    "authors": [
+      "Wenhao Wang",
+      "Yanyan Li",
+      "Long Jiao",
+      "Jiawei Yuan"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2507.01930",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250702256",
+    "title": "Uncertainty-aware Reward Design Process",
+    "authors": [
+      "Yang Yang",
+      "Xiaolu Zhou",
+      "Bosong Ding",
+      "Miao Xin"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2507.02256",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250703293",
+    "title": "LogicGuard: Improving Embodied LLM agents through Temporal Logic based Critics",
+    "authors": [
+      "Anand Gokhale",
+      "Vaibhav Srivastava",
+      "Francesco Bullo"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2507.03293",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250705331",
+    "title": "A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation",
+    "authors": [
+      "TRI LBM Team"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2507.05331",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250721046",
+    "title": "A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence",
+    "authors": [
+      "Huan-ang Gao",
+      "Jiayi Geng",
+      "Wenyue Hua",
+      "Mengkang Hu",
+      "Xinzhe Juan",
+      "Hongzhang Liu",
+      "Shilong Liu",
+      "Jiahao Qiu",
+      "Xuan Qi",
+      "Yiran Wu",
+      "Hongru Wang",
+      "Han Xiao",
+      "Yuhang Zhou",
+      "Shaokun Zhang",
+      "Jiayi Zhang",
+      "Jinyu Xiang",
+      "Yixiong Fang",
+      "Qiwen Zhao",
+      "Dongrui Liu",
+      "Qihan Ren",
+      "Cheng Qian",
+      "Zhenhailong Wang",
+      "Minda Hu",
+      "Huazheng Wang",
+      "Qingyun Wu",
+      "Heng Ji",
+      "Mengdi Wang"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2507.21046",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250918597",
+    "title": "Robotic Ultra-Long-Horizon Manipulation Skills via Human-guided Lifelong Code Generation",
+    "authors": [
+      "Yuan Meng",
+      "Zhenguo Sun",
+      "Max Fest",
+      "Xiangtong Yao",
+      "Xukun Li",
+      "Zhenshan Bing",
+      "Alois Knoll"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2509.18597",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250924160",
+    "title": "Memory Transfer Planning: LLM-driven Context-Aware Code Adaptation for Robot Manipulation",
+    "authors": [
+      "Tomoyuki Kagaya",
+      "Subramanian Lakshmi",
+      "Yuxuan Lou",
+      "Thong Jing Yuan",
+      "Jayashree Karlekar",
+      "Sugiri Pranata",
+      "Natsuki Murakami",
+      "Akira Kinose",
+      "Yang You"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2509.24160",
+    "doi": ""
+  },
+  {
+    "id": "arxiv250924219",
+    "title": "ViReSkill: Vision-Grounded Replanning with Skill Memory for LLM-Based Planning in Lifelong Robot Learning",
+    "authors": [
+      "Tomoyuki Kagaya",
+      "Subramanian Lakshmi",
+      "Anbang Ye",
+      "Thong Jing Yuan",
+      "Jayashree Karlekar",
+      "Sugiri Pranata",
+      "Natsuki Murakami",
+      "Akira Kinose",
+      "Yang You"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2509.24219",
+    "doi": ""
+  },
+  {
+    "id": "arxiv251000181",
+    "title": "CHAI: Command Hijacking against embodied AI",
+    "authors": [
+      "Luis Burbano",
+      "Diego Ortiz",
+      "Qi Sun",
+      "Siwei Yang",
+      "Haoqin Tu",
+      "Cihang Xie",
+      "Yinzhi Cao",
+      "Alvaro A Cardenas"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2510.00181",
+    "doi": ""
+  },
+  {
+    "id": "arxiv251000182",
+    "title": "A Systematic Study of Large Language Models for Task and Motion Planning With PDDLStream",
+    "authors": [
+      "Jorge Mendez-Mendez"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2510.00182",
+    "doi": ""
+  },
+  {
+    "id": "arxiv251003342",
+    "title": "Gemini Robotics 1.5: Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer",
+    "authors": [
+      "Gemini Robotics Team"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2510.03342",
+    "doi": ""
+  },
+  {
+    "id": "arxiv251003469",
+    "title": "Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification",
+    "authors": [
+      "Keshav Ramani",
+      "Vali Tawosi",
+      "Salwa Alamir",
+      "Daniel Borrajo"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2510.03469",
+    "doi": ""
+  },
+  {
+    "id": "arxiv251003827",
+    "title": "LIBERO-PRO: Towards Robust and Fair Evaluation of Vision-Language-Action Models Beyond Memorization",
+    "authors": [
+      "Xueyang Zhou",
+      "Yangming Xu",
+      "Guiyao Tie",
+      "Yongchao Chen",
+      "Guowen Zhang",
+      "Duanfeng Chu",
+      "Pan Zhou",
+      "Lichao Sun"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2510.03827",
+    "doi": ""
+  },
+  {
+    "id": "arxiv251004354",
+    "title": "Reliable and Scalable Robot Policy Evaluation with Imperfect Simulators",
+    "authors": [
+      "Apurva Badithela",
+      "David Snyder",
+      "Lihan Zha",
+      "Joseph Mikhail",
+      "Matthew O'Kelly",
+      "Anushri Dixit",
+      "Anirudha Majumdar"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2510.04354",
+    "doi": ""
+  },
+  {
+    "id": "arxiv251011660",
+    "title": "ManiAgent: An Agentic Framework for General Robotic Manipulation",
+    "authors": [
+      "Yi Yang",
+      "Kefan Gu",
+      "Yuqing Wen",
+      "Hebei Li",
+      "Yucheng Zhao",
+      "Tiancai Wang",
+      "Xudong Liu"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2510.11660",
+    "doi": ""
+  },
+  {
+    "id": "arxiv251013626",
+    "title": "LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models",
+    "authors": [
+      "Senyu Fei",
+      "Siyin Wang",
+      "Junhao Shi",
+      "Zihao Dai",
+      "Jikun Cai",
+      "Pengfang Qian",
+      "Li Ji",
+      "Xinzhe He",
+      "Shiduo Zhang",
+      "Zhaoye Fei",
+      "Jinlan Fu",
+      "Jingjing Gong",
+      "Xipeng Qiu"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2510.13626",
+    "doi": ""
+  },
+  {
+    "id": "arxiv251021302",
+    "title": "Towards Reliable Code-as-Policies: A Neuro-Symbolic Framework for Embodied Task Planning",
+    "authors": [
+      "Sanghyun Ahn",
+      "Wonje Choi",
+      "Junyong Lee",
+      "Jinwoo Park",
+      "Honguk Woo"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2510.21302",
+    "doi": ""
+  },
+  {
+    "id": "arxiv251023571",
+    "title": "RobotArena ∞: Scalable Robot Benchmarking via Real-to-Sim Translation",
+    "authors": [
+      "Yash Jangir",
+      "Yidi Zhang",
+      "Pang-Chi Lo",
+      "Kashu Yamazaki",
+      "Chenyu Zhang",
+      "Kuan-Hsun Tu",
+      "Tsung-Wei Ke",
+      "Lei Ke",
+      "Yonatan Bisk",
+      "Katerina Fragkiadaki"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2510.23571",
+    "doi": ""
+  },
+  {
+    "id": "arxiv251025850",
+    "title": "Debate2Create: Robot Co-design via Multi-Agent LLM Debate",
+    "authors": [
+      "Kevin Qiu",
+      "Marek Cygan"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2510.25850",
+    "doi": ""
+  },
+  {
+    "id": "arxiv251109964",
+    "title": "EnvTrace: Simulation-Based Semantic Evaluation of LLM Code via Execution Trace Alignment – Demonstrated at Synchrotron Beamlines",
+    "authors": [
+      "Noah van der Vleuten",
+      "Anthony Flores",
+      "Shray Mathur",
+      "Max Rakitin",
+      "Thomas Hopkins",
+      "Kevin G. Yager",
+      "Esther H. R. Tsai"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2511.09964",
+    "doi": ""
+  },
+  {
+    "id": "arxiv251202002",
+    "title": "LLM-Driven Corrective Robot Operation Code Generation with Static Text-Based Simulation",
+    "authors": [
+      "Wenhao Wang",
+      "Yi Rong",
+      "Yanyan Li",
+      "Long Jiao",
+      "Jiawei Yuan"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2512.02002",
+    "doi": ""
+  },
+  {
+    "id": "arxiv251206951",
+    "title": "Task adaptation of Vision-Language-Action model: 1st Place Solution for the 2025 BEHAVIOR Challenge",
+    "authors": [
+      "Ilia Larchenko",
+      "Gleb Zarin",
+      "Akash Karnatak"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2512.06951",
+    "doi": ""
+  },
+  {
+    "id": "arxiv251210675",
+    "title": "Evaluating Gemini Robotics Policies in a Veo World Simulator",
+    "authors": [
+      "Gemini Robotics Team",
+      "Krzysztof Choromanski",
+      "Coline Devin",
+      "Yilun Du",
+      "Debidatta Dwibedi",
+      "Ruiqi Gao",
+      "Abhishek Jindal",
+      "Thomas Kipf",
+      "Sean Kirmani",
+      "Isabel Leal",
+      "Fangchen Liu",
+      "Anirudha Majumdar",
+      "Andrew Marmon",
+      "Carolina Parada",
+      "Yulia Rubanova",
+      "Dhruv Shah",
+      "Vikas Sindhwani",
+      "Jie Tan",
+      "Fei Xia",
+      "Ted Xiao",
+      "Sherry Yang",
+      "Wenhao Yu",
+      "Allan Zhou"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2512.10675",
+    "doi": ""
+  },
+  {
+    "id": "arxiv251216881",
+    "title": "PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies",
+    "authors": [
+      "Arhan Jain",
+      "Mingtong Zhang",
+      "Kanav Arora",
+      "William Chen",
+      "Marcel Torne",
+      "Muhammad Zubair Irshad",
+      "Sergey Zakharov",
+      "Yue Wang",
+      "Sergey Levine",
+      "Chelsea Finn",
+      "Wei-Chiu Ma",
+      "Dhruv Shah",
+      "Abhishek Gupta",
+      "Karl Pertsch"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2512.16881",
+    "doi": ""
+  },
+  {
+    "id": "arxiv251217853",
+    "title": "AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning",
+    "authors": [
+      "Ran Gong",
+      "Xiaohan Zhang",
+      "Jinghuan Shang",
+      "Maria Vittoria Minniti",
+      "Jigarkumar Patel",
+      "Valerio Pepe",
+      "Riedana Yan",
+      "Ahmet Gundogdu",
+      "Ivan Kapelyukh",
+      "Ali Abbas",
+      "Xiaoqiang Yan",
+      "Harsh Patel",
+      "Laura Herlant",
+      "Karl Schmeckpeper"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2512.17853",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260100675",
+    "title": "RoboReward: General-Purpose Vision-Language Reward Models for Robotics",
+    "authors": [
+      "Tony Lee",
+      "Andrew Wagenmaker",
+      "Karl Pertsch",
+      "Percy Liang",
+      "Sergey Levine",
+      "Chelsea Finn"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2601.00675",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260102669",
+    "title": "Towards Comprehensive Stage-wise Benchmarking of Large Language Models in Fact-Checking",
+    "authors": [
+      "Hongzhan Lin",
+      "Zixin Chen",
+      "Zhiqi Shen",
+      "Ziyang Luo",
+      "Zhen Ye",
+      "Jing Ma",
+      "Tat-Seng Chua",
+      "Guandong Xu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2601.02669",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260105356",
+    "title": "PRISM: Protocol Refinement through Intelligent Simulation Modeling",
+    "authors": [
+      "Brian Hsu",
+      "Priyanka V Setty",
+      "Rory M Butler",
+      "Ryan Lewis",
+      "Casey Stone",
+      "Rebecca Weinberg",
+      "Thomas Brettin",
+      "Rick Stevens",
+      "Ian Foster",
+      "Arvind Ramanathan"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2601.05356",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260115164",
+    "title": "V-CAGE: Context-Aware Generation and Verification for Scalable Long-Horizon Embodied Tasks",
+    "authors": [
+      "Yaru Liu",
+      "Ao-bo Wang",
+      "Nanyang Ye"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2601.15164",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260115486",
+    "title": "An LLM-Agnostic, MAVLink-Based Drone Command and Control Interface and Agentic Harness Using the Model Context Protocol",
+    "authors": [
+      "Javier Noé Ramos Silva",
+      "Peter J. Burke"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2601.15486",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260119510",
+    "title": "ALRM: Agentic LLM for Robotic Manipulation",
+    "authors": [
+      "Vitor Gaboardi dos Santos",
+      "Ibrahim Khadraoui",
+      "Ibrahim Farhat",
+      "Hamza Yous",
+      "Samy Teffahi",
+      "Hakim Hacid"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2601.19510",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260120334",
+    "title": "Demonstration-Free Robotic Control via LLM Agents",
+    "authors": [
+      "Brian Y. Tsui",
+      "Alan Y. Fang",
+      "Tiffany J. Hwu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2601.20334",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260121570",
+    "title": "From Digital to Physical: Digital Agents as Autonomous Coaches for Physical Intelligence",
+    "authors": [
+      "Zixing Lei",
+      "Genjia Liu",
+      "Yuanshuo Zhang",
+      "Qipeng Liu",
+      "Yuzhu Cai",
+      "Sixiang Chen",
+      "Jixian Wu",
+      "Yunhong Wang",
+      "Weixin Li",
+      "Chuan Wen",
+      "Bo Zhao",
+      "Shanghang Zhang",
+      "Wenzhao Lian",
+      "Siheng Chen"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2601.21570",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260201041",
+    "title": "Coordinated Control of Multiple Construction Machines Using LLM-Generated Behavior Trees with Flag-Based Synchronization",
+    "authors": [
+      "Akinosuke Tsutsumi",
+      "Tomoya Itsuka",
+      "Yuichiro Kasahara",
+      "Tomoya Kouno",
+      "Kota Akinari",
+      "Genki Yamauchi",
+      "Daisuke Endo",
+      "Taro Abe",
+      "Takeshi Hashimoto",
+      "Keiji Nagatani",
+      "Ryo Kurazume"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2602.01041",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260201870",
+    "title": "BTGenBot-2: Efficient Behavior Tree Generation with Small Language Models",
+    "authors": [
+      "Riccardo Andrea Izzo",
+      "Gianluca Bardaro",
+      "Matteo Matteucci"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2602.01870",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260206556",
+    "title": "LIBERO-X: Robustness Litmus for Vision-Language-Action Models",
+    "authors": [
+      "Guodong Wang",
+      "Chenkai Zhang",
+      "Qingjie Liu",
+      "Jinjin Zhang",
+      "Jiancheng Cai",
+      "Junjie Liu",
+      "Xinmin Liu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2602.06556",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260208971",
+    "title": "WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models",
+    "authors": [
+      "Yu Shang",
+      "Zhuohang Li",
+      "Yiding Ma",
+      "Weikang Su",
+      "Xin Jin",
+      "Ziyou Wang",
+      "Lei Jin",
+      "Xin Zhang",
+      "Yinzhou Tang",
+      "Haisheng Su",
+      "Chen Gao",
+      "Wei Wu",
+      "Xihui Liu",
+      "Dhruv Shah",
+      "Zhaoxiang Zhang",
+      "Zhibo Chen",
+      "Jun Zhu",
+      "Yonghong Tian",
+      "Tat-Seng Chua",
+      "Wenwu Zhu",
+      "Yong Li"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2602.08971",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260300455",
+    "title": "Test-Driven Agentic Framework for Reliable Robot Controller",
+    "authors": [
+      "Shivanshu Tripathi",
+      "Reza Akbarian Bafghi",
+      "Maziar Raissi"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2603.00455",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260301414",
+    "title": "Jailbreaking Embodied LLMs via Action-level Manipulation",
+    "authors": [
+      "Xinyu Huang",
+      "Qiang Yang",
+      "Leming Shen",
+      "Zijing Ma",
+      "Yuanqing Zheng"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2603.01414",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260301505",
+    "title": "FATE: Closed-Loop Feasibility-Aware Task Generation with Active Repair for Physically Grounded Robotic Curricula",
+    "authors": [
+      "Bingchuan Wei",
+      "Bingqi Huang",
+      "Jingheng Ma",
+      "Zeyu zhang",
+      "Sen Cui"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2603.01505",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260304560",
+    "title": "From Local Corrections to Generalized Skills: Improving Neuro-Symbolic Policies with MEMO",
+    "authors": [
+      "Benjamin A. Christie",
+      "Yinlong Dai",
+      "Mohammad Bararjanianbahnamiri",
+      "Simon Stepputtis",
+      "Dylan P. Losey"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2603.04560",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260306842",
+    "title": "RoboCritics: Enabling Reliable End-to-End LLM Robot Programming through Expert-Informed Critics",
+    "authors": [
+      "Callie Y. Kim",
+      "Nathan Thomas White",
+      "Evan He",
+      "Frederic Sala",
+      "Bilge Mutlu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2603.06842",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260313616",
+    "title": "Beyond Binary Success: Sample-Efficient and Statistically Rigorous Robot Policy Comparison",
+    "authors": [
+      "David Snyder",
+      "Apurva Badithela",
+      "Nikolai Matni",
+      "George Pappas",
+      "Anirudha Majumdar",
+      "Masha Itkina",
+      "Haruki Nishimura"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2603.13616",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260318520",
+    "title": "Robotic Agentic Platform for Intelligent Electric Vehicle Disassembly",
+    "authors": [
+      "Zachary Allen",
+      "Max Conway",
+      "Lyle Antieau",
+      "Allen Ponraj",
+      "Nikolaus Correll"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2603.18520",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260319583",
+    "title": "Skilled AI Agents for Embedded and IoT Systems Development",
+    "authors": [
+      "Yiming Li",
+      "Yuhan Cheng",
+      "Mingchen Ma",
+      "Yihang Zou",
+      "Ningyuan Yang",
+      "Wei Cheng",
+      "Hai \"Helen\" Li",
+      "Yiran Chen",
+      "Tingjun Chen"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2603.19583",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260322435",
+    "title": "CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation",
+    "authors": [
+      "Letian Fu",
+      "Justin Yu",
+      "Karim El-Refai",
+      "Ethan Kou",
+      "Haoru Xue",
+      "Huang Huang",
+      "Wenli Xiao",
+      "Guanzhi Wang",
+      "Dantong Niu",
+      "Fei-Fei Li",
+      "Guanya Shi",
+      "Jiajun Wu",
+      "Shankar Sastry",
+      "Yuke Zhu",
+      "Ken Goldberg",
+      "Linxi \"Jim\" Fan"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2603.22435",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260326997",
+    "title": "ROSClaw: An OpenClaw ROS 2 Framework for Agentic Robot Control and Interaction",
+    "authors": [
+      "Irvin Steve Cardenas",
+      "Marcus Anthony Arnett",
+      "Natalie Catherine Yeo",
+      "Lucky Sah",
+      "Jong-Hoon Kim"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2603.26997",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260403144",
+    "title": "InCoder-32B-Thinking: Industrial Code World Model for Thinking",
+    "authors": [
+      "Jian Yang",
+      "Wei Zhang",
+      "Jiajun Wu",
+      "Junhang Cheng",
+      "Tuney Zheng",
+      "Fanglin Xu",
+      "Weicheng Gu",
+      "Lin Jing",
+      "Yaxin Du",
+      "Joseph Li",
+      "Yizhi Li",
+      "Yan Xing",
+      "Chuan Hao",
+      "Ran Tao",
+      "Ruihao Gong",
+      "Aishan Liu",
+      "Zhoujun Li",
+      "Mingjie Tang",
+      "Chenghua Lin",
+      "Siheng Chen",
+      "Wayne Xin Zhao",
+      "Xianglong Liu",
+      "Ming Zhou",
+      "Bryan Dai",
+      "Weifeng Lv"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2604.03144",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260405427",
+    "title": "Pre-Execution Safety Gate & Task Safety Contracts for LLM-Controlled Robot Systems",
+    "authors": [
+      "Ike Obi",
+      "Vishnunandan L. N. Venkatesh",
+      "Weizheng Wang",
+      "Ruiqi Wang",
+      "Dayoon Suh",
+      "Temitope I. Amosa",
+      "Wonse Jo",
+      "Byung-Cheol Min"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2604.05427",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260422238",
+    "title": "CodeGraphVLP: Code-as-Planner Meets Semantic-Graph State for Non-Markovian Vision-Language-Action Models",
+    "authors": [
+      "Khoa Vo",
+      "Sieu Tran",
+      "Taisei Hanyu",
+      "Yuki Ikebe",
+      "Duy Nguyen",
+      "Nghi D. Q. Bui",
+      "Minh Vu",
+      "Anthony Gunderman",
+      "Chase Rainwater",
+      "Anh Nguyen",
+      "Ngan Le"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2604.22238",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260428056",
+    "title": "RHyVE: Competence-Aware Verification and Phase-Aware Deployment for LLM-Generated Reward Hypotheses",
+    "authors": [
+      "Feiyu Wu",
+      "Xu Zheng",
+      "Zhuocheng Wang",
+      "Yi ming Dai",
+      "Hui Li"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2604.28056",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260509423",
+    "title": "SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning",
+    "authors": [
+      "Haoqiang Kang",
+      "Xiaokang Ye",
+      "Yuhan Liu",
+      "Siddhant Hitesh Mantri",
+      "Lingjun Mao",
+      "James Fleming",
+      "Drishti Regmi",
+      "Lianhui Qin"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2605.09423",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260511859",
+    "title": "EvoNav: Evolutionary Reward Function Design for Robot Navigation with Large Language Models",
+    "authors": [
+      "Zhikai Zhao",
+      "Chuanbo Hua",
+      "Federico Berto",
+      "Zihan Ma",
+      "Kanghoon Lee",
+      "Jiachen Li",
+      "Jinkyoo Park"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2605.11859",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260515187",
+    "title": "Articraft: An Agentic System for Scalable Articulated 3D Asset Generation",
+    "authors": [
+      "Matt Zhou",
+      "Ruining Li",
+      "Xiaoyang Lyu",
+      "Zhaomou Song",
+      "Zhening Huang",
+      "Chuanxia Zheng",
+      "Christian Rupprecht",
+      "Andrea Vedaldi",
+      "Shangzhe Wu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2605.15187",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260518747",
+    "title": "Code as Agent Harness",
+    "authors": [
+      "Xuying Ning",
+      "Katherine Tieu",
+      "Dongqi Fu",
+      "Tianxin Wei",
+      "Zihao Li",
+      "Yuanchen Bei",
+      "Jiaru Zou",
+      "Mengting Ai",
+      "Zhining Liu",
+      "Ting-Wei Li",
+      "Lingjie Chen",
+      "Yanjun Zhao",
+      "Ke Yang",
+      "Bingxuan Li",
+      "Cheng Qian",
+      "Gaotang Li",
+      "Xiao Lin",
+      "Zhichen Zeng",
+      "Ruizhong Qiu",
+      "Sirui Chen",
+      "Yifan Sun",
+      "Xiyuan Yang",
+      "Ruida Wang",
+      "Rui Pan",
+      "Chenyuan Yang",
+      "Dylan Zhang",
+      "Liri Fang",
+      "Zikun Cui",
+      "Yang Cao",
+      "Pan Chen",
+      "Dorothy Sun",
+      "Ren Chen",
+      "Mahesh Srinivasan",
+      "Nipun Mathur",
+      "Yinglong Xia",
+      "Hong Li",
+      "Hong Yan",
+      "Pan Lu",
+      "Lingming Zhang",
+      "Tong Zhang",
+      "Hanghang Tong",
+      "Jingrui He"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2605.18747",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260519328",
+    "title": "RoboJailBench: Benchmarking Adversarial Attacks and Defenses in Embodied Robotic Agents",
+    "authors": [
+      "Doguhuan Yeke",
+      "Yanming Zhou",
+      "Leo Y. Lin",
+      "Hongyu Cai",
+      "Antonio Bianchi",
+      "Z. Berkay Celik"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2605.19328",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260522148",
+    "title": "Ratchet: How Reliable Must an LLM Judge Be to Retire a Skill?",
+    "authors": [
+      "Xing Zhang",
+      "Yanwei Cui",
+      "Guanghui Wang",
+      "Ziyuan Li",
+      "Wei Qiu",
+      "Bing Zhu",
+      "Peiyang He"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2605.22148",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260525832",
+    "title": "When Search Becomes Memory: Accelerating Robot Design Discovery with Self-Evolving Skills",
+    "authors": [
+      "Yunfei Wang",
+      "Xiaohao Xu",
+      "Yang Li",
+      "Xiaonan Huang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2605.25832",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260600083",
+    "title": "From Demonstrations to Rewards: Test-Time Prompt Optimization for VLM Reward Models",
+    "authors": [
+      "Christian Gumbsch",
+      "Leonardo Barcellona",
+      "Lennard Schünemann",
+      "Platon Karageorgis",
+      "Andrii Zadaianchuk",
+      "Zehao Wang",
+      "Sergey Zakharov",
+      "Fabien Despinoy",
+      "Rahaf Aljundi",
+      "Efstratios Gavves"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2606.00083",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260600773",
+    "title": "SafeVLA-Bench: A Benchmark for the Success-Safety Gap in Vision-Language-Action Models",
+    "authors": [
+      "Jialiang Fan",
+      "Weizhe Xu",
+      "Zijun Wang",
+      "Oleg Sokolsky",
+      "Insup Lee",
+      "Fanxin Kong"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2606.00773",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260601672",
+    "title": "RDA: Reward Design Agent for Reinforcement Learning",
+    "authors": [
+      "Hojoon Lee",
+      "Ajay Subramanian",
+      "Ben Abbatematteo",
+      "Vijay Veerabadran",
+      "Pedro Matias",
+      "Karl Ridgeway",
+      "Nitin Kamra"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2606.01672",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260603047",
+    "title": "ModuLoop: Low-Level Code Generation using Modular Synthesizer and Closed-Loop Debugger for Robotic Control",
+    "authors": [
+      "Gina Yoon",
+      "Sumin Lee",
+      "Joo Yong Sim"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2606.03047",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260605395",
+    "title": "VASO: Formally Verifiable Self-Evolving Skills for Physical AI Agents",
+    "authors": [
+      "Yunhao Yang",
+      "Neel P. Bhatt",
+      "Kevin Wang",
+      "Samuel Tetteh",
+      "Zhangyang Wang",
+      "Ufuk Topcu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2606.05395",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260607999",
+    "title": "Efficient Skill Grounding via Code Refactoring with Small Language Models",
+    "authors": [
+      "Sera Choi",
+      "Wonje Choi",
+      "Saehun Chun",
+      "Daehee Lee",
+      "Jooyoung Kim",
+      "Chaeun Lee",
+      "Honguk Woo"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2606.07999",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260608610",
+    "title": "HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning",
+    "authors": [
+      "Zechu Li",
+      "Yufeng Jin",
+      "Xiaoyang Liu",
+      "Puze Liu",
+      "Vignesh Prasad",
+      "Carlo D'Eramo",
+      "Georgia Chalvatzaki"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2606.08610",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260611150",
+    "title": "ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity",
+    "authors": [
+      "Andrew Bo Liu",
+      "Samira Nedungadi",
+      "Bryce Cai",
+      "Alex Kleinman",
+      "Harmon Bhasin",
+      "Seth Donoughe"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2606.11150",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260616458",
+    "title": "RHO: Your Coding Agent is Secretly a Roboticist",
+    "authors": [
+      "Karim Elmaaroufi",
+      "Justin Svegliato",
+      "Sarunas Kalade",
+      "Graham Schelle",
+      "Sanjit A. Seshia",
+      "Matei Zaharia"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2606.16458",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260619419",
+    "title": "Playful Agentic Robot Learning",
+    "authors": [
+      "Junyi Zhang",
+      "Jiaxin Ge",
+      "Hanjun Yoo",
+      "Letian Fu",
+      "Zihan Yang",
+      "Yaowei Liu",
+      "Raj Saravanan",
+      "Shaofeng Yin",
+      "Justin Yu",
+      "Dantong Niu",
+      "Zirui Wang",
+      "Roei Herzig",
+      "Ken Goldberg",
+      "Yutong Bai",
+      "David M. Chan",
+      "Ion Stoica",
+      "Angjoo Kanazawa",
+      "Jiahui Lei",
+      "Haiwen Feng",
+      "Trevor Darrell"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2606.19419",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260619980",
+    "title": "ENPIRE: Agentic Robot Policy Self-Improvement in the Real World",
+    "authors": [
+      "Wenli Xiao",
+      "Jia Xie",
+      "Tonghe Zhang",
+      "Haotian Lin",
+      "Letian \"Max\" Fu",
+      "Haoru Xue",
+      "Jalen Lu",
+      "Yi Yang",
+      "Cunxi Dai",
+      "Zi Wang",
+      "Jimmy Wu",
+      "Guanzhi Wang",
+      "S. Shankar Sastry",
+      "Ken Goldberg",
+      "Linxi \"Jim\" Fan",
+      "Yuke Zhu",
+      "Guanya Shi"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2606.19980",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260623280",
+    "title": "Causal Reward World Models: Zero-shot Reward Design for Automated Skill Generation",
+    "authors": [
+      "Yang Yang",
+      "Yuchuang Tong",
+      "Zhengtao Zhang",
+      "Xu Ding",
+      "Ning Yang",
+      "Yifan Zhang",
+      "Haipeng Li",
+      "Kehu Yang",
+      "Miao Xin"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2606.23280",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260626294",
+    "title": "The Red Queen Gödel Machine: Co-Evolving Agents and Their Evaluators",
+    "authors": [
+      "Alex Iacob",
+      "Andrej Jovanović",
+      "William F. Shen",
+      "Daniel Burkhardt",
+      "Meghdad Kurmanji",
+      "Nurbek Tastan",
+      "Lorenzo Sani",
+      "Niccolò Alberto Elia Venanzi",
+      "Jiayi Nie",
+      "Ambroise Odonnat",
+      "Zeyu Cao",
+      "Bill Marino",
+      "Xinchi Qiu",
+      "Rika Antonova",
+      "Nicholas D. Lane"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2606.26294",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260627231",
+    "title": "A hardware-safety-gated system for LLM-written native ARTIQ control code on a trapped-ion platform",
+    "authors": [
+      "Duanyang Wang",
+      "Lu Qi",
+      "Yuanheng Xie",
+      "Norbert M. Linke",
+      "Kenneth R. Brown"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2606.27231",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260700272",
+    "title": "ASPIRE: Agentic /Skills Discovery for Robotics",
+    "authors": [
+      "Runyu Lu",
+      "Yubo Wu",
+      "Ethan Kou",
+      "Letian Fu",
+      "Wenli Xiao",
+      "Ajay Mandlekar",
+      "Yinzhen Xu",
+      "Guanya Shi",
+      "Ken Goldberg",
+      "Ang Chen",
+      "Mosharaf Chowdhury",
+      "Yuke Zhu",
+      "Linxi \"Jim\" Fan",
+      "Guanzhi Wang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2607.00272",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260701060",
+    "title": "RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation",
+    "authors": [
+      "Byeongguk Jeon",
+      "Seonghyeon Ye",
+      "JaeHyeok Doo",
+      "Sungdong Kim",
+      "Minjoon Seo",
+      "Hyungmok Son",
+      "Kimin Lee"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2607.01060",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260704434",
+    "title": "RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies",
+    "authors": [
+      "Tianxing Chen",
+      "Yue Chen",
+      "Zixuan Li",
+      "Junyuan Tang",
+      "Kailun Su",
+      "Haoran Lu",
+      "Weijie Wan",
+      "Baijun Chen",
+      "Songling Liu",
+      "Haowen Yan",
+      "Honghao Su",
+      "Zhiyang Dou",
+      "Kaixuan Wang",
+      "Dandan Zhang",
+      "Yunze Liu",
+      "Yan Qin",
+      "Qiwei Liang",
+      "Qiwei Wu",
+      "Zijian Lin",
+      "Wenwei Lin",
+      "Yuran Wang",
+      "Minghua He",
+      "Tianshu Wu",
+      "Ruihai Wu",
+      "Jingquan Zhou",
+      "Kai-Chong Lei",
+      "Haibao Yu",
+      "Yuanfeng Ji",
+      "Weiyang Jin",
+      "Guanyu Lin",
+      "Xiaofan Li",
+      "Qi Xiong",
+      "Renjing Xu",
+      "Zhongyu Li",
+      "Wenhao Chai",
+      "Enze Xie",
+      "Ziwei Wang",
+      "Yao Mu",
+      "Hao Dong",
+      "Wojciech Matusik",
+      "Mingyu Ding",
+      "Wenbo Ding",
+      "Ping Luo",
+      "Masayoshi Tomizuka"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2607.04434",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260706256",
+    "title": "Diagnosing Semantic Handoff Failures in Agent-Orchestrated Vision-Language-Action Skill Composition",
+    "authors": [
+      "Ke Rui",
+      "Yushen Zuo",
+      "Jiawei Wang",
+      "Haoran Jia",
+      "Jinming Ma",
+      "Weitao Zhou",
+      "Minglei Li"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2607.06256",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260708448",
+    "title": "Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents",
+    "authors": [
+      "Yixian Zhang",
+      "Huanming Zhang",
+      "Feng Gao",
+      "Xiao Li",
+      "Zhihao Liu",
+      "Yi Nie",
+      "Chunyang Zhu",
+      "Jiaxing Qiu",
+      "Yuchen Yan",
+      "Jiyuan Liu",
+      "Wenhao Tang",
+      "Jiaji Rao",
+      "Zhengru Fang",
+      "Changxu Wei",
+      "Yu Wang",
+      "Wenbo Ding",
+      "Chao Yu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2607.08448",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260712220",
+    "title": "Contract-Grounded Behavior Tree Synthesis via Coding Agents",
+    "authors": [
+      "Jonathan Salfity",
+      "Robert Blake Anderson",
+      "Mitch Pryor"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2607.12220",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260714387",
+    "title": "Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving",
+    "authors": [
+      "Yuan Gao",
+      "Wenting Miao",
+      "Mattia Piccinini",
+      "Haoyu Wang",
+      "Qunying Song",
+      "Johannes Betz"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2607.14387",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260715620",
+    "title": "AEGIS: Assay-Aware Protocol Validation and Runtime Monitoring for Open-Source Liquid Handling Robots",
+    "authors": [
+      "Priyanka V. Setty",
+      "Arvind Ramanathan",
+      "Ian Foster",
+      "Rick Stevens"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2607.15620",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260716636",
+    "title": "PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution",
+    "authors": [
+      "Yang Liu",
+      "Weixing Chen",
+      "Xinshuai Song",
+      "Tao Pu",
+      "Siwen Mo",
+      "Yongjie Bai",
+      "Zihao Chen",
+      "Qianran Sun",
+      "Liruo Zhong",
+      "Ying Shen",
+      "Liang Lin"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2607.16636",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260721725",
+    "title": "Addressing the Orchestration Gap in Generalist Robots via Physical Agency",
+    "authors": [
+      "Liane Galanti",
+      "Dhruv Shah",
+      "Tri Dao"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2607.21725",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260722832",
+    "title": "MEMENTO: Memory-Guided Memetic Code-as-Policy Evolution",
+    "authors": [
+      "Alkis Sygkounas",
+      "Victor Aregbede",
+      "Amy Loutfi",
+      "Andreas Persson"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2607.22832",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260723515",
+    "title": "LEACL: LLM-Enhanced Automatic Curriculum Learning for Reinforcement Learning in Long-Horizon Manipulation Tasks",
+    "authors": [
+      "Faraz Heravi",
+      "James Ouyang",
+      "Zifan Xu",
+      "Arjun Kumar",
+      "Yoonchang Sung",
+      "Peter Stone"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2607.23515",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260800747",
+    "title": "When Prompts Control Robots: Prompt Injection Attacks in Multi-Agent Robotic Systems",
+    "authors": [
+      "Neha Nagaraja",
+      "Amisha Bagari",
+      "Hayretdin Bahsi"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.00747",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260801851",
+    "title": "Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills",
+    "authors": [
+      "Gaytri Jena",
+      "Kapil Wanaskar",
+      "Vinija Jain",
+      "Aman Chadha",
+      "Vasu Sharma",
+      "Amitava Das"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.01851",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260805715",
+    "title": "Hijacking Robots with a Piece of Paper: A Systematic Study of Physical Prompt Injection in VLM-Controlled Robots",
+    "authors": [
+      "S. M . Bhagya P. Samarakoon",
+      "M. A. Viraj J. Muthugala",
+      "W. K. R. Sachinthana",
+      "Mohan Rajesh Elara"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.05715",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260807555",
+    "title": "You Don't Need To Stay in The Loop: An Agentic Robotics Loop for Robot-Policy Improvement",
+    "authors": [
+      "Hang Yu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.07555",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260808884",
+    "title": "SHRIMP: Iterative Refinement of Robot Task Plans",
+    "authors": [
+      "Mya Schroder",
+      "Yuna Hwang",
+      "Callie Y. Kim",
+      "Leqian Cheng",
+      "Jeffrey Li-cheng Liu",
+      "Chenchen Zheng",
+      "Xinning He",
+      "Bilge Mutlu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.08884",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260809410",
+    "title": "Skills in Weights, Memory in Code: Hybrid Learning for Memory-Dependent Robot Manipulation",
+    "authors": [
+      "Yunhao Zhao",
+      "Zhenyang Ni",
+      "Haoyang Chen",
+      "Ruohan Zhang",
+      "Qi Zhu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.09410",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260811246",
+    "title": "Towards the Harness of Embodied Agents",
+    "authors": [
+      "Qi Wang",
+      "Tianyi Wang",
+      "Chengyang Li",
+      "Shikun Ban",
+      "Yurun Chen",
+      "Yizhong Ge",
+      "Jason Qin",
+      "Chengtai Li",
+      "Wentao Zhu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.11246",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260811350",
+    "title": "Self-Evolving Embodied Agents via Skill-Harness Evolution",
+    "authors": [
+      "Peidong Wang",
+      "Zhiming Ma",
+      "Ying Chang",
+      "Xufang Luo",
+      "Yiqun Zhang",
+      "Zihan Wang",
+      "Xiaocui Yang",
+      "Shi Feng",
+      "Yuqing Yang",
+      "Dongsheng Li"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.11350",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260814590",
+    "title": "Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement",
+    "authors": [
+      "Pierre Dantas",
+      "Lucas Cordeiro",
+      "Ehsan Nowroozi",
+      "Tihanyi Norbert"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.14590",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260814944",
+    "title": "SkillComposer: Learning Reusable Skills for Natural-Language Robot Programming",
+    "authors": [
+      "John Woods",
+      "Hasti Seifi"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.14944",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260816590",
+    "title": "Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence",
+    "authors": [
+      "Xin Ding",
+      "Liang Mi",
+      "Mingzhe Huang",
+      "Zixuan Wang",
+      "Chao Zhang",
+      "Zixu Hao",
+      "Fu Chen",
+      "Xiangyu Li",
+      "Yikai Zheng",
+      "Yaoyu Guo",
+      "Weijun Wang",
+      "Kun Li",
+      "Hao Wu",
+      "Yunxin Liu",
+      "Ting Cao"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.16590",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260816889",
+    "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
+    "authors": [
+      "Bingxin Xu",
+      "Yuzhang Shang",
+      "Emilio Ferrara"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.16889",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260816978",
+    "title": "VLCP: Vision Language Control Policy Closed-Loop Code Replanning for Robot Manipulation",
+    "authors": [
+      "Dhia Naouali",
+      "Minghan Wu",
+      "Claudia Wong",
+      "Abhinav Puthran",
+      "Omar G. Younis"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.16978",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260817209",
+    "title": "Teach and Grow: An Agent-Centered Architecture for General Robot Learning",
+    "authors": [
+      "Chang Nie",
+      "Zhe Liu",
+      "Hesheng Wang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.17209",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260818227",
+    "title": "Revisiting the \"Push-T\" Robot Manipulation Task with Agentic Robotics",
+    "authors": [
+      "Shuangyu Xie",
+      "Kaiyuan Chen",
+      "Ken Goldberg"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.18227",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260818565",
+    "title": "SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation",
+    "authors": [
+      "Yanlun Tu",
+      "Huacan Wang",
+      "Ziyue Zhou",
+      "Jie Zhou",
+      "Ningyan Zhu",
+      "Ge Chen",
+      "Wangyi Chen",
+      "Tengfei Zhou",
+      "Yifan Zhou",
+      "Dasheng Yang",
+      "Xiaofeng Mou",
+      "Hui Zhang",
+      "Yi Xu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.18565",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260818827",
+    "title": "MLREF: Efficient Module Reuse for Reward Design in Reinforcement Learning via Large Language Models",
+    "authors": [
+      "Chenglin Liu",
+      "Xun Wang",
+      "Ruishuo Chen",
+      "Zhuoran Li",
+      "Longbo Huang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.18827",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260821417",
+    "title": "Retrieval-grounded robot program generation and simulation-based correction via Model Context Protocol",
+    "authors": [
+      "Zhichao Zhou",
+      "Siyuan Chen",
+      "Omkar Salunkhe",
+      "Ebru Turanoglu Bekar",
+      "Johan Stahre",
+      "Anders Skoogh"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.21417",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260821964",
+    "title": "Repo2Skill-Evo: Repository Skills Go Stale in Silence",
+    "authors": [
+      "Chenyuan Duan",
+      "Ge Shi",
+      "Zineng Mao",
+      "Ge Zhang",
+      "Hao Liang",
+      "Yinzhu Piao",
+      "Yuchen Wu",
+      "Zhixin Yao",
+      "Kaiyu Huang",
+      "Wenhao Huang",
+      "Linzhuang Sun",
+      "Shen Yan",
+      "Wentao Zhang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.21964",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260827549",
+    "title": "Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning",
+    "authors": [
+      "Hanyang Wang",
+      "Yimo Cai",
+      "Weiliang Chen",
+      "Jiawei Chi",
+      "Haowen Sun",
+      "Qiyu Dai",
+      "Yi-Hsin Hung",
+      "Xingzhuo Guo",
+      "Jinshan Ren",
+      "Runmao Yao",
+      "Ziwei Liu",
+      "Mingsheng Long",
+      "Yueqi Duan",
+      "Jun Gao",
+      "Jiangran Lyu",
+      "Fangfu Liu",
+      "Jialong Wu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.27549",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260830760",
+    "title": "PRACTICE: From Experience to Expertise in Self-Evolving Embodied Agents",
+    "authors": [
+      "Ziyi Bai",
+      "Siqi Li",
+      "Tinglei Huang",
+      "Börje F. Karlsson"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.30760",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260903611",
+    "title": "FailBench: How Reliable are VLMs at Judging Robot Task Success?",
+    "authors": [
+      "Zaruhi Navasardyan",
+      "Tatul Danielyan",
+      "Hrant Davtyan"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.03611",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260905401",
+    "title": "Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models",
+    "authors": [
+      "Wonje Jeung",
+      "Sangyeon Yoon",
+      "Hyesoo Hong",
+      "Yoonjun Cho",
+      "Dongjae Jeon",
+      "Bumjun Kim",
+      "Jean Oh",
+      "Youngjae Yu",
+      "Albert No"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.05401",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260907111",
+    "title": "From LLM-Generated Specifications to Learned Quadruped Locomotion",
+    "authors": [
+      "Merve Atasever",
+      "Keyan Azbijari",
+      "Cagan Bakirci",
+      "Alfredo Reina Corona",
+      "Tolga Izdas",
+      "Richard Yang",
+      "Erdem Biyik",
+      "Jyotirmoy V. Deshmukh"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.07111",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260909250",
+    "title": "No Free Checker: A Survey of Verifiers for Robot Policies",
+    "authors": [
+      "Yang Wan",
+      "Xihang Yue",
+      "Zhirui Liu",
+      "Ziyuan Chu",
+      "Shuxun Wang",
+      "Yuhan Chen",
+      "Xiaonan Jiang",
+      "Xukun Zhu",
+      "Yubo Dong",
+      "Linchao Zhu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.09250",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260910522",
+    "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+    "authors": [
+      "Yanzhe Chen",
+      "Zechen Bai",
+      "Zhijun Cao",
+      "Wenzheng Zeng",
+      "Kevin Qinghong Lin",
+      "Yiqi Lin",
+      "Guoqiang Liang",
+      "Kevin Yuchen Ma",
+      "Qiming Huang",
+      "Mike Zheng Shou"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.10522",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260910873",
+    "title": "When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents",
+    "authors": [
+      "Qinzhen Ma",
+      "Ruihai Wu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.10873",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260912541",
+    "title": "Agent as Policy for Robotic Manipulation",
+    "authors": [
+      "Mengzhao Jia",
+      "Yang Lin",
+      "Xixin Zhang",
+      "Zhihan Zhang",
+      "Xiaobai Liu",
+      "Meng Jiang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.12541",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260916679",
+    "title": "AI for Games in the Foundation Model Era",
+    "authors": [
+      "Meng Luo",
+      "Yanlin Li",
+      "Hao Li",
+      "Hongzhan Lin",
+      "Pengfei Zhou",
+      "Tianjie Ju",
+      "Ran Zhang",
+      "Yeying Jin",
+      "Mong-Li Lee",
+      "Wynne Hsu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.16679",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260918994",
+    "title": "A Benchmark Suite and Ground-Truth Methodology for Formal Verification of IEC 61131-3 Ladder Diagram Programs",
+    "authors": [
+      "Pierre Dantas",
+      "Lucas Cordeiro",
+      "Waldir Junior"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.18994",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260919413",
+    "title": "From Rollout to Reset: A Graph-Based Harness for Autonomous Long-Horizon Manipulation Evaluation",
+    "authors": [
+      "Jing Jiang",
+      "Yue Yang",
+      "Xinkai Jiang",
+      "Gedas Bertasius",
+      "Daniel J. Szafir",
+      "Rudolf Lioutikov"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.19413",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260919906",
+    "title": "Learning and Transferring Closed-Loop Robot Software",
+    "authors": [
+      "So Kuroki",
+      "Yujin Tang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.19906",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260920822",
+    "title": "Coding Agents with Harness for Safe Robot Control",
+    "authors": [
+      "Bingxin Xu",
+      "Yuzhang Shang",
+      "Zhen Dong",
+      "Emilio Ferrara"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.20822",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260923103",
+    "title": "DiagGen: Agentic Generation of Deformable Assets with Sim-based Diagnostics for Robotic Simulation",
+    "authors": [
+      "Guanxiong Chen",
+      "Yiduo Qu",
+      "Qianjun Xia",
+      "Pengyu Jing",
+      "Yixian Cheng",
+      "Bole Ma",
+      "Pengzhi Yang",
+      "Bingyang Zhou",
+      "Ziming Li",
+      "Shashwat Suri",
+      "Gongbo Sun",
+      "Chao Liu",
+      "Peter Yichen Chen",
+      "Ziqiu Zeng",
+      "Fan Shi"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.23103",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260923133",
+    "title": "AquaCap: A Training-Free Underwater Embodied Agent with Code-as-Policy",
+    "authors": [
+      "Xiaoshi Li",
+      "Yule Xu",
+      "Chunghiu Kong",
+      "Yizhou Zhou",
+      "Yang Liu",
+      "Hao Yang",
+      "Zihao Huang",
+      "Yunxiao Shan"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.23133",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260924145",
+    "title": "MimicAgent: Quadruped Skills via Prompt-to-Trajectory Generation",
+    "authors": [
+      "Lucky Kant Nayak",
+      "Narayanan Palghat Parameswaran",
+      "Neehar Peri",
+      "Deva Ramanan"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.24145",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260924170",
+    "title": "An Unexpected Robot Policy: Early Evaluations of GPT-6 Astra on RoboDojo and Beyond",
+    "authors": [
+      "Wenbo Zhang",
+      "Kaixuan Wang",
+      "Yutao Ouyang",
+      "Xiaoyu Huang",
+      "Liyang Li",
+      "Kailun Su",
+      "Weiyang Jin",
+      "Wenhao Chai",
+      "Haotian Liang",
+      "Zhiyang Dou",
+      "Yue Chen",
+      "Tianxing Chen"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.24170",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260926499",
+    "title": "Generalizing Manipulation Skills with a Local Coding Agent",
+    "authors": [
+      "Raman Talwar",
+      "Elias Nijs",
+      "Andreas Verleysen",
+      "Francis wyffels"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.26499",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260927308",
+    "title": "EmbodiedSWE: Coding Agents for Long Horizon Dexterous Robotics",
+    "authors": [
+      "Zeyu Shen",
+      "Haoxiang You",
+      "Yilang Liu",
+      "Zhicheng Zheng",
+      "Lihan Zha",
+      "Kashu Yamazaki",
+      "Mingtong Zhang",
+      "Suning Huang",
+      "Jiankai Sun",
+      "Qianzhong Chen",
+      "Lucy He",
+      "Kaiyuan Liu",
+      "Haoran Chang",
+      "Katerina Fragkiadaki",
+      "Dhruv Shah",
+      "Mac Schwager",
+      "Peter Henderson",
+      "Ian Abraham",
+      "Canwen Xu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.27308",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260927612",
+    "title": "RegenHarness: A Robot Agent Harness with Evidence-Gated Recursive Self-Improvement",
+    "authors": [
+      "Kailin Wang",
+      "Haoxiang Jie",
+      "Yaoyuan Yan",
+      "Zhiyou Heng",
+      "Zhaosong Li"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.27612",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260929166",
+    "title": "HarnessPAI: An Evolving Harness for Physical AI",
+    "authors": [
+      "Xin Wang",
+      "Wenhao Wu",
+      "Menghao Zhang",
+      "Zhi Wang",
+      "Kun Shao",
+      "Jian Luan",
+      "Yang Li",
+      "Qing Li",
+      "Shangding Gu",
+      "Huichi Zhou",
+      "Shuqing Shi",
+      "Fei Ni",
+      "Shuo Lu",
+      "Weicheng Meng",
+      "Kang Li",
+      "Jin Wu",
+      "Kang Zhao",
+      "Shangmin Guo",
+      "Gen Li",
+      "Yongqiang Tang",
+      "Zhizhong Zhang",
+      "Yuan Xie",
+      "Heng Qu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.29166",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260929394",
+    "title": "RACaP: Agentic Reasoning, Acting, and Coding as Policies for Evolvable Robot Learning",
+    "authors": [
+      "Zexi Li",
+      "Yehang Zhang",
+      "Haojian Huang",
+      "Bohan Zhou",
+      "Wenqian Li",
+      "Chenxu Wang",
+      "Yifan Chang",
+      "Yangkai Wei",
+      "Tianyi Zhang",
+      "Ying-Cong Chen",
+      "Kaiwen Zhou",
+      "Yinchuan Li",
+      "James Cheng"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.29394",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260929964",
+    "title": "World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal",
+    "authors": [
+      "Yehang Zhang",
+      "Haojian Huang",
+      "Yifan Chang",
+      "Jianchong Su",
+      "Bohan Zhou",
+      "Yingjie Xu",
+      "Wosong Chen",
+      "Tianhao Zhou",
+      "Chenxu Wang",
+      "Tianyi Zhang",
+      "Yangkai Wei",
+      "Wenqian Li",
+      "Shiyuan Deng",
+      "Yinchuan Li",
+      "Ying-Cong Chen",
+      "Zexi Li"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.29964",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260930219",
+    "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority",
+    "authors": [
+      "Mehmet Iscan"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.30219",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260930233",
+    "title": "Coding Agents for Generalized Task and Motion Planning Problems",
+    "authors": [
+      "Matteo Merler",
+      "Bowen Li",
+      "Josh Roy",
+      "Yichao Liang",
+      "Qianwei Wang",
+      "Yixuan Huang",
+      "Tom Silver"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.30233",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260930249",
+    "title": "RAPID: Robot Agentic Programming from Demonstrations",
+    "authors": [
+      "Yuyao Liu",
+      "Jiayuan Mao",
+      "David Hsu",
+      "Leslie Pack Kaelbling",
+      "Tomás Lozano-Pérez"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.30249",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260930594",
+    "title": "HuGo: LLMs as Whole-Body Policy Code Designers for Humanoid Loco-Manipulation",
+    "authors": [
+      "Seoyeon Choi",
+      "Shizhao Ye",
+      "Nicholas Bui",
+      "Aayushi Shrivastava",
+      "Kanghyun Ryu",
+      "Dhruva Tirumala",
+      "Markus Wulfmeier",
+      "Negar Mehr"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.30594",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260931760",
+    "title": "What Stops Recursive Self-Improvement in Robotics? Lessons from 123 Rounds of Agentic Skill Discovery",
+    "authors": [
+      "Jiaming Wang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.31760",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260932416",
+    "title": "RE-0: Verified Recursive Improvement of Embodied Code-as-Policy Agents through Local On-Policy Distillation",
+    "authors": [
+      "Jiawei Zhang",
+      "Xiangrong Zhang",
+      "Rui Song",
+      "Huanbin Zhou",
+      "Chengye Song",
+      "Hongzhou Wang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.32416",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260933807",
+    "title": "CodeActionBench: Evaluating Agentic Code-as-Policy for Embodied Manipulation",
+    "authors": [
+      "Yiheng Lyu",
+      "Xueying Jiang",
+      "Wenhao Li",
+      "Shijian Lu",
+      "Gongjie Zhang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.33807",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260934210",
+    "title": "RLE-Bench: A Qualifying Exam for Coding Agents as Robot Learning Engineers",
+    "authors": [
+      "Haitong Ma",
+      "Chenxiao Gao",
+      "Rushi Qiang",
+      "Bo Dai",
+      "Na Li"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.34210",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260935432",
+    "title": "Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence",
+    "authors": [
+      "Hongcheng Gao",
+      "Jingjing Zhou",
+      "Zelin Zheng",
+      "Shijia Ge",
+      "Jay Zhu",
+      "Yazhe Wang",
+      "Jianshu Zeng",
+      "Xuan Shangguan",
+      "Di Wu",
+      "Lingyu He",
+      "Zhiqi Jia",
+      "Sihang Wu",
+      "Xiao He"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.35432",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260937359",
+    "title": "Encore: Few-Shot Agentic Discovery of Manipulation Strategies",
+    "authors": [
+      "Yifan Kang",
+      "Zihan Wang",
+      "Zhiwen Fan",
+      "Bangya Liu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.37359",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260937519",
+    "title": "Video2STL: Grounding VLM-Generated Temporal Specifications for Robot Learning",
+    "authors": [
+      "Merve Atasever",
+      "Keyan Azbijari",
+      "Cagan Bakirci",
+      "Bo-Ruei Huang",
+      "Tolga Izdas",
+      "Zahra Shahrooei",
+      "Richard Yang",
+      "Erdem Biyik",
+      "Jyotirmoy V. Deshmukh"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.37519",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260937583",
+    "title": "RoboHarn-Evo: Evolving Hierarchical Physical Knowledge for Self-Improving Robotic Manipulation",
+    "authors": [
+      "Shifeng Bao",
+      "Fanding Huang",
+      "Yihan Lin",
+      "Youhe Feng",
+      "Guanlin Li",
+      "Chen Zhao",
+      "Yang Li",
+      "Jiawei He",
+      "Cheng Chi",
+      "Jing Zhang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.37583",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260937771",
+    "title": "Faster and Better? Benchmark Bugs and Design Limitations Distort the Evaluation of Vision-Language-Action Acceleration",
+    "authors": [
+      "Qiwei Chen",
+      "Kaijun Zhou",
+      "Nuohui Shi",
+      "Zhiyang Li",
+      "Yuxuan Feng",
+      "Jinyu Gu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.37771",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260937810",
+    "title": "Explore, Execute, Evolve: A Skill Acquisition and Reuse Loop for Embodied Agents",
+    "authors": [
+      "Sicheng Xie",
+      "Yitong Chen",
+      "Haidong Cao",
+      "Shunlin Lu",
+      "Zuxuan Wu",
+      "Yu-Gang Jiang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.37810",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260938982",
+    "title": "SimEX: Simulation-Integrated Robotics AutoResearch",
+    "authors": [
+      "Jiaheng Hu",
+      "Roberto Martin-Martin",
+      "Peter Stone",
+      "Rocky Duan",
+      "Zhenyu Jiang",
+      "Guanya Shi"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.38982",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260939018",
+    "title": "Make Code as Policy Great Again: Frontier Agents Write, Call, and Evolve Robot Tools",
+    "authors": [
+      "Shijia Ge",
+      "Alex Zhou",
+      "Jianshu Zeng",
+      "Yexing Wan",
+      "Di Wu",
+      "Zelin Zheng",
+      "Yazhe Wang",
+      "Zhiqi Jia",
+      "Xuan Shangguan",
+      "Jay Zhu",
+      "Yijun Liu",
+      "Lingyu He",
+      "Sihang Wu",
+      "Xiao He",
+      "Hongcheng Gao"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.39018",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260939304",
+    "title": "Scale and Selection: What Makes Automatic Harness Evolution Work for Visual-Interface Robot Agents",
+    "authors": [
+      "Zhijie Wei",
+      "Ferris Tan",
+      "Jinghui Wang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.39304",
+    "doi": ""
+  },
+  {
+    "id": "arxiv260940306",
+    "title": "DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents",
+    "authors": [
+      "Haoyuan Deng",
+      "Jiebin Liu",
+      "Tengxiao Zhang",
+      "Langning Yan",
+      "Hongye Cao",
+      "Ziwei Wang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.40306",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261000731",
+    "title": "Measuring Asset and Scene Reconstruction Effects in Real-to-Sim Robot Evaluation",
+    "authors": [
+      "Sanya Verma",
+      "Luca Cilio",
+      "Velissarios Christodoulou",
+      "Tyler Fermelis",
+      "Qi Ting Ng",
+      "Rachel Chung",
+      "Sofia Liang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.00731",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261001939",
+    "title": "Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens",
+    "authors": [
+      "Ruiyang Si",
+      "Jianxin Bi",
+      "Shunyu Yang",
+      "Rui Ni",
+      "Wenbo Huang",
+      "Qiang Wang",
+      "Shulong Jiang",
+      "Duomin Wang",
+      "Xiuyu Li",
+      "Haiwen Feng",
+      "Zhen Dong",
+      "Daquan Zhou"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.01939",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261002196",
+    "title": "InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation",
+    "authors": [
+      "Zhuo Lin",
+      "Sirui Xu",
+      "Liuyu Bian",
+      "Yu-Xiong Wang",
+      "Liang-Yan Gui"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.02196",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261002204",
+    "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+    "authors": [
+      "Yen-Jen Wang",
+      "Haozhe Jiang",
+      "Shuying Deng",
+      "Haoru Xue",
+      "Weirui Ye",
+      "Rocky Duan",
+      "Nika Haghtalab",
+      "S. Shankar Sastry",
+      "Pieter Abbeel",
+      "Haozhi Qi"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.02204",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261002459",
+    "title": "OpenRUA: Robot-Use Agents Are Zero-Shot Visuomotor Policies",
+    "authors": [
+      "Zhaoyang Chu",
+      "Earl T. Barr",
+      "Claire Le Goues",
+      "Peter O'Hearn",
+      "Mark Harman",
+      "Federica Sarro",
+      "He Ye"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.02459",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261002527",
+    "title": "CriticHack: Evaluating Visual Rewards Under Robot Policy Optimization",
+    "authors": [
+      "Jiaxuan Luo",
+      "Xingguo Xu",
+      "Shanshan Wang",
+      "Yuhan Zhou",
+      "Zhen Zhang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.02527",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261002717",
+    "title": "RoboBridge: A Self-Evolving Embodied Agent Framework for Sim-to-Real Transfer",
+    "authors": [
+      "Chenxi Li",
+      "Zhangrui Zhao",
+      "Rui Li",
+      "Yuan Gao",
+      "Kehui Liu",
+      "Jiarui Li",
+      "Dong Wang",
+      "Tong Si",
+      "Minting Pan",
+      "Wanli Ouyang",
+      "Dongzhan Zhou"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.02717",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261002788",
+    "title": "Skill2Real: Agentic Skill Learning for Zero-Shot Sim-to-Real Robot Manipulation",
+    "authors": [
+      "Xincheng He",
+      "Siyu Ma",
+      "Chang Yu",
+      "Yunuo Chen",
+      "Yanjia Huang",
+      "Ying Nian Wu",
+      "Yin Yang",
+      "Chenfanfu Jiang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.02788",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261002982",
+    "title": "PLCWorld: Benchmarking LLM-Generated PLC Programs in Closed-Loop Plant Simulation",
+    "authors": [
+      "Yunji Kim",
+      "Yunseok Lee",
+      "Hyunwoo Seo",
+      "Jaerim Choi",
+      "Woojin Lee"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.02982",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261004364",
+    "title": "A Bird's-Eye View of Iterative Reward Design",
+    "authors": [
+      "Logan Mondal Bhamidipaty",
+      "Lauren Robson",
+      "Linda Petrini",
+      "Shengrui Lyu",
+      "Kamal Ndousse"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.04364",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261004432",
+    "title": "Video2World: Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos",
+    "authors": [
+      "Jinzhou Tang",
+      "Zijun Zhang",
+      "Jing Yang",
+      "Yuchen Yan",
+      "Kun Zhou",
+      "Lingjun Mao",
+      "Ruobing Han",
+      "Jinglin Cao",
+      "Wenpeng Xu",
+      "Lukun He",
+      "Minghao Fu",
+      "Fan Feng",
+      "Biwei Huang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.04432",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261007594",
+    "title": "BiGym 2.0: Benchmarking Learned and Agent-Developed Policies for Humanoid Household Manipulation",
+    "authors": [
+      "Zexi Zhang",
+      "Zecheng Zhu",
+      "Zidong Chen",
+      "Zulkhuu Tuya",
+      "Stephen James"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.07594",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261007753",
+    "title": "From Evidence to Action: How Tool-Using Agents Fail",
+    "authors": [
+      "Hongzhan Lin",
+      "Shidong Cao",
+      "Ziyang Luo",
+      "Wenhao Chai",
+      "Mong-Li Lee",
+      "Wynne Hsu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.07753",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261009228",
+    "title": "Co-Evolving Robot Orchestrators and Policies through Deployment",
+    "authors": [
+      "Xilun Zhang",
+      "Maggie Wang",
+      "Erik Bauer",
+      "Hong-Xing Yu",
+      "Huang Huang",
+      "Jiajun Wu",
+      "Marco Pavone"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.09228",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261010409",
+    "title": "RobotWorld: Benchmarking Multimodal Agents for Robot Use Across Diverse Tasks and Embodiments",
+    "authors": [
+      "Zhiqin Yang",
+      "Chenxin Li",
+      "Xiaomeng Hu",
+      "Yibin Liu",
+      "Weidong Huang",
+      "Jiankai Sun",
+      "Haitao Li",
+      "Zijian Wu",
+      "Yuzhi Huang",
+      "Fanding Huang",
+      "Hanwen Sun",
+      "Jiashun Liu",
+      "Jingqi Tong",
+      "Mingxin Huang",
+      "Shaoli Hu",
+      "Shijue Huang",
+      "Tianyi Bai",
+      "Xinyuan Wang",
+      "Yunlong Lin",
+      "Zhengyang Tang",
+      "Zhexin Zhang",
+      "Zhuo Chen",
+      "Xierui Song",
+      "Juntao Dai",
+      "Boyuan Chen",
+      "Jiaming Ji",
+      "Fangneng Zhan",
+      "Mengkang Hu",
+      "Wei Xue",
+      "Yonggang Zhang",
+      "Han Hu",
+      "Tsung-Yi Ho",
+      "Yike Guo"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.10409",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261010479",
+    "title": "Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies",
+    "authors": [
+      "Yihan Li",
+      "Yating Feng",
+      "Shengjiu Sun",
+      "Jianing Chen",
+      "Hao Ren",
+      "Bowen Yang",
+      "Weisheng Xu",
+      "Qiwei Wu",
+      "Hui Cheng",
+      "Renjing Xu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.10479",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261010498",
+    "title": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
+    "authors": [
+      "Python Song",
+      "Zhixuan Liang",
+      "Kelsey Fu",
+      "Mengdi Wang",
+      "Junfeng Yang",
+      "Shilong Liu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.10498",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261012369",
+    "title": "Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement",
+    "authors": [
+      "Kairui Hu",
+      "Siyuan Hu",
+      "Fangzhou Hong",
+      "Zhaoxi Chen",
+      "Ziwei Liu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.12369",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261012549",
+    "title": "Fly-by-Code: Embodied Coding Agents for Aerial Manipulation with Active Visual and Physical Feedback",
+    "authors": [
+      "Jaewoo Lee",
+      "Jeongyeon Seo",
+      "Sihyun Cho",
+      "Gyeongrak Choe",
+      "Yutong Wang",
+      "Bavin Saravanan",
+      "Jia-Bin Huang",
+      "Furong Huang",
+      "Sebastian Scherer",
+      "Guanya Shi",
+      "H. Jin Kim",
+      "Seungjae Lee",
+      "Dongjae Lee"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.12549",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261013376",
+    "title": "EndoRSI: Physical-Evidence-Driven Recursive Improvement of Endoscopic Robot Policies",
+    "authors": [
+      "Chi Kit Ng",
+      "Yidong Zhang",
+      "Tianchun Wu",
+      "Siu Hing Lui",
+      "Hanlin Zhao",
+      "Huxin Gao",
+      "Hongliang Ren"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.13376",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261013516",
+    "title": "RESCUE: Is This Alarm Worth Acting On? Counterfactual Evaluation of VLA Runtime Monitors",
+    "authors": [
+      "David Ahmedt-Aristizabal",
+      "Abdelwahed Khamis",
+      "Mohammad Ali Armin",
+      "Lars Petersson"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.13516",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261013947",
+    "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
+    "authors": [
+      "Xudong Cai",
+      "Ruijie Zhu",
+      "Haoliang Shang",
+      "Ruining Li",
+      "Marc Pollefeys",
+      "Shangzhe Wu",
+      "Andrea Vedaldi",
+      "Chuanxia Zheng"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.13947",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261014018",
+    "title": "RoboHarness: A Simple Harness Outperforms VLA and World Action Models",
+    "authors": [
+      "Bince Qu",
+      "Wei Chen",
+      "Bo Zhang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.14018",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261014043",
+    "title": "Refuses in Chat, Complies with Arms: LLM Refusal Does Not Survive Robot Control",
+    "authors": [
+      "Edward Sun",
+      "Christopher Leet",
+      "Sravanthi Machcha",
+      "Achyutha Menon",
+      "Tzu Kit Chan",
+      "Yuchen Cui",
+      "Jay Chooi"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.14043",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261014603",
+    "title": "AnyRank: Reliable Anytime Policy Ranking via Sequential Testing",
+    "authors": [
+      "Apurva Badithela",
+      "David Snyder",
+      "Tenny Yin",
+      "Jade Sceats",
+      "George Pappas",
+      "Nikolai Matni",
+      "Masha Itkina",
+      "Haruki Nishimura",
+      "Anirudha Majumdar"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.14603",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261016238",
+    "title": "Embodied Skill Bench: Benchmarking How Well Agents with Embodied Skills Perform on Physical Tasks",
+    "authors": [
+      "Zhi Han",
+      "Zihan Guo",
+      "Chenxi Zeng",
+      "Zicai Cui",
+      "Yue Xin",
+      "Ming Zhou",
+      "Dongzhan Zhou",
+      "Weinan Zhang",
+      "Yang Li"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.16238",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261016369",
+    "title": "RoboBugBench: Benchmarking Automated Repair of Real Robot Software Under an Audited Behavioral Oracle",
+    "authors": [
+      "Alexey Tuzikov"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.16369",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261017350",
+    "title": "Can a Frontier VLM Serve as a Robot Policy for Memory-Dependent Manipulation?",
+    "authors": [
+      "Jack B. Jedlicki",
+      "Amish Sethi",
+      "Heng Yang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.17350",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261018792",
+    "title": "SEAR: Self-Evolving Agentic Robotics",
+    "authors": [
+      "Xinyi Wang",
+      "Bangzheng Li",
+      "Hanyu Wang",
+      "Lin Zhang",
+      "Andrea Yaoyun Cui",
+      "Zhenggang Tang",
+      "Shyamal Buch",
+      "Dejia Xu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.18792",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261018842",
+    "title": "Who Improves the Robot? Toward Physical Recursive Self-Improvement",
+    "authors": [
+      "Hai Zhou",
+      "Fan Yang",
+      "Zeyi Chen",
+      "Lejun Zhang",
+      "Chenyang Fu",
+      "Jianping Li",
+      "Jiayi Zhu",
+      "Xianyang Liu",
+      "Yingxuan Yang",
+      "Lili Meng",
+      "Lu Wang",
+      "Xinyang Han",
+      "Jiankai Sun",
+      "Weirui Ye",
+      "Guanchu Wang",
+      "Wanhua Li",
+      "Ming Zhou",
+      "Boyi Li",
+      "Ming Jin",
+      "Kun Shao",
+      "Muhao Chen",
+      "Guang Chen",
+      "Lei Ma",
+      "Joey Tianyi Zhou",
+      "Costas Spanos",
+      "Xia Hu",
+      "Mac Schwager",
+      "Weinan Zhang",
+      "Qian Feng",
+      "Shangding Gu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.18842",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261018867",
+    "title": "EmbodiedEvo: Self-Evolving Coding Agent for Physical Intelligence",
+    "authors": [
+      "Wenyi Li",
+      "Yizhe Chi",
+      "Youjie Zheng",
+      "Chunyu Liu",
+      "Xiaoqiu Wang",
+      "Mingju Gao",
+      "Zheng Jiang",
+      "Deyao Hong",
+      "Calvin Xiao",
+      "Kaisen Yang",
+      "Qinhuai Na"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.18867",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261022496",
+    "title": "Scaling Online Exploration for Robot Agents",
+    "authors": [
+      "Runhan Huang",
+      "Xiangcheng Zhang",
+      "Haoyu Chen",
+      "Yitong Li",
+      "Yen-Jen Wang",
+      "Bohan Lyu",
+      "Haotian Ye",
+      "Chuye Hong",
+      "Yixuan Wang",
+      "Chloe Su",
+      "Haoyu Xiong",
+      "Yangzhen Wu",
+      "Enze Xie",
+      "Travis Manderson",
+      "Stefano Ermon",
+      "Pieter Abbeel",
+      "Antonio Torralba",
+      "Dawn Song",
+      "Weirui Ye",
+      "Yilun Du"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.22496",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261023479",
+    "title": "HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents",
+    "authors": [
+      "Hongcheng Gao",
+      "Alex Zhou",
+      "Jay Zhu",
+      "Zelin Zheng",
+      "Shijia Ge",
+      "Xiping Li",
+      "Di Wu",
+      "Yazhe Wang",
+      "Jianshu Zeng",
+      "Xuan Shangguan",
+      "Yongli Wang",
+      "Yexing Wan",
+      "Lingyu He",
+      "Zhiqi Jia",
+      "Sihang Wu",
+      "Xiao He"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.23479",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261024464",
+    "title": "Learning to Compose: Recursive Self-Improvement of Shared Executable Stacks for Zero-Shot Long-Horizon Robot Manipulation",
+    "authors": [
+      "Yangzhi Chen",
+      "Feiran Liu",
+      "Zishuo Wang",
+      "Zijian Jin",
+      "Xin Zhu",
+      "Lecheng Ruan",
+      "Wenjuan Han"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.24464",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261024801",
+    "title": "When Better Policies Leave Harder Failures: Coverage Shift in VLM Success Monitoring",
+    "authors": [
+      "Isabel Guan",
+      "Dingyuan Zhang",
+      "Shipeng Lyu",
+      "I-Ming Chen"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.24801",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261027350",
+    "title": "Refuses When Asked, Complies When Acting: A Runtime Safety Check for Robot Control Loops",
+    "authors": [
+      "Arnav Grover"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.27350",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261028589",
+    "title": "AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics",
+    "authors": [
+      "Xinxin Liu",
+      "Bingxin Xu",
+      "Wenrui Bao",
+      "Ming Li",
+      "Wentao Bao",
+      "Chen Chen",
+      "Yuzhang Shang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.28589",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261029677",
+    "title": "Toward Recursive Self-Improvement in Physical AI",
+    "authors": [
+      "Meng Luo",
+      "Zechen Bai",
+      "Shanqing Xu",
+      "Yanlin Li",
+      "Kaixin Li",
+      "Mengchen Qian",
+      "Weifeng Lu",
+      "Ran Zhang",
+      "Yingtian Zou",
+      "Ziyang Luo",
+      "Wei Chen",
+      "Hongzhan Lin"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.29677",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261031841",
+    "title": "FORCA: A Force-Aware Coding Agent for Contact-Rich Robot Manipulation",
+    "authors": [
+      "Xiao Tan",
+      "Yixuan Wang",
+      "Zhexi Wang",
+      "Wenzhen Yuan"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.31841",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261034108",
+    "title": "RoboDuo: Attempt, Check and Atomic Recovery through Code for Vision-Language-Action Models",
+    "authors": [
+      "Jie Wang",
+      "Bo Zhang",
+      "Renzhi Lu",
+      "Jianyu Chen"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.34108",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261035832",
+    "title": "Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy",
+    "authors": [
+      "Yifei Yao",
+      "Yude Zou",
+      "Guanbo Jiao",
+      "Xing Gao",
+      "Ning Gao",
+      "Yukai Wang",
+      "Jiantong Chen",
+      "Zihou Zhu",
+      "Xinyu Li",
+      "Ningyu Yan",
+      "Shuai Wang",
+      "Jianming Ma",
+      "Haoyu Guo",
+      "Weinan Zhang",
+      "Chunhua Shen"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.35832",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261036420",
+    "title": "SO-101 Bench: Accessible Spatial Manipulation",
+    "authors": [
+      "Truman Hickok"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.36420",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261036533",
+    "title": "RoboAuto: Autonomous Robot Program Search through Multi-Level Physical Understanding",
+    "authors": [
+      "Buzhao Liu",
+      "Jianing Ye",
+      "Xiu Yuan",
+      "Yangtong Feng",
+      "Chengsong Huang",
+      "Tyler Dinh",
+      "Yevgeniy Vorobeychik",
+      "Ning Zhang",
+      "Chongjie Zhang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.36533",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261038388",
+    "title": "ELEVATE: Agentic Controller Acquisition from Task Failure for Quadrupedal Manipulation",
+    "authors": [
+      "Shiqi Liu",
+      "Radu Corcodel",
+      "Ding Zhao"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.38388",
+    "doi": ""
+  },
+  {
+    "id": "boiko2023coscientist",
+    "title": "Autonomous chemical research with large language models",
+    "authors": [
+      "Daniil A. Boiko",
+      "Robert MacKnight",
+      "Ben Kline",
+      "Gabe Gomes"
+    ],
+    "year": 2023,
+    "venue": "Nature",
+    "type": "journal",
+    "url": "https://doi.org/10.1038/s41586-023-06792-0",
+    "doi": "10.1038/s41586-023-06792-0"
+  },
+  {
+    "id": "cao-etal-2026-diffcot",
+    "title": "DiffCoT: Diffusion-styled Chain-of-Thought Reasoning in LLMs",
+    "authors": [
+      "Shidong Cao",
+      "Hongzhan Lin",
+      "Yuxuan Gu",
+      "Ziyang Luo",
+      "Jing Ma"
+    ],
+    "year": 2026,
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+    "type": "conference",
+    "url": "https://aclanthology.org/2026.findings-acl.1939/",
+    "doi": "10.18653/v1/2026.findings-acl.1939"
+  },
+  {
+    "id": "chen-etal-2025-adammeme",
+    "title": "AdamMeme: Adaptively Probe the Reasoning Capacity of Multimodal Large Language Models on Harmfulness",
+    "authors": [
+      "Zixin Chen",
+      "Hongzhan Lin",
+      "Kaixin Li",
+      "Ziyang Luo",
+      "Zhen Ye",
+      "Guang Chen",
+      "Zhiyong Huang",
+      "Jing Ma"
+    ],
+    "year": 2025,
+    "venue": "Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "type": "conference",
+    "url": "https://aclanthology.org/2025.acl-long.213/",
+    "doi": "10.18653/v1/2025.acl-long.213"
+  },
+  {
+    "id": "chen-etal-2025-memearena",
+    "title": "MemeArena: Automating Context-Aware Unbiased Evaluation of Harmfulness Understanding for Multimodal Large Language Models",
+    "authors": [
+      "Zixin Chen",
+      "Hongzhan Lin",
+      "Kaixin Li",
+      "Ziyang Luo",
+      "Yayue Deng",
+      "Jing Ma"
+    ],
+    "year": 2025,
+    "venue": "2025 Conference on Empirical Methods in Natural Language Processing",
+    "type": "conference",
+    "url": "https://aclanthology.org/2025.emnlp-main.890/",
+    "doi": "10.18653/v1/2025.emnlp-main.890"
+  },
+  {
+    "id": "huang-etal-2024-towards",
+    "title": "Towards Low-Resource Harmful Meme Detection with LMM Agents",
+    "authors": [
+      "Jianzhao Huang",
+      "Hongzhan Lin",
+      "Ziyan Liu",
+      "Ziyang Luo",
+      "Guang Chen",
+      "Jing Ma"
+    ],
+    "year": 2024,
+    "venue": "2024 Conference on Empirical Methods in Natural Language Processing",
+    "type": "conference",
+    "url": "https://aclanthology.org/2024.emnlp-main.136/",
+    "doi": "10.18653/v1/2024.emnlp-main.136"
+  },
+  {
+    "id": "kong-etal-2025-sharp",
+    "title": "SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing LLMs",
+    "authors": [
+      "Chuyi Kong",
+      "Ziyang Luo",
+      "Hongzhan Lin",
+      "Zhiyuan Fan",
+      "Yaxin Fan",
+      "Yuxi Sun",
+      "Jing Ma"
+    ],
+    "year": 2025,
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+    "type": "conference",
+    "url": "https://aclanthology.org/2025.findings-acl.47/",
+    "doi": "10.18653/v1/2025.findings-acl.47"
+  },
+  {
+    "id": "lin-etal-2025-fact",
+    "title": "FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models",
+    "authors": [
+      "Hongzhan Lin",
+      "Yang Deng",
+      "Yuxuan Gu",
+      "Wenxuan Zhang",
+      "Jing Ma",
+      "See-Kiong Ng",
+      "Tat-Seng Chua"
+    ],
+    "year": 2025,
+    "venue": "Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "type": "conference",
+    "url": "https://aclanthology.org/2025.acl-long.17/",
+    "doi": "10.18653/v1/2025.acl-long.17"
+  },
+  {
+    "id": "lin2024explainhm",
+    "title": "Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models",
+    "authors": [
+      "Hongzhan Lin",
+      "Ziyang Luo",
+      "Wei Gao",
+      "Jing Ma",
+      "Bo Wang",
+      "Ruichao Yang"
+    ],
+    "year": 2024,
+    "venue": "ACM Web Conference 2024",
+    "type": "conference",
+    "url": "https://doi.org/10.1145/3589334.3645381",
+    "doi": "10.1145/3589334.3645381"
+  },
+  {
+    "id": "lin2026explainhmpp",
+    "title": "ExplainHM++: Explainable Harmful Meme Detection With Retrieval-Augmented Debate Between Large Multimodal Models",
+    "authors": [
+      "Hongzhan Lin",
+      "Wei Gao",
+      "Jing Ma",
+      "Yang Deng",
+      "Ziyang Luo",
+      "Bo Wang",
+      "Ruichao Yang",
+      "Tat-Seng Chua"
+    ],
+    "year": 2026,
+    "venue": "IEEE Transactions on Knowledge and Data Engineering",
+    "type": "journal",
+    "url": "https://doi.org/10.1109/TKDE.2025.3637552",
+    "doi": "10.1109/TKDE.2025.3637552"
+  },
+  {
+    "id": "luo-etal-2026-storage",
+    "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
+    "authors": [
+      "Jinghao Luo",
+      "Yuchen Tian",
+      "Chuxue Cao",
+      "Ziyang Luo",
+      "Hongzhan Lin",
+      "Kaixin Li",
+      "Chuyi Kong",
+      "Ruichao Yang",
+      "Jing Ma"
+    ],
+    "year": 2026,
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+    "type": "conference",
+    "url": "https://aclanthology.org/2026.findings-acl.2069/",
+    "doi": "10.18653/v1/2026.findings-acl.2069"
+  },
+  {
+    "id": "yang-etal-2026-dialectical",
+    "title": "Dialectical Structured Reasoning for Explainable Multimodal Fake News Detection",
+    "authors": [
+      "Ruichao Yang",
+      "Yufan Bian",
+      "Wei Gao",
+      "Bo-Wen Zhang",
+      "Jing Ma",
+      "Hongzhan Lin",
+      "Ziyang Luo",
+      "Xiaobin Zhu",
+      "Xu-Cheng Yin"
+    ],
+    "year": 2026,
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+    "type": "conference",
+    "url": "https://aclanthology.org/2026.findings-acl.1601/",
+    "doi": "10.18653/v1/2026.findings-acl.1601"
+  },
+  {
+    "id": "zeng-etal-2025-mm",
+    "title": "MM-CRITIC: A Holistic Evaluation of Large Multimodal Models as Multimodal Critique",
+    "authors": [
+      "Gailun Zeng",
+      "Ziyang Luo",
+      "Hongzhan Lin",
+      "Yuchen Tian",
+      "Kaixin Li",
+      "Ziyang Gong",
+      "Jianxiong Guo",
+      "Jing Ma"
+    ],
+    "year": 2025,
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    "type": "conference",
+    "url": "https://aclanthology.org/2025.findings-emnlp.733/",
+    "doi": "10.18653/v1/2025.findings-emnlp.733"
+  },
+  {
+    "id": "zhao-etal-2025-codejudge",
+    "title": "CodeJudge-Eval: Can Large Language Models be Good Judges in Code Understanding?",
+    "authors": [
+      "Yuwei Zhao",
+      "Ziyang Luo",
+      "Yuchen Tian",
+      "Hongzhan Lin",
+      "Weixiang Yan",
+      "Annan Li",
+      "Jing Ma"
+    ],
+    "year": 2025,
+    "venue": "International Conference on Computational Linguistics",
+    "type": "conference",
+    "url": "https://aclanthology.org/2025.coling-main.7/",
+    "doi": ""
+  },
+  {
+    "id": "zhao2026rosdeveval",
+    "title": "Evaluating LLMs in ROS Robotic Software Code Generation",
+    "authors": [
+      "Yuxin Zhao",
+      "Xinjun Mao",
+      "Tanghaoran Zhang",
+      "Tun Li",
+      "Zhiqun Xiao"
+    ],
+    "year": 2027,
+    "venue": "Empirical Software Engineering",
+    "type": "journal",
+    "url": "https://doi.org/10.1007/s10664-026-10910-7",
+    "doi": "10.1007/s10664-026-10910-7"
+  }
+]
