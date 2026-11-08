@@ -134,7 +134,7 @@ export const PROBLEMS = [
 export const CLOSING = "If the physical world is to serve as the test suite, its tests must be tested as well.";
 
 export const TEASER_ALT =
-  "A robot at a laptop sees green ticks from tests that ship with the code; a ribbon carries the same program to a kitchen, where the robot puts a moka pot on a stove under a camera, a simulator, a pass-fail clipboard and an hourglass.";
+  "A robot drawn in oil stick on a painted yellow ground: the words test_suite.py crossed out and replaced by THE WORLD, an apple falling with g = 9.81, and a tread that reads write, run, judge, keep."; a ribbon carries the same program to a kitchen, where the robot puts a moka pot on a stove under a camera, a simulator, a pass-fail clipboard and an hourglass.";
 
 // BibTeX entry for the survey
 export function surveyBibtex() {

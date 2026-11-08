@@ -1,19 +1,23 @@
-// Draw the README banner (assets/readme-banner.png) from the cover illustration (assets/teaser.webp) and the
-// survey title, with a headless Chrome, Chromium or Edge.
+// Draw the README banner (assets/readme-banner.png) from the project website's hero painting: the yellow ground
+// laid in brush strokes, the hand-lettered title, and the oil-stick robot. The page is opened in a headless
+// Chrome, Chromium or Edge with motion reduced, so the drawing is complete; the banner keeps only the painting,
+// the title and the subtitle.
 //
-//   node tools/draw-banner.mjs
+//   node tools/draw-banner.mjs                         from the live website
+//   node tools/draw-banner.mjs http://localhost:4182/  from a local copy of the website
 //
-// Run by hand after changing the title or the illustration, then commit the image.
-import { execFileSync } from "node:child_process";
+// Run by hand after the website's hero changes, then commit the image.
+import { spawn } from "node:child_process";
 import { existsSync } from "node:fs";
 import { mkdtemp, rm, writeFile } from "node:fs/promises";
 import os from "node:os";
 import path from "node:path";
-import { fileURLToPath, pathToFileURL } from "node:url";
-import { SURVEY } from "./readme-content.mjs";
+import { fileURLToPath } from "node:url";
+import { SITE_URL } from "./readme-content.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const [WIDTH, HEIGHT, TITLE_SIZE, TEASER_WIDTH] = [1600, 470, 54, 960];
+const [WIDTH, HEIGHT] = [1600, 520];
+const url = process.argv[2] || SITE_URL;
 
 function findBrowser() {
   const candidates = [
@@ -30,43 +34,60 @@ function findBrowser() {
   return found;
 }
 
-function page() {
-  const asset = (file) => pathToFileURL(path.join(ROOT, file)).href;
-  return `<!doctype html><html><head><meta charset="utf-8"><style>
-@font-face { font-family: Manrope; src: url("${asset("assets/fonts/manrope-latin.woff2")}") format("woff2"); font-weight: 200 800; }
-html, body { margin: 0; }
-body { width: ${WIDTH}px; height: ${HEIGHT}px; overflow: hidden; font-family: Manrope, sans-serif; color: #202729; background: #f4f7f6; position: relative; }
-.copy { position: absolute; left: 72px; top: 50%; transform: translateY(-50%); width: ${WIDTH - TEASER_WIDTH - 130}px; }
-.brand { display: inline-flex; align-items: center; gap: 10px; font-size: 19px; font-weight: 800; color: #176b69; margin-bottom: 34px; letter-spacing: .01em; }
-.brand i { width: 10px; height: 10px; border-radius: 3px; background: linear-gradient(135deg, #176b69, #00a5be); }
-.brand span { color: #9a682d; }
-h1 { margin: 0; font-size: ${TITLE_SIZE}px; line-height: 1.1; font-weight: 700; letter-spacing: -0.01em; }
-h1 em { font-style: normal; color: #176b69; }
-.subtitle { margin: 22px 0 0; font-size: 24px; font-weight: 600; color: #596367; }
-.subtitle b { color: #9a682d; font-weight: 700; }
-.teaser { position: absolute; right: 40px; top: 50%; transform: translateY(-50%); width: ${TEASER_WIDTH}px; border-radius: 16px;
-  box-shadow: 0 16px 38px rgba(32, 39, 41, 0.18), 0 0 0 2px rgba(255, 255, 255, 0.7); }
-</style></head><body>
-<div class="copy">
-  <div class="brand"><i></i><div>Awesome <span>PhysicalWorld</span>Agent</div></div>
-  <h1>When the World<br>Is the <em>Test Suite</em></h1>
-  <p class="subtitle">Agentic Intelligence for the <b>Physical World</b></p>
-</div>
-<img class="teaser" src="${asset("assets/teaser.webp")}" alt="">
-</body></html>`;
-}
+// Turn the hero into a banner: no header, no author list or buttons, the subtitle on the white patch.
+const STAGE = `(async () => {
+  document.querySelector(".bar")?.remove();
+  const hero = document.querySelector(".hero");
+  Object.assign(hero.style, { minHeight: "0", height: "${HEIGHT}px", padding: "34px 64px 30px 104px", gridTemplateColumns: "minmax(0, 1fr) minmax(0, 1fr)", gap: "24px" });
+  const copy = hero.querySelector(".copy");
+  const sub = copy.querySelector(".subtitle"); sub.remove();
+  const kicker = document.createElement("p");
+  kicker.textContent = "Awesome PhysicalWorldAgent";
+  Object.assign(kicker.style, { margin: "0 0 18px", font: "400 22px/1 var(--marker)", color: "var(--red)", transform: "rotate(-2deg)", width: "max-content" });
+  copy.prepend(kicker);
+  copy.querySelector("h1").style.fontSize = "76px";
+  const lower = copy.querySelector(".lower");
+  lower.replaceChildren(sub);
+  Object.assign(lower.style, { marginTop: "40px", width: "max-content" });
+  Object.assign(sub.style, { margin: "0", fontSize: "23px" });
+  const art = hero.querySelector(".art");
+  Object.assign(art.style, { height: "${HEIGHT - 64}px", display: "flex", justifyContent: "center" });
+  Object.assign(art.querySelector("svg").style, { height: "100%", width: "auto" });
+  await document.fonts.ready;
+  await new Promise((r) => setTimeout(r, 900));   // the ground repaints around the new layout
+  return [hero.offsetWidth, hero.offsetHeight];
+})()`;
 
-if (SURVEY.title !== "When the World Is the Test Suite") throw new Error("Update the banner title layout for the new title");
 const browser = findBrowser();
 const temp = await mkdtemp(path.join(os.tmpdir(), "banner-"));
+const port = 9400 + Math.floor(Math.random() * 400);
+const chrome = spawn(browser, ["--headless=new", `--remote-debugging-port=${port}`, `--user-data-dir=${path.join(temp, "profile")}`,
+  "--hide-scrollbars", "--no-first-run", "about:blank"], { stdio: "ignore" });
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 try {
-  const html = path.join(temp, "banner.html");
-  await writeFile(html, page());
-  execFileSync(browser, ["--headless=new", "--disable-gpu", "--hide-scrollbars", "--force-device-scale-factor=1",
-    "--allow-file-access-from-files", `--user-data-dir=${path.join(temp, "profile")}`, "--virtual-time-budget=5000",
-    `--window-size=${WIDTH},${HEIGHT}`, `--screenshot=${path.join(ROOT, "assets", "readme-banner.png")}`, pathToFileURL(html).href],
-    { stdio: "ignore" });
-  console.log(`Wrote assets/readme-banner.png (${WIDTH}x${HEIGHT})`);
+  let target;
+  for (let i = 0; i < 50 && !target; i++) {
+    try { target = (await (await fetch(`http://127.0.0.1:${port}/json/list`)).json()).find((t) => t.type === "page"); } catch { await sleep(200); }
+  }
+  const ws = new WebSocket(target.webSocketDebuggerUrl);
+  await new Promise((r) => ws.addEventListener("open", r));
+  let id = 0;
+  const pending = new Map();
+  ws.addEventListener("message", (e) => { const m = JSON.parse(e.data); if (m.id && pending.has(m.id)) { pending.get(m.id)(m); pending.delete(m.id); } });
+  const send = (method, params = {}) => new Promise((r) => { const i = ++id; pending.set(i, r); ws.send(JSON.stringify({ id: i, method, params })); });
+  await send("Page.enable");
+  await send("Emulation.setDeviceMetricsOverride", { width: WIDTH, height: HEIGHT, deviceScaleFactor: 1, mobile: false });
+  await send("Emulation.setEmulatedMedia", { features: [{ name: "prefers-reduced-motion", value: "reduce" }, { name: "prefers-color-scheme", value: "light" }] });
+  await send("Page.navigate", { url });
+  await sleep(3000);
+  const size = (await send("Runtime.evaluate", { expression: STAGE, awaitPromise: true, returnByValue: true })).result?.result?.value;
+  if (!size) throw new Error("The page did not have the expected hero");
+  const shot = await send("Page.captureScreenshot", { format: "png", clip: { x: 0, y: 0, width: WIDTH, height: HEIGHT, scale: 1 } });
+  await writeFile(path.join(ROOT, "assets", "readme-banner.png"), Buffer.from(shot.result.data, "base64"));
+  ws.close();
+  console.log(`Wrote assets/readme-banner.png (${WIDTH}x${HEIGHT}) from ${url}`);
 } finally {
-  await rm(temp, { recursive: true, force: true });
+  chrome.kill();
+  await sleep(300);
+  await rm(temp, { recursive: true, force: true }).catch(() => {});
 }

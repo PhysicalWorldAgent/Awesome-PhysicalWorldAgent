@@ -3,28 +3,30 @@
 //   node tools/draw-readme-art.mjs
 //
 // The artwork is static: run this by hand after changing a card's text, a colour or an icon, and commit the SVGs.
-// The README links them through <picture> so GitHub shows the version matching the reader's theme. Colours follow
-// the manuscript's palette. The banner (assets/readme-banner.png) and the survey figures are not drawn here.
+// The README links them through <picture> so GitHub shows the version matching the reader's theme. They follow the
+// project website: a yellow ground, heavy ink outlines and offset shadows, with red, blue and green accents. The banner
+// (assets/readme-banner.png, tools/draw-banner.mjs) and the survey figures are not drawn here.
 import { mkdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const OUT = path.join(ROOT, "assets", "readme");
-const SANS = "Manrope,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif";
+const SANS = "'Arial Black','Helvetica Neue',Helvetica,Arial,sans-serif";
+const MONO = "'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace";
 
 // Accent per role: [light theme, dark theme]. The light values are the manuscript's accent colours.
 const ACCENT = {
-  teal: ["#176b69", "#5fb8b3"],
-  blue: ["#356887", "#8fb5d3"],
-  amber: ["#9a682d", "#e0b07a"],
-  red: ["#a74743", "#e48f8b"],
-  green: ["#526f4b", "#9fc097"],
-  grey: ["#596367", "#a9b4b8"],
+  teal: ["#16130f", "#f2c12e"],
+  blue: ["#2c5ca8", "#8fb3ec"],
+  amber: ["#d98a1c", "#f2b45a"],
+  red: ["#d43a2c", "#f2867a"],
+  green: ["#3f8f4e", "#8fd09b"],
+  grey: ["#16130f", "#f6f1e4"],
 };
 const CHROME = {
-  light: { tile: "#f4f7f6", tileLine: "#cbd5d3", card: "#ffffff", cardLine: "#cbd5d3", cardTile: "#e8f0ee", title: "#202729", sub: "#596367" },
-  dark: { tile: "#161d1e", tileLine: "#2c3a3b", card: "#111718", cardLine: "#2c3a3b", cardTile: "#1b2627", title: "#e8eff0", sub: "#a9b4b8" },
+  light: { tile: "#f2c12e", tileLine: "#16130f", glyph: "#16130f", card: "#f6f1e4", cardLine: "#16130f", shadow: "#16130f", title: "#16130f", sub: "#4a443a" },
+  dark: { tile: "#f2c12e", tileLine: "#16130f", glyph: "#16130f", card: "#16130f", cardLine: "#f2c12e", shadow: "#f2c12e", title: "#f6f1e4", sub: "#cfc7b4" },
 };
 
 // Glyphs on a 24x24 grid; "CUR" is replaced by the stroke colour.
@@ -55,36 +57,35 @@ const ICON_ACCENT = {
 const CARDS = [
   ["about", "Overview", "The world as the test suite"],
   ["questions", "Research questions", "What do programs buy?"],
-  ["harness", "Writing programs", "From action to training worlds"],
+  ["harness", "Writing programs", "From actions to worlds"],
   ["evaluation", "Testing programs", "Traces, judges, simulators"],
-  ["benchmarks", "Learning from the world", "Libraries and weights"],
+  ["benchmarks", "Learning", "Libraries and weights"],
   ["problems", "Open problems", "Toward physical CI"],
 ];
 
 function glyph(name, color, scale, dx, dy) {
   const body = GLYPHS[name].replaceAll("CUR", color);
-  return `<g transform="translate(${dx} ${dy}) scale(${scale})" fill="none" stroke="${color}" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">${body}</g>`;
+  return `<g transform="translate(${dx} ${dy}) scale(${scale})" fill="none" stroke="${color}" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">${body}</g>`;
 }
 
 function icon(name, theme) {
   const c = CHROME[theme];
-  const color = ACCENT[ICON_ACCENT[name]][theme === "light" ? 0 : 1];
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="36" height="36" aria-hidden="true">` +
-    `<rect x=".5" y=".5" width="35" height="35" rx="9" fill="${c.tile}" stroke="${c.tileLine}"/>${glyph(name, color, 1, 6, 6)}</svg>\n`;
+  const tilt = (name.length % 3) - 1; // a slight, fixed turn per icon, as if pasted on by hand
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="36" height="36" aria-hidden="true"><g transform="rotate(${tilt * 3} 18 18)">` +
+    `<rect x="4" y="4" width="29" height="29" fill="${c.shadow}"/><rect x="2" y="2" width="29" height="29" fill="${c.tile}" stroke="${c.tileLine}" stroke-width="2"/>` +
+    `${glyph(name, c.glyph, 0.92, 5.5, 5.5)}</g></svg>\n`;
 }
 
 function card(index, key, title, sub, theme) {
   const c = CHROME[theme];
   const color = ACCENT[ICON_ACCENT[key]][theme === "light" ? 0 : 1];
   const text = (value) => value.replaceAll("&", "&amp;").replaceAll("'", "’");
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 246 70" width="246" height="70" role="img" aria-label="${text(title)}: ${text(sub)}">` +
-    `<defs><clipPath id="r"><rect width="246" height="70" rx="9.5"/></clipPath></defs>` +
-    `<rect width="246" height="70" rx="9.5" fill="${c.card}"/><rect width="4" height="70" fill="${color}" clip-path="url(#r)"/>` +
-    `<rect x=".5" y=".5" width="245" height="69" rx="9" fill="none" stroke="${c.cardLine}"/>` +
-    `<rect x="19" y="17" width="36" height="36" rx="9" fill="${c.cardTile}"/>${glyph(key, color, 0.75, 28, 26)}` +
-    `<text x="64" y="33" fill="${c.title}" font-family="${SANS}" font-size="14.5" font-weight="700">${text(title)}</text>` +
-    `<text x="64" y="51" fill="${c.sub}" font-family="${SANS}" font-size="11">${text(sub)}</text>` +
-    `<text x="232" y="18" fill="${color}" font-family="${SANS}" font-size="10" font-weight="700" text-anchor="end">0${index}</text></svg>\n`;
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 246 74" width="246" height="74" role="img" aria-label="${text(title)}: ${text(sub)}">` +
+    `<rect x="6" y="6" width="238" height="66" fill="${c.shadow}"/><rect x="1.5" y="1.5" width="238" height="66" fill="${c.card}" stroke="${c.cardLine}" stroke-width="3"/>` +
+    `<g transform="rotate(-4 34 35)"><rect x="16" y="17" width="36" height="36" fill="${c.tile}" stroke="${c.tileLine}" stroke-width="2"/>${glyph(key, c.glyph, 0.8, 24.4, 25.4)}</g>` +
+    `<text x="64" y="34" fill="${c.title}" font-family="${SANS}" font-size="12" font-weight="900" letter-spacing=".2">${text(title.toUpperCase())}</text>` +
+    `<text x="64" y="51" fill="${c.sub}" font-family="${MONO}" font-size="10.5">${text(sub)}</text>` +
+    `<text x="230" y="62" fill="${color}" font-family="${SANS}" font-size="11" font-weight="900" text-anchor="end">0${index}</text></svg>\n`;
 }
 
 await mkdir(path.join(OUT, "icons"), { recursive: true });

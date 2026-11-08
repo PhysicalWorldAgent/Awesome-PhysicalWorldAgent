@@ -72,9 +72,9 @@ const ICON = {
 const CARDS = [
   ["about", "About the survey", "Overview: the world as the test suite"],
   ["questions", "Research questions", "Research questions: what do programs buy?"],
-  ["harness", "Writing programs", "Writing programs: from action to training worlds"],
+  ["harness", "Writing programs", "Writing programs: from actions to worlds"],
   ["evaluation", "Testing programs", "Testing programs: traces, judges, simulators"],
-  ["benchmarks", "Learning from the world", "Learning from the world: libraries and weights"],
+  ["benchmarks", "Learning from the world", "Learning: libraries and weights"],
   ["problems", "Open problems", "Open problems: toward physical CI"],
 ];
 
