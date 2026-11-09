@@ -15,13 +15,14 @@ const OUT = path.join(ROOT, "assets", "readme");
 const SANS = "'Arial Black','Helvetica Neue',Helvetica,Arial,sans-serif";
 const MONO = "'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace";
 
-// Accent per role: [light theme, dark theme]. The light values are the manuscript's accent colours.
+// Accent per role, used for the card numbers: [light theme, dark theme]. The light values are the website's inks for
+// small text (its amber, red and green are too pale for 11-pixel numerals on the cream card).
 const ACCENT = {
   teal: ["#16130f", "#f2c12e"],
   blue: ["#2c5ca8", "#8fb3ec"],
-  amber: ["#d98a1c", "#f2b45a"],
-  red: ["#d43a2c", "#f2867a"],
-  green: ["#3f8f4e", "#8fd09b"],
+  amber: ["#9a5c08", "#f2b45a"],
+  red: ["#b8301f", "#f2867a"],
+  green: ["#2f7a3e", "#8fd09b"],
   grey: ["#16130f", "#f6f1e4"],
 };
 const CHROME = {
@@ -80,12 +81,13 @@ function card(index, key, title, sub, theme) {
   const c = CHROME[theme];
   const color = ACCENT[ICON_ACCENT[key]][theme === "light" ? 0 : 1];
   const text = (value) => value.replaceAll("&", "&amp;").replaceAll("'", "’");
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 246 74" width="246" height="74" role="img" aria-label="${text(title)}: ${text(sub)}">` +
-    `<rect x="6" y="6" width="238" height="66" fill="${c.shadow}"/><rect x="1.5" y="1.5" width="238" height="66" fill="${c.card}" stroke="${c.cardLine}" stroke-width="3"/>` +
-    `<g transform="rotate(-4 34 35)"><rect x="16" y="17" width="36" height="36" fill="${c.tile}" stroke="${c.tileLine}" stroke-width="2"/>${glyph(key, c.glyph, 0.8, 24.4, 25.4)}</g>` +
-    `<text x="64" y="34" fill="${c.title}" font-family="${SANS}" font-size="12" font-weight="900" letter-spacing=".2">${text(title.toUpperCase())}</text>` +
-    `<text x="64" y="51" fill="${c.sub}" font-family="${MONO}" font-size="10.5">${text(sub)}</text>` +
-    `<text x="230" y="62" fill="${color}" font-family="${SANS}" font-size="11" font-weight="900" text-anchor="end">0${index}</text></svg>\n`;
+  // The number sits in the bottom-right corner on a line of its own, clear of the longest subtitles.
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 246 82" width="246" height="82" role="img" aria-label="${text(title)}: ${text(sub)}">` +
+    `<rect x="6" y="6" width="238" height="74" fill="${c.shadow}"/><rect x="1.5" y="1.5" width="238" height="74" fill="${c.card}" stroke="${c.cardLine}" stroke-width="3"/>` +
+    `<g transform="rotate(-4 34 39)"><rect x="16" y="21" width="36" height="36" fill="${c.tile}" stroke="${c.tileLine}" stroke-width="2"/>${glyph(key, c.glyph, 0.8, 24.4, 29.4)}</g>` +
+    `<text x="64" y="33" fill="${c.title}" font-family="${SANS}" font-size="12" font-weight="900" letter-spacing=".2">${text(title.toUpperCase())}</text>` +
+    `<text x="64" y="50" fill="${c.sub}" font-family="${MONO}" font-size="10.5">${text(sub)}</text>` +
+    `<text x="230" y="69" fill="${color}" font-family="${SANS}" font-size="11" font-weight="900" text-anchor="end">0${index}</text></svg>\n`;
 }
 
 await mkdir(path.join(OUT, "icons"), { recursive: true });

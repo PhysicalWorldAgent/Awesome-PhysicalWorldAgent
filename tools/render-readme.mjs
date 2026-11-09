@@ -30,7 +30,8 @@ import {
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DATA_FILE = "data/references.json";
 
-const COLORS = { conference: "356887", journal: "176b69", preprint: "a74743", book: "9a682d", other: "596367" };
+// Badge colours from the website's palette (its darker inks, so the white badge text stays legible)
+const COLORS = { conference: "2c5ca8", journal: "2f7a3e", preprint: "9b2016", book: "9a5c08", other: "5a5347" };
 const LABELS = { conference: "Conference", journal: "Journal", preprint: "Preprint", book: "Book", other: "Other" };
 // Short labels for the venues that recur in the bibliography
 const VENUES = [
@@ -147,8 +148,8 @@ export function renderReadme(references) {
     "",
     "  <p><strong><em>⭐ Star us if you find this useful!</em></strong></p>",
     "",
-    `  <a href="${SITE_URL}">${badge("Project website", "176b69")}</a>`,
-    `  <a href="#references">${badge("References", "356887")}</a>`,
+    `  <a href="${SITE_URL}">${badge("Project website", "b8301f")}</a>`,
+    `  <a href="#references">${badge("References", "16130f")}</a>`,
     '  <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome" height="18"></a>',
     "",
     "  <p>" +
@@ -193,7 +194,7 @@ export function renderReadme(references) {
     "",
     `<p align="center">${more.map((title) => `<a href="#${anchor(title)}">${html(title)}</a>`).join(" &nbsp;·&nbsp; ")}</p>`,
     "",
-    `<p align="center"><sub>Survey resources: <a href="${REPO_URL}">Awesome-PhysicalWorldAgent</a> &nbsp;·&nbsp; Website: <a href="${WEBSITE_REPO_URL}">PhysicalWorldAgent.github.io</a></sub></p>`,
+    `<p align="center"><sub>Survey resources: <a href="${REPO_URL}">Awesome-PhysicalWorldAgent</a> &nbsp;·&nbsp; Website: <a href="${SITE_URL}">PhysicalWorldAgent.github.io</a> (<a href="${WEBSITE_REPO_URL}">source</a>)</sub></p>`,
     "",
     "---",
     "",
