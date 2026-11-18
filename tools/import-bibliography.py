@@ -30,6 +30,8 @@ except ImportError:
 
 
 PUBLIC_FIELDS = {"id", "title", "authors", "year", "venue", "type", "url", "doi"}
+# The survey's own authors' first-author papers are cited in the manuscript but not listed in this repository.
+EXCLUDED_FIRST_AUTHORS = {"Meng Luo", "Yanlin Li", "Hongzhan Lin"}
 LATEX = LatexNodes2Text()
 ARXIV_ID = re.compile(r"(?:\d{4}\.\d{4,5}|[a-z-]+(?:\.[A-Z]{2})?/\d{7})(?:v\d+)?", re.I)
 DOI = re.compile(r"10\.\d{4,9}/\S+", re.I)
@@ -135,6 +137,8 @@ def import_entries(source: str, keep: set[str] | None = None) -> tuple[list[dict
             warnings.append(f"{identifier}: omitted entry with no title")
             continue
         authors = [author_name(person) for person in entry.persons.get("author", [])]
+        if authors and authors[0] in EXCLUDED_FIRST_AUTHORS:
+            continue
         if not authors:
             warnings.append(f"{identifier}: no authors in source; preserved empty authors array")
         if "et al." in authors:

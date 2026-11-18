@@ -9,65 +9,65 @@
       "Igor Mordatch"
     ],
     "year": 2022,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2201.07207",
+    "venue": "International Conference on Machine Learning (ICML)",
+    "type": "conference",
+    "url": "https://proceedings.mlr.press/v162/huang22a.html",
     "doi": ""
   },
   {
     "id": "arxiv220401691",
     "title": "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances",
     "authors": [
-      "Michael Ahn",
-      "Anthony Brohan",
-      "Noah Brown",
-      "Yevgen Chebotar",
-      "Omar Cortes",
-      "Byron David",
-      "Chelsea Finn",
-      "Chuyuan Fu",
-      "Keerthana Gopalakrishnan",
-      "Karol Hausman",
-      "Alex Herzog",
-      "Daniel Ho",
-      "Jasmine Hsu",
-      "Julian Ibarz",
       "Brian Ichter",
+      "Anthony Brohan",
+      "Yevgen Chebotar",
+      "Chelsea Finn",
+      "Karol Hausman",
+      "Alexander Herzog",
+      "Daniel Ho",
+      "Julian Ibarz",
       "Alex Irpan",
       "Eric Jang",
-      "Rosario Jauregui Ruano",
-      "Kyle Jeffrey",
-      "Sally Jesmonth",
-      "Nikhil J Joshi",
       "Ryan Julian",
       "Dmitry Kalashnikov",
-      "Yuheng Kuang",
-      "Kuang-Huei Lee",
       "Sergey Levine",
       "Yao Lu",
-      "Linda Luu",
       "Carolina Parada",
-      "Peter Pastor",
-      "Jornell Quiambao",
       "Kanishka Rao",
-      "Jarek Rettinghouse",
-      "Diego Reyes",
       "Pierre Sermanet",
-      "Nicolas Sievers",
-      "Clayton Tan",
-      "Alexander Toshev",
+      "Alexander T. Toshev",
       "Vincent Vanhoucke",
       "Fei Xia",
       "Ted Xiao",
       "Peng Xu",
-      "Sichun Xu",
       "Mengyuan Yan",
-      "Andy Zeng"
+      "Noah Brown",
+      "Michael Ahn",
+      "Omar Cortes",
+      "Nicolas Sievers",
+      "Clayton Tan",
+      "Sichun Xu",
+      "Diego Reyes",
+      "Jarek Rettinghouse",
+      "Jornell Quiambao",
+      "Peter Pastor",
+      "Linda Luu",
+      "Kuang-Huei Lee",
+      "Yuheng Kuang",
+      "Sally Jesmonth",
+      "Nikhil J. Joshi",
+      "Kyle Jeffrey",
+      "Rosario Jauregui Ruano",
+      "Jasmine Hsu",
+      "Keerthana Gopalakrishnan",
+      "Byron David",
+      "Andy Zeng",
+      "Chuyuan Kelly Fu"
     ],
     "year": 2022,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2204.01691",
+    "venue": "Conference on Robot Learning (CoRL)",
+    "type": "conference",
+    "url": "https://proceedings.mlr.press/v205/ichter23a.html",
     "doi": ""
   },
   {
@@ -102,17 +102,17 @@
       "Igor Mordatch",
       "Yevgen Chebotar",
       "Pierre Sermanet",
-      "Noah Brown",
       "Tomas Jackson",
+      "Noah Brown",
       "Linda Luu",
       "Sergey Levine",
       "Karol Hausman",
       "Brian Ichter"
     ],
     "year": 2022,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2207.05608",
+    "venue": "Conference on Robot Learning (CoRL)",
+    "type": "conference",
+    "url": "https://proceedings.mlr.press/v205/huang23c.html",
     "doi": ""
   },
   {
@@ -128,11 +128,11 @@
       "Pete Florence",
       "Andy Zeng"
     ],
-    "year": 2022,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2209.07753",
-    "doi": ""
+    "year": 2023,
+    "venue": "2023 IEEE International Conference on Robotics and Automation (ICRA)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/icra48891.2023.10160591",
+    "doi": "10.1109/icra48891.2023.10160591"
   },
   {
     "id": "arxiv220911302",
@@ -148,11 +148,11 @@
       "Jesse Thomason",
       "Animesh Garg"
     ],
-    "year": 2022,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2209.11302",
-    "doi": ""
+    "year": 2023,
+    "venue": "2023 IEEE International Conference on Robotics and Automation (ICRA)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/icra48891.2023.10161317",
+    "doi": "10.1109/icra48891.2023.10161317"
   },
   {
     "id": "arxiv230211649",
@@ -167,9 +167,9 @@
       "Ankit Shah"
     ],
     "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2302.11649",
+    "venue": "Conference on Robot Learning (CoRL)",
+    "type": "conference",
+    "url": "https://proceedings.mlr.press/v229/liu23d.html",
     "doi": ""
   },
   {
@@ -186,9 +186,9 @@
       "Serkan Cabi"
     ],
     "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2303.07280",
+    "venue": "Conference on Lifelong Learning Agents (CoLLAs)",
+    "type": "conference",
+    "url": "https://proceedings.mlr.press/v232/du23b.html",
     "doi": ""
   },
   {
@@ -213,7 +213,7 @@
   },
   {
     "id": "arxiv230405376",
-    "title": "ChemCrow: Augmenting large-language models with chemistry tools",
+    "title": "Augmenting large language models with chemistry tools",
     "authors": [
       "Andres M Bran",
       "Sam Cox",
@@ -222,11 +222,11 @@
       "Andrew D White",
       "Philippe Schwaller"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2304.05376",
-    "doi": ""
+    "year": 2024,
+    "venue": "Nature Machine Intelligence",
+    "type": "journal",
+    "url": "https://doi.org/10.1038/s42256-024-00832-8",
+    "doi": "10.1038/s42256-024-00832-8"
   },
   {
     "id": "arxiv230410267",
@@ -288,10 +288,10 @@
       "Virendra Ashiwal"
     ],
     "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2305.15809",
-    "doi": ""
+    "venue": "2023 IEEE 28th International Conference on Emerging Technologies and Factory Automation (ETFA)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/etfa54631.2023.10275411",
+    "doi": "10.1109/etfa54631.2023.10275411"
   },
   {
     "id": "arxiv230516291",
@@ -306,10 +306,10 @@
       "Linxi Fan",
       "Anima Anandkumar"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2305.16291",
+    "year": 2024,
+    "venue": "Transactions on Machine Learning Research",
+    "type": "journal",
+    "url": "https://openreview.net/forum?id=ehfRiF0R3a",
     "doi": ""
   },
   {
@@ -322,10 +322,10 @@
       "Sanjiban Choudhury"
     ],
     "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2305.16744",
-    "doi": ""
+    "venue": "Advances in Neural Information Processing Systems 36",
+    "type": "conference",
+    "url": "https://doi.org/10.52202/075280-0655",
+    "doi": "10.52202/075280-0655"
   },
   {
     "id": "arxiv230603310",
@@ -340,10 +340,10 @@
       "Peter Stone"
     ],
     "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2306.03310",
-    "doi": ""
+    "venue": "Advances in Neural Information Processing Systems 36",
+    "type": "conference",
+    "url": "https://doi.org/10.52202/075280-1939",
+    "doi": "10.52202/075280-1939"
   },
   {
     "id": "arxiv230606531",
@@ -356,11 +356,11 @@
       "Nicholas Roy",
       "Chuchu Fan"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2306.06531",
-    "doi": ""
+    "year": 2024,
+    "venue": "2024 IEEE International Conference on Robotics and Automation (ICRA)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/icra57147.2024.10611163",
+    "doi": "10.1109/icra57147.2024.10611163"
   },
   {
     "id": "arxiv230608647",
@@ -388,9 +388,9 @@
       "Fei Xia"
     ],
     "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2306.08647",
+    "venue": "Conference on Robot Learning (CoRL)",
+    "type": "conference",
+    "url": "https://proceedings.mlr.press/v229/yu23a.html",
     "doi": ""
   },
   {
@@ -402,9 +402,9 @@
       "Shuran Song"
     ],
     "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2306.15724",
+    "venue": "Conference on Robot Learning (CoRL)",
+    "type": "conference",
+    "url": "https://proceedings.mlr.press/v229/liu23g.html",
     "doi": ""
   },
   {
@@ -416,11 +416,11 @@
       "Arthur Bucker",
       "Ashish Kapoor"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2306.17582",
-    "doi": ""
+    "year": 2024,
+    "venue": "IEEE Access",
+    "type": "journal",
+    "url": "https://doi.org/10.1109/access.2024.3387941",
+    "doi": "10.1109/access.2024.3387941"
   },
   {
     "id": "arxiv230705973",
@@ -434,9 +434,9 @@
       "Li Fei-Fei"
     ],
     "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2307.05973",
+    "venue": "Conference on Robot Learning (CoRL)",
+    "type": "conference",
+    "url": "https://proceedings.mlr.press/v229/huang23b.html",
     "doi": ""
   },
   {
@@ -479,11 +479,11 @@
       "Ankit Shah",
       "Stefanie Tellex"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2309.09919",
-    "doi": ""
+    "year": 2024,
+    "venue": "2024 IEEE International Conference on Robotics and Automation (ICRA)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/icra57147.2024.10611447",
+    "doi": "10.1109/icra57147.2024.10611447"
   },
   {
     "id": "arxiv230911489",
@@ -498,10 +498,10 @@
       "Yanchao Yang",
       "Tao Yu"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2309.11489",
+    "year": 2024,
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=tUM39YTRxH",
     "doi": ""
   },
   {
@@ -518,10 +518,10 @@
       "Huazhe Xu",
       "Xiaolong Wang"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2310.01361",
+    "year": 2024,
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=OI3RoHoWAN",
     "doi": ""
   },
   {
@@ -536,10 +536,10 @@
       "Ofir Press",
       "Karthik Narasimhan"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2310.06770",
+    "year": 2024,
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=VTF8yNQM66",
     "doi": ""
   },
   {
@@ -551,18 +551,18 @@
       "Shuai Liu",
       "Bo Li",
       "Ziyue Wang",
-      "Chencheng Jiang",
       "Haoran Tan",
+      "Chencheng Jiang",
       "Jiamu Kang",
       "Yuanhan Zhang",
       "Kaiyang Zhou",
       "Ziwei Liu"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2310.08588",
-    "doi": ""
+    "year": 2024,
+    "venue": "European Conference on Computer Vision (ECCV)",
+    "type": "conference",
+    "url": "https://doi.org/10.1007/978-3-031-73232-4_2",
+    "doi": "10.1007/978-3-031-73232-4_2"
   },
   {
     "id": "arxiv231012931",
@@ -578,10 +578,10 @@
       "Linxi Fan",
       "Anima Anandkumar"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2310.12931",
+    "year": 2024,
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=IEduRUO55F",
     "doi": ""
   },
   {
@@ -592,11 +592,11 @@
       "Zhou Xian",
       "Katerina Fragkiadaki"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2310.18308",
-    "doi": ""
+    "year": 2024,
+    "venue": "2024 IEEE International Conference on Robotics and Automation (ICRA)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/icra57147.2024.10610566",
+    "doi": "10.1109/icra57147.2024.10610566"
   },
   {
     "id": "arxiv231100967",
@@ -612,11 +612,11 @@
       "Yoshitaka Ushiku",
       "Shinsuke Mori"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2311.00967",
-    "doi": ""
+    "year": 2024,
+    "venue": "2024 IEEE International Conference on Robotics and Automation (ICRA)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/icra57147.2024.10611112",
+    "doi": "10.1109/icra57147.2024.10611112"
   },
   {
     "id": "arxiv231101455",
@@ -632,10 +632,10 @@
       "David Held",
       "Chuang Gan"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2311.01455",
+    "year": 2024,
+    "venue": "International Conference on Machine Learning (ICML)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=SQIDlJd3hN",
     "doi": ""
   },
   {
@@ -670,11 +670,11 @@
       "Fei Xia",
       "Dorsa Sadigh"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2311.10678",
-    "doi": ""
+    "year": 2024,
+    "venue": "2024 IEEE International Conference on Robotics and Automation (ICRA)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/icra57147.2024.10610455",
+    "doi": "10.1109/icra57147.2024.10610455"
   },
   {
     "id": "arxiv231111183",
@@ -689,11 +689,11 @@
       "Arjun Guha",
       "Joydeep Biswas"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2311.11183",
-    "doi": ""
+    "year": 2024,
+    "venue": "IEEE Robotics and Automation Letters",
+    "type": "journal",
+    "url": "https://doi.org/10.1109/lra.2024.3360020",
+    "doi": "10.1109/lra.2024.3360020"
   },
   {
     "id": "arxiv231201421",
@@ -708,11 +708,11 @@
       "Jianwei Zhang",
       "Bin Fang"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2312.01421",
-    "doi": ""
+    "year": 2024,
+    "venue": "IEEE Robotics and Automation Letters",
+    "type": "journal",
+    "url": "https://doi.org/10.1109/lra.2024.3357432",
+    "doi": "10.1109/lra.2024.3357432"
   },
   {
     "id": "arxiv231204372",
@@ -731,11 +731,11 @@
       "James M. Rehg",
       "Ziran Wang"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2312.04372",
-    "doi": ""
+    "year": 2024,
+    "venue": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/cvpr52733.2024.01434",
+    "doi": "10.1109/cvpr52733.2024.01434"
   },
   {
     "id": "arxiv231204474",
@@ -752,10 +752,10 @@
       "Fei Xia",
       "Brian Ichter"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2312.04474",
+    "year": 2024,
+    "venue": "International Conference on Machine Learning (ICML)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=vKtomqlSxm",
     "doi": ""
   },
   {
@@ -778,11 +778,11 @@
       "Cewu Lu",
       "Mac Schwager"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2312.07843",
-    "doi": ""
+    "year": 2024,
+    "venue": "The International Journal of Robotics Research",
+    "type": "journal",
+    "url": "https://doi.org/10.1177/02783649241281508",
+    "doi": "10.1177/02783649241281508"
   },
   {
     "id": "arxiv231208782",
@@ -837,11 +837,11 @@
       "Aniruddha Kembhavi",
       "Christopher Clark"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2312.09067",
-    "doi": ""
+    "year": 2024,
+    "venue": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/cvpr52733.2024.01536",
+    "doi": "10.1109/cvpr52733.2024.01536"
   },
   {
     "id": "arxiv231210807",
@@ -863,11 +863,11 @@
       "Zhenshan Bing",
       "Alois Knoll"
     ],
-    "year": 2023,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2312.10807",
-    "doi": ""
+    "year": 2026,
+    "venue": "The International Journal of Robotics Research",
+    "type": "journal",
+    "url": "https://doi.org/10.1177/02783649261468360",
+    "doi": "10.1177/02783649261468360"
   },
   {
     "id": "arxiv231214950",
@@ -891,15 +891,15 @@
       "Mohamad Fakih",
       "Rahul Dharmaji",
       "Yasamin Moghaddas",
-      "Gustavo Quiros Araya",
+      "Gustavo Quiros",
       "Oluwatosin Ogundare",
       "Mohammad Abdullah Al Faruque"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2401.05443",
-    "doi": ""
+    "venue": "International Conference on Software Engineering: Software Engineering in Practice",
+    "type": "conference",
+    "url": "https://doi.org/10.1145/3639477.3639743",
+    "doi": "10.1145/3639477.3639743"
   },
   {
     "id": "arxiv240201030",
@@ -914,9 +914,9 @@
       "Heng Ji"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2402.01030",
+    "venue": "International Conference on Machine Learning (ICML)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=jJ9BoXAfFa",
     "doi": ""
   },
   {
@@ -931,10 +931,10 @@
       "Andy Zeng"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2402.05741",
-    "doi": ""
+    "venue": "Advanced Robotics",
+    "type": "journal",
+    "url": "https://doi.org/10.1080/01691864.2024.2408593",
+    "doi": "10.1080/01691864.2024.2408593"
   },
   {
     "id": "arxiv240208178",
@@ -947,9 +947,9 @@
       "Minsu Jang"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2402.08178",
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=ADSxCpCu9s",
     "doi": ""
   },
   {
@@ -960,30 +960,29 @@
       "Fei Xia",
       "Wenhao Yu",
       "Andy Zeng",
-      "Montserrat Gonzalez Arenas",
       "Maria Attarian",
-      "Maria Bauza",
+      "Maria Bauzá Villalonga",
       "Matthew Bennice",
       "Alex Bewley",
       "Adil Dostmohamed",
-      "Chuyuan Kelly Fu",
+      "Chuyuan Fu",
       "Nimrod Gileadi",
       "Marissa Giustina",
       "Keerthana Gopalakrishnan",
       "Leonard Hasenclever",
       "Jan Humplik",
       "Jasmine Hsu",
-      "Nikhil Joshi",
+      "Nikhil J. Joshi",
       "Ben Jyenis",
-      "Chase Kew",
+      "J. Chase Kew",
       "Sean Kirmani",
       "Tsang-Wei Edward Lee",
       "Kuang-Huei Lee",
       "Assaf Hurwitz Michaely",
       "Joss Moore",
-      "Ken Oslund",
+      "Kenneth Oslund",
       "Dushyant Rao",
-      "Allen Ren",
+      "Allen Z. Ren",
       "Baruch Tabanpour",
       "Quan Vuong",
       "Ayzaan Wahid",
@@ -999,7 +998,7 @@
       "Leila Takayama",
       "Vincent Vanhoucke",
       "Izhak Shafran",
-      "Maja Mataric",
+      "Maja J. Mataric",
       "Dorsa Sadigh",
       "Nicolas Heess",
       "Kanishka Rao",
@@ -1008,9 +1007,9 @@
       "Carolina Parada"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2402.11450",
+    "venue": "Robotics: Science and Systems (RSS)",
+    "type": "conference",
+    "url": "https://doi.org/10.15607/RSS.2024.XX.125",
     "doi": ""
   },
   {
@@ -1063,9 +1062,9 @@
       "Ping Luo"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2402.16117",
+    "venue": "International Conference on Machine Learning (ICML)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=xnQ1qoly7Q",
     "doi": ""
   },
   {
@@ -1083,11 +1082,11 @@
       "Jinyue Yan",
       "Yun Li"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2404.00282",
-    "doi": ""
+    "year": 2025,
+    "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+    "type": "journal",
+    "url": "https://doi.org/10.1109/tnnls.2024.3497992",
+    "doi": "10.1109/tnnls.2024.3497992"
   },
   {
     "id": "arxiv240403629",
@@ -1100,10 +1099,10 @@
       "Andrzej Wąsowski"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2404.03629",
-    "doi": ""
+    "venue": "Empirical Software Engineering",
+    "type": "journal",
+    "url": "https://doi.org/10.1007/s10664-024-10440-0",
+    "doi": "10.1007/s10664-024-10440-0"
   },
   {
     "id": "arxiv240405291",
@@ -1117,11 +1116,11 @@
       "Koushil Sreenath",
       "Yi Wu"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2404.05291",
-    "doi": ""
+    "year": 2025,
+    "venue": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/iros60139.2025.11246632",
+    "doi": "10.1109/iros60139.2025.11246632"
   },
   {
     "id": "arxiv240406645",
@@ -1136,10 +1135,10 @@
       "Karol Hausman"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2404.06645",
-    "doi": ""
+    "venue": "2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/iros58592.2024.10801525",
+    "doi": "10.1109/iros58592.2024.10801525"
   },
   {
     "id": "arxiv240501874",
@@ -1151,10 +1150,10 @@
       "Chandrika K R"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2405.01874",
-    "doi": ""
+    "venue": "2024 IEEE 29th International Conference on Emerging Technologies and Factory Automation (ETFA)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/etfa61755.2024.10711016",
+    "doi": "10.1109/etfa61755.2024.10711016"
   },
   {
     "id": "arxiv240503709",
@@ -1169,9 +1168,9 @@
       "Sanjit A. Seshia"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2405.03709",
+    "venue": "Conference on Language Modeling (COLM)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=MNLAbfZwh2",
     "doi": ""
   },
   {
@@ -1181,8 +1180,8 @@
       "Xuanlin Li",
       "Kyle Hsu",
       "Jiayuan Gu",
-      "Karl Pertsch",
       "Oier Mees",
+      "Karl Pertsch",
       "Homer Rich Walke",
       "Chuyuan Fu",
       "Ishikaa Lunawat",
@@ -1196,30 +1195,28 @@
       "Ted Xiao"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2405.05941",
+    "venue": "Conference on Robot Learning (CoRL)",
+    "type": "conference",
+    "url": "https://proceedings.mlr.press/v270/li25c.html",
     "doi": ""
   },
   {
     "id": "arxiv240511656",
     "title": "URDFormer: A Pipeline for Constructing Articulated Simulation Environments from Real-World Images",
     "authors": [
-      "Zoey Chen",
+      "Qiuyu Chen",
       "Aaron Walsman",
       "Marius Memmel",
       "Kaichun Mo",
       "Alex Fang",
-      "Karthikeya Vemuri",
-      "Alan Wu",
       "Dieter Fox",
       "Abhishek Gupta"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2405.11656",
-    "doi": ""
+    "venue": "Robotics: Science and Systems XX",
+    "type": "conference",
+    "url": "https://doi.org/10.15607/rss.2024.xx.124",
+    "doi": "10.15607/rss.2024.xx.124"
   },
   {
     "id": "arxiv240514062",
@@ -1230,10 +1227,10 @@
       "Bo Li"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2405.14062",
-    "doi": ""
+    "venue": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/cvpr52733.2024.01464",
+    "doi": "10.1109/cvpr52733.2024.01464"
   },
   {
     "id": "arxiv240514093",
@@ -1245,11 +1242,11 @@
       "Jianye Hao",
       "Irwin King"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2405.14093",
-    "doi": ""
+    "year": 2026,
+    "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+    "type": "journal",
+    "url": "https://doi.org/10.1109/tnnls.2025.3650584",
+    "doi": "10.1109/tnnls.2025.3650584"
   },
   {
     "id": "arxiv240515019",
@@ -1259,11 +1256,11 @@
       "Cornelius Weber",
       "Stefan Wermter"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2405.15019",
-    "doi": ""
+    "year": 2026,
+    "venue": "Robotics and Autonomous Systems",
+    "type": "journal",
+    "url": "https://doi.org/10.1016/j.robot.2025.105248",
+    "doi": "10.1016/j.robot.2025.105248"
   },
   {
     "id": "arxiv240515568",
@@ -1274,10 +1271,10 @@
       "Antoine Cully",
       "Jeff Clune"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2405.15568",
+    "year": 2025,
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=Y1XkzMJpPd",
     "doi": ""
   },
   {
@@ -1293,10 +1290,10 @@
       "Ofir Press"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2405.15793",
-    "doi": ""
+    "venue": "Advances in Neural Information Processing Systems 37",
+    "type": "conference",
+    "url": "https://doi.org/10.52202/079017-1601",
+    "doi": "10.52202/079017-1601"
   },
   {
     "id": "arxiv240520179",
@@ -1307,10 +1304,10 @@
       "Arjun Guha",
       "Joydeep Biswas"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2405.20179",
+    "year": 2025,
+    "venue": "Conference on Language Modeling (COLM)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=WnZjdQOWiY",
     "doi": ""
   },
   {
@@ -1323,11 +1320,11 @@
       "Sungju Kim",
       "Sunghun Kim"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2406.00515",
-    "doi": ""
+    "year": 2026,
+    "venue": "ACM Transactions on Software Engineering and Methodology",
+    "type": "journal",
+    "url": "https://doi.org/10.1145/3747588",
+    "doi": "10.1145/3747588"
   },
   {
     "id": "arxiv240601309",
@@ -1339,30 +1336,29 @@
       "Amy Loutfi",
       "Pedro Zuidberg Dos Martires"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2406.01309",
+    "year": 2025,
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=cJPUpL8mOw",
     "doi": ""
   },
   {
     "id": "arxiv240601967",
     "title": "DrEureka: Language Model Guided Sim-To-Real Transfer",
     "authors": [
-      "Yecheng Jason Ma",
+      "Yecheng Ma",
       "William Liang",
       "Hung-Ju Wang",
-      "Sam Wang",
       "Yuke Zhu",
       "Linxi Fan",
       "Osbert Bastani",
       "Dinesh Jayaraman"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2406.01967",
-    "doi": ""
+    "venue": "Robotics: Science and Systems XX",
+    "type": "conference",
+    "url": "https://doi.org/10.15607/rss.2024.xx.094",
+    "doi": "10.15607/rss.2024.xx.094"
   },
   {
     "id": "arxiv240603757",
@@ -1392,9 +1388,9 @@
       "Leslie Pack Kaelbling"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2406.05572",
+    "venue": "Conference on Robot Learning (CoRL)",
+    "type": "conference",
+    "url": "https://proceedings.mlr.press/v270/curtis25a.html",
     "doi": ""
   },
   {
@@ -1406,10 +1402,10 @@
       "Dominik Bauer",
       "Shuran Song"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2406.08474",
+    "year": 2025,
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=CAssIgPN4I",
     "doi": ""
   },
   {
@@ -1421,11 +1417,11 @@
       "Masoumeh Mansouri",
       "Martim Brandão"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2406.08824",
-    "doi": ""
+    "year": 2025,
+    "venue": "International Journal of Social Robotics",
+    "type": "journal",
+    "url": "https://doi.org/10.1007/s12369-025-01301-x",
+    "doi": "10.1007/s12369-025-01301-x"
   },
   {
     "id": "arxiv240614596",
@@ -1439,10 +1435,10 @@
       "Katerina Fragkiadaki"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2406.14596",
-    "doi": ""
+    "venue": "Advances in Neural Information Processing Systems 37",
+    "type": "conference",
+    "url": "https://doi.org/10.52202/079017-2418",
+    "doi": "10.52202/079017-2418"
   },
   {
     "id": "arxiv240618746",
@@ -1452,14 +1448,14 @@
       "Hamidreza Kasaei"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2406.18746",
-    "doi": ""
+    "venue": "2024 IEEE International Conference on Robotics and Automation (ICRA)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/icra57147.2024.10611448",
+    "doi": "10.1109/icra57147.2024.10611448"
   },
   {
     "id": "arxiv240619741",
-    "title": "ROS-LLM: A ROS framework for embodied AI with task feedback and structured reasoning",
+    "title": "A robot operating system framework for using large language models in embodied AI",
     "authors": [
       "Christopher E. Mower",
       "Yuhui Wan",
@@ -1467,29 +1463,29 @@
       "Antoine Grosnit",
       "Jonas Gonzalez-Billandon",
       "Matthieu Zimmer",
-      "Jinlong Wang",
-      "Xinyu Zhang",
-      "Yao Zhao",
-      "Anbang Zhai",
       "Puze Liu",
       "Daniel Palenicek",
       "Davide Tateo",
+      "Jan Peters",
+      "Kaixian Qu",
+      "Mike Zhang",
+      "Guowei Lan",
+      "Andrei Cramariuc",
       "Cesar Cadena",
       "Marco Hutter",
-      "Jan Peters",
       "Guangjian Tian",
-      "Yuzheng Zhuang",
+      "Yuzhen Zhuang",
       "Kun Shao",
       "Xingyue Quan",
       "Jianye Hao",
       "Jun Wang",
       "Haitham Bou-Ammar"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2406.19741",
-    "doi": ""
+    "year": 2026,
+    "venue": "Nature Machine Intelligence",
+    "type": "journal",
+    "url": "https://doi.org/10.1038/s42256-026-01186-z",
+    "doi": "10.1038/s42256-026-01186-z"
   },
   {
     "id": "arxiv240703321",
@@ -1501,11 +1497,11 @@
       "Michael L. Littman",
       "Stephen H. Bach"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2407.03321",
-    "doi": ""
+    "year": 2025,
+    "venue": "2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    "type": "conference",
+    "url": "https://doi.org/10.18653/v1/2025.naacl-long.560",
+    "doi": "10.18653/v1/2025.naacl-long.560"
   },
   {
     "id": "arxiv240708626",
@@ -1518,11 +1514,11 @@
       "Marek Cygan",
       "Łukasz Kuciński"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2407.08626",
-    "doi": ""
+    "year": 2026,
+    "venue": "2026 IEEE International Conference on Robotics and Automation (ICRA)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/icra57385.2026.11696020",
+    "doi": "10.1109/icra57385.2026.11696020"
   },
   {
     "id": "arxiv240715325",
@@ -1537,11 +1533,11 @@
       "Tongya Zheng",
       "Mingli Song"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2407.15325",
-    "doi": ""
+    "year": 2025,
+    "venue": "Thirty-Fourth International Joint Conference on Artificial Intelligence",
+    "type": "conference",
+    "url": "https://doi.org/10.24963/ijcai.2025/22",
+    "doi": "10.24963/ijcai.2025/22"
   },
   {
     "id": "arxiv240716741",
@@ -1572,10 +1568,10 @@
       "Heng Ji",
       "Graham Neubig"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2407.16741",
+    "year": 2025,
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=OJd3ayDDoF",
     "doi": ""
   },
   {
@@ -1595,10 +1591,10 @@
       "Peijin Guo",
       "Leo Yu Zhang"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2407.20242",
+    "year": 2025,
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=ei3qCntB66",
     "doi": ""
   },
   {
@@ -1612,9 +1608,9 @@
       "Li Fei-Fei"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2409.01652",
+    "venue": "Conference on Robot Learning (CoRL)",
+    "type": "conference",
+    "url": "https://proceedings.mlr.press/v270/huang25g.html",
     "doi": ""
   },
   {
@@ -1629,11 +1625,11 @@
       "Lingming Zhang",
       "Yiling Lou"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2409.02977",
-    "doi": ""
+    "year": 2026,
+    "venue": "ACM Transactions on Software Engineering and Methodology",
+    "type": "journal",
+    "url": "https://doi.org/10.1145/3796507",
+    "doi": "10.1145/3796507"
   },
   {
     "id": "arxiv240909491",
@@ -1665,11 +1661,11 @@
       "Koushil Sreenath",
       "Negar Mehr"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2409.18382",
-    "doi": ""
+    "year": 2025,
+    "venue": "2025 IEEE International Conference on Robotics and Automation (ICRA)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/icra55743.2025.11128783",
+    "doi": "10.1109/icra55743.2025.11128783"
   },
   {
     "id": "arxiv240919471",
@@ -1684,11 +1680,11 @@
       "Lin Tan",
       "Suresh Jagannathan"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2409.19471",
-    "doi": ""
+    "year": 2025,
+    "venue": "2025 IEEE International Conference on Robotics and Automation (ICRA)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/icra55743.2025.11128420",
+    "doi": "10.1109/icra55743.2025.11128420"
   },
   {
     "id": "arxiv241000371",
@@ -1705,10 +1701,10 @@
       "Ajay Mandlekar",
       "Yijie Guo"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2410.00371",
+    "year": 2025,
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=JVkdSi7Ekg",
     "doi": ""
   },
   {
@@ -1719,11 +1715,11 @@
       "Shizhe Chen",
       "Cordelia Schmid"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2410.01345",
-    "doi": ""
+    "year": 2025,
+    "venue": "2025 IEEE International Conference on Robotics and Automation (ICRA)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/icra55743.2025.11127315",
+    "doi": "10.1109/icra55743.2025.11127315"
   },
   {
     "id": "arxiv241003645",
@@ -1738,9 +1734,9 @@
       "Lirui Wang"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2410.03645",
+    "venue": "Conference on Robot Learning (CoRL)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=5u9l6U61S7",
     "doi": ""
   },
   {
@@ -1756,9 +1752,9 @@
       "Jeannette Bohg"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2410.04640",
+    "venue": "Conference on Robot Learning (CoRL)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=yqLFb0RnDW",
     "doi": ""
   },
   {
@@ -1782,10 +1778,10 @@
       "Jiajun Wu"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2410.07166",
-    "doi": ""
+    "venue": "Advances in Neural Information Processing Systems 37",
+    "type": "conference",
+    "url": "https://doi.org/10.52202/079017-3188",
+    "doi": "10.52202/079017-3188"
   },
   {
     "id": "arxiv241013691",
@@ -1797,11 +1793,11 @@
       "Hamed Hassani",
       "George J. Pappas"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2410.13691",
-    "doi": ""
+    "year": 2025,
+    "venue": "2025 IEEE International Conference on Robotics and Automation (ICRA)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/icra55743.2025.11128119",
+    "doi": "10.1109/icra55743.2025.11128119"
   },
   {
     "id": "arxiv241013837",
@@ -1812,10 +1808,10 @@
       "Aldo Pacchiano",
       "Pulkit Agrawal"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2410.13837",
+    "year": 2025,
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=0uRc3CfJIQ",
     "doi": ""
   },
   {
@@ -1833,10 +1829,10 @@
       "Dinesh Jayaraman",
       "Eric Eaton"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2410.13882",
+    "year": 2025,
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=s3FTX4Ay55",
     "doi": ""
   },
   {
@@ -1850,11 +1846,11 @@
       "Liangpeng Zhang",
       "Xiu Li"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2410.14660",
-    "doi": ""
+    "year": 2025,
+    "venue": "Knowledge-Based Systems",
+    "type": "journal",
+    "url": "https://doi.org/10.1016/j.knosys.2025.114065",
+    "doi": "10.1016/j.knosys.2025.114065"
   },
   {
     "id": "arxiv241014865",
@@ -1884,11 +1880,11 @@
       "Stan Birchfield",
       "Jonathan Tremblay"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2410.15536",
-    "doi": ""
+    "year": 2025,
+    "venue": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/cvprw67362.2025.00064",
+    "doi": "10.1109/cvprw67362.2025.00064"
   },
   {
     "id": "arxiv241018893",
@@ -1906,7 +1902,7 @@
   },
   {
     "id": "arxiv241101775",
-    "title": "Eurekaverse: Environment Curriculum Generation via Large Language Models",
+    "title": "Environment Curriculum Generation via Large Language Models",
     "authors": [
       "William Liang",
       "Sam Wang",
@@ -1916,9 +1912,9 @@
       "Yecheng Jason Ma"
     ],
     "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2411.01775",
+    "venue": "Conference on Robot Learning (CoRL)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=F0rWEID2gb",
     "doi": ""
   },
   {
@@ -1929,11 +1925,11 @@
       "Pin-Yu Chen",
       "Tsung-Yi Ho"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2411.02317",
-    "doi": ""
+    "year": 2026,
+    "venue": "Communications of the ACM",
+    "type": "journal",
+    "url": "https://doi.org/10.1145/3816260",
+    "doi": "10.1145/3816260"
   },
   {
     "id": "arxiv241104549",
@@ -1941,7 +1937,6 @@
     "authors": [
       "Yecheng Jason Ma",
       "Joey Hejna",
-      "Ayzaan Wahid",
       "Chuyuan Fu",
       "Dhruv Shah",
       "Jacky Liang",
@@ -1950,7 +1945,6 @@
       "Peng Xu",
       "Danny Driess",
       "Ted Xiao",
-      "Jonathan Tompson",
       "Osbert Bastani",
       "Dinesh Jayaraman",
       "Wenhao Yu",
@@ -1958,10 +1952,10 @@
       "Dorsa Sadigh",
       "Fei Xia"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2411.04549",
+    "year": 2025,
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=friHAl5ofG",
     "doi": ""
   },
   {
@@ -1977,11 +1971,11 @@
       "Lu Sheng",
       "He Wang"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2412.04455",
-    "doi": ""
+    "year": 2025,
+    "venue": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/cvpr52734.2025.00649",
+    "doi": "10.1109/cvpr52734.2025.00649"
   },
   {
     "id": "arxiv241213178",
@@ -2037,11 +2031,11 @@
       "Yu-Gang Jiang",
       "Xipeng Qiu"
     ],
-    "year": 2024,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2412.18194",
-    "doi": ""
+    "year": 2025,
+    "venue": "2025 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/iccv51701.2025.01037",
+    "doi": "10.1109/iccv51701.2025.01037"
   },
   {
     "id": "arxiv250104268",
@@ -2054,10 +2048,10 @@
       "Xilin Chen"
     ],
     "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2501.04268",
-    "doi": ""
+    "venue": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/iros60139.2025.11247043",
+    "doi": "10.1109/iros60139.2025.11247043"
   },
   {
     "id": "arxiv250209560",
@@ -2078,9 +2072,9 @@
       "Tong Zhang"
     ],
     "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2502.09560",
+    "venue": "International Conference on Machine Learning (ICML)",
+    "type": "conference",
+    "url": "https://proceedings.mlr.press/v267/yang25f.html",
     "doi": ""
   },
   {
@@ -2107,10 +2101,10 @@
       "Li Yi"
     ],
     "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2502.13143",
-    "doi": ""
+    "venue": "Advances in Neural Information Processing Systems 38",
+    "type": "conference",
+    "url": "https://doi.org/10.52202/085713-2565",
+    "doi": "10.52202/085713-2565"
   },
   {
     "id": "arxiv250301700",
@@ -2122,10 +2116,10 @@
       "Chuchu Fan"
     ],
     "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2503.01700",
-    "doi": ""
+    "venue": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/iros60139.2025.11247174",
+    "doi": "10.1109/iros60139.2025.11247174"
   },
   {
     "id": "arxiv250304280",
@@ -2139,10 +2133,10 @@
       "Pietro Falco"
     ],
     "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2503.04280",
-    "doi": ""
+    "venue": "IEEE Robotics and Automation Letters",
+    "type": "journal",
+    "url": "https://doi.org/10.1109/lra.2025.3589162",
+    "doi": "10.1109/lra.2025.3589162"
   },
   {
     "id": "arxiv250307885",
@@ -2154,11 +2148,11 @@
       "George J. Pappas",
       "Hamed Hassani"
     ],
-    "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2503.07885",
-    "doi": ""
+    "year": 2026,
+    "venue": "IEEE Robotics and Automation Letters",
+    "type": "journal",
+    "url": "https://doi.org/10.1109/lra.2026.3667488",
+    "doi": "10.1109/lra.2026.3667488"
   },
   {
     "id": "arxiv250310966",
@@ -2175,10 +2169,10 @@
       "Haruki Nishimura"
     ],
     "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2503.10966",
-    "doi": ""
+    "venue": "Robotics: Science and Systems XXI",
+    "type": "conference",
+    "url": "https://doi.org/10.15607/rss.2025.xxi.077",
+    "doi": "10.15607/rss.2025.xxi.077"
   },
   {
     "id": "arxiv250320020",
@@ -2206,11 +2200,11 @@
       "Ming Cao",
       "Shiyu Zhao"
     ],
-    "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2503.23875",
-    "doi": ""
+    "year": 2026,
+    "venue": "npj Robotics",
+    "type": "journal",
+    "url": "https://doi.org/10.1038/s44182-025-00065-w",
+    "doi": "10.1038/s44182-025-00065-w"
   },
   {
     "id": "arxiv250324278",
@@ -2223,9 +2217,9 @@
       "Sergey Levine"
     ],
     "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2503.24278",
+    "venue": "Conference on Robot Learning (CoRL)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=isrcFrgwZp",
     "doi": ""
   },
   {
@@ -2242,10 +2236,10 @@
       "Tat-Seng Chua"
     ],
     "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2504.07981",
-    "doi": ""
+    "venue": "ACM International Conference on Multimedia",
+    "type": "conference",
+    "url": "https://doi.org/10.1145/3746027.3755688",
+    "doi": "10.1145/3746027.3755688"
   },
   {
     "id": "arxiv250412636",
@@ -2267,10 +2261,10 @@
       "Xiaodan Liang"
     ],
     "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2504.12636",
-    "doi": ""
+    "venue": "2025 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/iccv51701.2025.01253",
+    "doi": "10.1109/iccv51701.2025.01253"
   },
   {
     "id": "arxiv250600276",
@@ -2297,11 +2291,11 @@
       "Andrew Goldberg",
       "Dennis Hong"
     ],
-    "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2506.02507",
-    "doi": ""
+    "year": 2026,
+    "venue": "2026 IEEE International Conference on Robotics and Automation (ICRA)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/icra57385.2026.11696789",
+    "doi": "10.1109/icra57385.2026.11696789"
   },
   {
     "id": "arxiv250611003",
@@ -2317,11 +2311,11 @@
       "Shing-Chi Cheung",
       "Le Sun"
     ],
-    "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2506.11003",
-    "doi": ""
+    "year": 2026,
+    "venue": "2026 IEEE/ACM 48th International Conference on Software Engineering",
+    "type": "conference",
+    "url": "https://doi.org/10.1145/3744916.3787788",
+    "doi": "10.1145/3744916.3787788"
   },
   {
     "id": "arxiv250616652",
@@ -2338,10 +2332,10 @@
       "Yunzhu Li"
     ],
     "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2506.16652",
-    "doi": ""
+    "venue": "Robotics: Science and Systems XXI",
+    "type": "conference",
+    "url": "https://doi.org/10.15607/rss.2025.xxi.072",
+    "doi": "10.15607/rss.2025.xxi.072"
   },
   {
     "id": "arxiv250618088",
@@ -2374,10 +2368,10 @@
       "Ping Luo",
       "Yao Mu"
     ],
-    "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2506.18088",
+    "year": 2026,
+    "venue": "International Conference on Machine Learning (ICML)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=itonej9GIV",
     "doi": ""
   },
   {
@@ -2390,37 +2384,31 @@
       "Moo Jin Kim",
       "Arhan Jain",
       "Artur Kuramshin",
-      "Clemens Eppner",
       "Cyrus Neary",
-      "Edward Hu",
-      "Fabio Ramos",
-      "Jonathan Tremblay",
+      "Edward S. Hu",
       "Kanav Arora",
       "Kirsty Ellis",
       "Luca Macesanu",
-      "Marcel Torne Villasevil",
       "Matthew Leonard",
       "Meedeum Cho",
       "Ozgur Aslan",
       "Shivin Dass",
-      "Jie Wang",
-      "William Reger",
+      "Tony Wang",
       "Xingfang Yuan",
-      "Xuning Yang",
       "Abhishek Gupta",
       "Dinesh Jayaraman",
       "Glen Berseth",
       "Kostas Daniilidis",
-      "Roberto Martin-Martin",
+      "Roberto Martín-Martín",
       "Youngwoon Lee",
       "Percy Liang",
       "Chelsea Finn",
       "Sergey Levine"
     ],
     "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2506.18123",
+    "venue": "Conference on Robot Learning (CoRL)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=cpmwi3Xwcr",
     "doi": ""
   },
   {
@@ -2457,11 +2445,11 @@
       "Long Jiao",
       "Jiawei Yuan"
     ],
-    "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2507.01930",
-    "doi": ""
+    "year": 2026,
+    "venue": "IEEE Internet of Things Journal",
+    "type": "journal",
+    "url": "https://doi.org/10.1109/jiot.2025.3649376",
+    "doi": "10.1109/jiot.2025.3649376"
   },
   {
     "id": "arxiv250702256",
@@ -2473,9 +2461,9 @@
       "Miao Xin"
     ],
     "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2507.02256",
+    "venue": "Transactions on Machine Learning Research",
+    "type": "journal",
+    "url": "https://openreview.net/forum?id=CId5tW1HxR",
     "doi": ""
   },
   {
@@ -2498,11 +2486,11 @@
     "authors": [
       "TRI LBM Team"
     ],
-    "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2507.05331",
-    "doi": ""
+    "year": 2026,
+    "venue": "Science Robotics",
+    "type": "journal",
+    "url": "https://doi.org/10.1126/scirobotics.aea6201",
+    "doi": "10.1126/scirobotics.aea6201"
   },
   {
     "id": "arxiv250721046",
@@ -2536,10 +2524,10 @@
       "Heng Ji",
       "Mengdi Wang"
     ],
-    "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2507.21046",
+    "year": 2026,
+    "venue": "Transactions on Machine Learning Research",
+    "type": "journal",
+    "url": "https://openreview.net/forum?id=CTr3bovS5F",
     "doi": ""
   },
   {
@@ -2554,11 +2542,11 @@
       "Zhenshan Bing",
       "Alois Knoll"
     ],
-    "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2509.18597",
-    "doi": ""
+    "year": 2026,
+    "venue": "IEEE Robotics and Automation Letters",
+    "type": "journal",
+    "url": "https://doi.org/10.1109/lra.2026.3744999",
+    "doi": "10.1109/lra.2026.3744999"
   },
   {
     "id": "arxiv250924160",
@@ -2613,11 +2601,11 @@
       "Yinzhi Cao",
       "Alvaro A Cardenas"
     ],
-    "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2510.00181",
-    "doi": ""
+    "year": 2026,
+    "venue": "2026 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/satml68715.2026.00055",
+    "doi": "10.1109/satml68715.2026.00055"
   },
   {
     "id": "arxiv251000182",
@@ -2689,11 +2677,11 @@
       "Anushri Dixit",
       "Anirudha Majumdar"
     ],
-    "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2510.04354",
-    "doi": ""
+    "year": 2026,
+    "venue": "2026 IEEE International Conference on Robotics and Automation (ICRA)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/icra57385.2026.11697329",
+    "doi": "10.1109/icra57385.2026.11697329"
   },
   {
     "id": "arxiv251011660",
@@ -2748,10 +2736,10 @@
       "Honguk Woo"
     ],
     "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2510.21302",
-    "doi": ""
+    "venue": "Advances in Neural Information Processing Systems 38",
+    "type": "conference",
+    "url": "https://doi.org/10.52202/085713-2533",
+    "doi": "10.52202/085713-2533"
   },
   {
     "id": "arxiv251023571",
@@ -2768,10 +2756,10 @@
       "Yonatan Bisk",
       "Katerina Fragkiadaki"
     ],
-    "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2510.23571",
+    "year": 2026,
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=OutljIofvS",
     "doi": ""
   },
   {
@@ -2781,10 +2769,10 @@
       "Kevin Qiu",
       "Marek Cygan"
     ],
-    "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2510.25850",
+    "year": 2026,
+    "venue": "International Conference on Machine Learning (ICML)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=1ufVo73uzD",
     "doi": ""
   },
   {
@@ -2815,11 +2803,11 @@
       "Long Jiao",
       "Jiawei Yuan"
     ],
-    "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2512.02002",
-    "doi": ""
+    "year": 2026,
+    "venue": "2026 IEEE International Conference on Robotics and Automation (ICRA)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/icra57385.2026.11696332",
+    "doi": "10.1109/icra57385.2026.11696332"
   },
   {
     "id": "arxiv251206951",
@@ -2888,11 +2876,11 @@
       "Abhishek Gupta",
       "Karl Pertsch"
     ],
-    "year": 2025,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2512.16881",
-    "doi": ""
+    "year": 2026,
+    "venue": "Robotics: Science and Systems XXII",
+    "type": "conference",
+    "url": "https://doi.org/10.15607/rss.2026.xxii.062",
+    "doi": "10.15607/rss.2026.xxii.062"
   },
   {
     "id": "arxiv251217853",
@@ -2937,25 +2925,6 @@
     "doi": ""
   },
   {
-    "id": "arxiv260102669",
-    "title": "Towards Comprehensive Stage-wise Benchmarking of Large Language Models in Fact-Checking",
-    "authors": [
-      "Hongzhan Lin",
-      "Zixin Chen",
-      "Zhiqi Shen",
-      "Ziyang Luo",
-      "Zhen Ye",
-      "Jing Ma",
-      "Tat-Seng Chua",
-      "Guandong Xu"
-    ],
-    "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2601.02669",
-    "doi": ""
-  },
-  {
     "id": "arxiv260105356",
     "title": "PRISM: Protocol Refinement through Intelligent Simulation Modeling",
     "authors": [
@@ -2971,10 +2940,10 @@
       "Arvind Ramanathan"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2601.05356",
-    "doi": ""
+    "venue": "Digital Discovery",
+    "type": "journal",
+    "url": "https://doi.org/10.1039/d6dd00004e",
+    "doi": "10.1039/d6dd00004e"
   },
   {
     "id": "arxiv260115164",
@@ -3029,9 +2998,9 @@
       "Tiffany J. Hwu"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2601.20334",
+    "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=nh704PUegV",
     "doi": ""
   },
   {
@@ -3090,10 +3059,10 @@
       "Matteo Matteucci"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2602.01870",
-    "doi": ""
+    "venue": "2026 International Joint Conference on Neural Networks (IJCNN)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/ijcnn69854.2026.11728453",
+    "doi": "10.1109/ijcnn69854.2026.11728453"
   },
   {
     "id": "arxiv260206556",
@@ -3108,10 +3077,10 @@
       "Xinmin Liu"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2602.06556",
-    "doi": ""
+    "venue": "Robotics: Science and Systems XXII",
+    "type": "conference",
+    "url": "https://doi.org/10.15607/rss.2026.xxii.097",
+    "doi": "10.15607/rss.2026.xxii.097"
   },
   {
     "id": "arxiv260208971",
@@ -3136,14 +3105,15 @@
       "Jun Zhu",
       "Yonghong Tian",
       "Tat-Seng Chua",
+      "Xin Wang",
       "Wenwu Zhu",
       "Yong Li"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2602.08971",
-    "doi": ""
+    "venue": "AI Open",
+    "type": "journal",
+    "url": "https://doi.org/10.1016/j.aiopen.2026.07.002",
+    "doi": "10.1016/j.aiopen.2026.07.002"
   },
   {
     "id": "arxiv260300455",
@@ -3170,10 +3140,10 @@
       "Yuanqing Zheng"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2603.01414",
-    "doi": ""
+    "venue": "2026 ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems",
+    "type": "conference",
+    "url": "https://doi.org/10.1145/3774906.3802758",
+    "doi": "10.1145/3774906.3802758"
   },
   {
     "id": "arxiv260301505",
@@ -3218,10 +3188,10 @@
       "Bilge Mutlu"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2603.06842",
-    "doi": ""
+    "venue": "ACM/IEEE International Conference on Human-Robot Interaction",
+    "type": "conference",
+    "url": "https://doi.org/10.1145/3757279.3785550",
+    "doi": "10.1145/3757279.3785550"
   },
   {
     "id": "arxiv260313616",
@@ -3236,26 +3206,26 @@
       "Haruki Nishimura"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2603.13616",
-    "doi": ""
+    "venue": "Robotics: Science and Systems XXII",
+    "type": "conference",
+    "url": "https://doi.org/10.15607/rss.2026.xxii.076",
+    "doi": "10.15607/rss.2026.xxii.076"
   },
   {
     "id": "arxiv260318520",
-    "title": "Robotic Agentic Platform for Intelligent Electric Vehicle Disassembly",
+    "title": "RAPID: Robotic Agentic Platform for Intelligent Disassembly — Platform Design and Unscrewing Evaluation",
     "authors": [
       "Zachary Allen",
       "Max Conway",
       "Lyle Antieau",
-      "Allen Ponraj",
+      "Allen Devaraj",
       "Nikolaus Correll"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2603.18520",
-    "doi": ""
+    "venue": "2026 IEEE 22nd International Conference on Automation Science and Engineering (CASE)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/case69030.2026.11704152",
+    "doi": "10.1109/case69030.2026.11704152"
   },
   {
     "id": "arxiv260319583",
@@ -3272,10 +3242,10 @@
       "Tingjun Chen"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2603.19583",
-    "doi": ""
+    "venue": "ACM Conference on AI and Agentic Systems",
+    "type": "conference",
+    "url": "https://doi.org/10.1145/3786335.3813205",
+    "doi": "10.1145/3786335.3813205"
   },
   {
     "id": "arxiv260322435",
@@ -3288,20 +3258,18 @@
       "Haoru Xue",
       "Huang Huang",
       "Wenli Xiao",
-      "Guanzhi Wang",
-      "Dantong Niu",
-      "Fei-Fei Li",
+      "Li Fei-Fei",
       "Guanya Shi",
       "Jiajun Wu",
-      "Shankar Sastry",
+      "S. Shankar Sastry",
       "Yuke Zhu",
       "Ken Goldberg",
-      "Linxi \"Jim\" Fan"
+      "Linxi Fan"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2603.22435",
+    "venue": "International Conference on Machine Learning (ICML)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=4JRO9plGAI",
     "doi": ""
   },
   {
@@ -3330,11 +3298,11 @@
       "Junhang Cheng",
       "Tuney Zheng",
       "Fanglin Xu",
-      "Weicheng Gu",
-      "Lin Jing",
+      "William Grant",
+      "Linzheng Chai",
       "Yaxin Du",
-      "Joseph Li",
-      "Yizhi Li",
+      "Haau-Sing Li",
+      "Yizhi LI",
       "Yan Xing",
       "Chuan Hao",
       "Ran Tao",
@@ -3344,17 +3312,17 @@
       "Mingjie Tang",
       "Chenghua Lin",
       "Siheng Chen",
-      "Wayne Xin Zhao",
+      "Xin Zhao",
       "Xianglong Liu",
       "Ming Zhou",
       "Bryan Dai",
       "Weifeng Lv"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2604.03144",
-    "doi": ""
+    "venue": "2026 Conference on Empirical Methods in Natural Language Processing",
+    "type": "conference",
+    "url": "https://doi.org/10.18653/2026.emnlp-main.1827",
+    "doi": "10.18653/2026.emnlp-main.1827"
   },
   {
     "id": "arxiv260405427",
@@ -3568,10 +3536,10 @@
       "Xiaonan Huang"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2605.25832",
-    "doi": ""
+    "venue": "2026 Conference on Empirical Methods in Natural Language Processing",
+    "type": "conference",
+    "url": "https://doi.org/10.18653/2026.emnlp-main.368",
+    "doi": "10.18653/2026.emnlp-main.368"
   },
   {
     "id": "arxiv260600083",
@@ -3637,11 +3605,11 @@
       "Sumin Lee",
       "Joo Yong Sim"
     ],
-    "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2606.03047",
-    "doi": ""
+    "year": 2025,
+    "venue": "IEEE Robotics and Automation Letters",
+    "type": "journal",
+    "url": "https://doi.org/10.1109/lra.2025.3623437",
+    "doi": "10.1109/lra.2025.3623437"
   },
   {
     "id": "arxiv260605395",
@@ -3673,9 +3641,9 @@
       "Honguk Woo"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2606.07999",
+    "venue": "International Conference on Machine Learning (ICML)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=GQ4zj5YiyC",
     "doi": ""
   },
   {
@@ -3691,9 +3659,9 @@
       "Georgia Chalvatzaki"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2606.08610",
+    "venue": "Conference on Robot Learning (CoRL)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=JqZEEaNDLJ",
     "doi": ""
   },
   {
@@ -3708,9 +3676,9 @@
       "Seth Donoughe"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2606.11150",
+    "venue": "International Conference on Machine Learning (ICML)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=yiaf7VlPpH",
     "doi": ""
   },
   {
@@ -3756,9 +3724,9 @@
       "Trevor Darrell"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2606.19419",
+    "venue": "Conference on Robot Learning (CoRL)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=GeL3GdwSYo",
     "doi": ""
   },
   {
@@ -3784,9 +3752,9 @@
       "Guanya Shi"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2606.19980",
+    "venue": "Conference on Robot Learning (CoRL)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=0cK9Wf9Eeq",
     "doi": ""
   },
   {
@@ -3858,6 +3826,7 @@
       "Runyu Lu",
       "Yubo Wu",
       "Ethan Kou",
+      "Haotian Lin",
       "Letian Fu",
       "Wenli Xiao",
       "Ajay Mandlekar",
@@ -3866,6 +3835,7 @@
       "Ken Goldberg",
       "Ang Chen",
       "Mosharaf Chowdhury",
+      "Jan Kautz",
       "Yuke Zhu",
       "Linxi \"Jim\" Fan",
       "Guanzhi Wang"
@@ -4181,10 +4151,10 @@
       "Bilge Mutlu"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2608.08884",
-    "doi": ""
+    "venue": "ACM Symposium on User Interface Software and Technology",
+    "type": "conference",
+    "url": "https://doi.org/10.1145/3830398.3830644",
+    "doi": "10.1145/3830398.3830644"
   },
   {
     "id": "arxiv260809410",
@@ -4250,7 +4220,7 @@
       "Pierre Dantas",
       "Lucas Cordeiro",
       "Ehsan Nowroozi",
-      "Tihanyi Norbert"
+      "Norbert Tihanyi"
     ],
     "year": 2026,
     "venue": "arXiv",
@@ -4361,6 +4331,7 @@
     "authors": [
       "Yanlun Tu",
       "Huacan Wang",
+      "Jin Xie",
       "Ziyue Zhou",
       "Jie Zhou",
       "Ningyan Zhu",
@@ -4508,10 +4479,10 @@
       "Albert No"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2609.05401",
-    "doi": ""
+    "venue": "2026 Conference on Empirical Methods in Natural Language Processing",
+    "type": "conference",
+    "url": "https://doi.org/10.18653/2026.emnlp-main.1687",
+    "doi": "10.18653/2026.emnlp-main.1687"
   },
   {
     "id": "arxiv260907111",
@@ -4605,27 +4576,6 @@
     "doi": ""
   },
   {
-    "id": "arxiv260916679",
-    "title": "AI for Games in the Foundation Model Era",
-    "authors": [
-      "Meng Luo",
-      "Yanlin Li",
-      "Hao Li",
-      "Hongzhan Lin",
-      "Pengfei Zhou",
-      "Tianjie Ju",
-      "Ran Zhang",
-      "Yeying Jin",
-      "Mong-Li Lee",
-      "Wynne Hsu"
-    ],
-    "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2609.16679",
-    "doi": ""
-  },
-  {
     "id": "arxiv260918994",
     "title": "A Benchmark Suite and Ground-Truth Methodology for Formal Verification of IEC 61131-3 Ladder Diagram Programs",
     "authors": [
@@ -4661,6 +4611,7 @@
     "title": "Learning and Transferring Closed-Loop Robot Software",
     "authors": [
       "So Kuroki",
+      "Kento Kawaharazuka",
       "Yujin Tang"
     ],
     "year": 2026,
@@ -5202,7 +5153,8 @@
     "authors": [
       "Zhijie Wei",
       "Ferris Tan",
-      "Jinghui Wang"
+      "Jinghui Wang",
+      "Hao Zhou"
     ],
     "year": 2026,
     "venue": "arXiv",
@@ -5256,6 +5208,9 @@
       "Wenbo Huang",
       "Qiang Wang",
       "Shulong Jiang",
+      "Yintianrun Zhang",
+      "Feixiang Ruan",
+      "Kewei Zhang",
       "Duomin Wang",
       "Xiuyu Li",
       "Haiwen Feng",
@@ -5450,23 +5405,6 @@
     "venue": "arXiv",
     "type": "preprint",
     "url": "https://arxiv.org/abs/2610.07594",
-    "doi": ""
-  },
-  {
-    "id": "arxiv261007753",
-    "title": "From Evidence to Action: How Tool-Using Agents Fail",
-    "authors": [
-      "Hongzhan Lin",
-      "Shidong Cao",
-      "Ziyang Luo",
-      "Wenhao Chai",
-      "Mong-Li Lee",
-      "Wynne Hsu"
-    ],
-    "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2610.07753",
     "doi": ""
   },
   {
@@ -5708,9 +5646,9 @@
       "Anirudha Majumdar"
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "preprint",
-    "url": "https://arxiv.org/abs/2610.14603",
+    "venue": "Conference on Robot Learning (CoRL)",
+    "type": "conference",
+    "url": "https://openreview.net/forum?id=iOU9zkASbg",
     "doi": ""
   },
   {
@@ -5874,20 +5812,20 @@
   },
   {
     "id": "arxiv261023479",
-    "title": "HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents",
+    "title": "HexaShell: A Universal Harness for Robot Coding Agents in Simulation and the Real World",
     "authors": [
       "Hongcheng Gao",
+      "Jianshu Zeng",
       "Alex Zhou",
-      "Jay Zhu",
-      "Zelin Zheng",
       "Shijia Ge",
+      "Xuan Shangguan",
+      "Yazhe Wang",
+      "Yexing Wan",
+      "Zelin Zheng",
+      "Jay Zhu",
       "Xiping Li",
       "Di Wu",
-      "Yazhe Wang",
-      "Jianshu Zeng",
-      "Xuan Shangguan",
       "Yongli Wang",
-      "Yexing Wan",
       "Lingyu He",
       "Zhiqi Jia",
       "Sihang Wu",
@@ -5963,26 +5901,17 @@
     "doi": ""
   },
   {
-    "id": "arxiv261029677",
-    "title": "Toward Recursive Self-Improvement in Physical AI",
+    "id": "arxiv261030051",
+    "title": "From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks",
     "authors": [
-      "Meng Luo",
-      "Zechen Bai",
-      "Shanqing Xu",
-      "Yanlin Li",
-      "Kaixin Li",
-      "Mengchen Qian",
-      "Weifeng Lu",
-      "Ran Zhang",
-      "Yingtian Zou",
-      "Ziyang Luo",
-      "Wei Chen",
-      "Hongzhan Lin"
+      "May Espinola",
+      "Qifan Zhang",
+      "Yu Xiang"
     ],
     "year": 2026,
     "venue": "arXiv",
     "type": "preprint",
-    "url": "https://arxiv.org/abs/2610.29677",
+    "url": "https://arxiv.org/abs/2610.30051",
     "doi": ""
   },
   {
@@ -6001,6 +5930,31 @@
     "doi": ""
   },
   {
+    "id": "arxiv261032636",
+    "title": "Can AI Agents Help Robotic Engineers? Lessons from Two Focus Days in Industry",
+    "authors": [
+      "Salim Fares",
+      "Steffen Herbold"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.32636",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261033718",
+    "title": "RoboJev: An Open Vision-Language Judge for Robot Success Detection",
+    "authors": [
+      "Josef Liyanjun Chen"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.33718",
+    "doi": ""
+  },
+  {
     "id": "arxiv261034108",
     "title": "RoboDuo: Attempt, Check and Atomic Recovery through Code for Vision-Language-Action Models",
     "authors": [
@@ -6013,6 +5967,53 @@
     "venue": "arXiv",
     "type": "preprint",
     "url": "https://arxiv.org/abs/2610.34108",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261034151",
+    "title": "Execution Logs Sway VLM Judges of Robot Progress",
+    "authors": [
+      "Weiyan Zhao",
+      "Sunny Yang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.34151",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261034644",
+    "title": "SlowLab: Benchmarking Autonomous AI Agents on a Year of Experiments They Cannot Undo",
+    "authors": [
+      "Ningpei Ding",
+      "Zai Wen Feng"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.34644",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261035604",
+    "title": "RoboDoctor: Training-Free Recursive Self-Improvement for Robot Policies",
+    "authors": [
+      "Heyang Yu",
+      "Haomin Li",
+      "Sihang Li",
+      "Jixin Yan",
+      "Shiyun Peng",
+      "Wanqi Zhong",
+      "Tianyu Xin",
+      "Yuan Yao",
+      "Xiaoyu Tian",
+      "Yiming Li"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.35604",
     "doi": ""
   },
   {
@@ -6039,6 +6040,55 @@
     "venue": "arXiv",
     "type": "preprint",
     "url": "https://arxiv.org/abs/2610.35832",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261036077",
+    "title": "The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+    "authors": [
+      "Weidong Tang",
+      "Ruiheng Wang",
+      "Jingxuan Zhang",
+      "Hexin Wang",
+      "Haoyuan Chen",
+      "Zhengfeiyang Zhang",
+      "Yixing Ma",
+      "Zichen Jiang",
+      "Ziyu Guo",
+      "Haodong Li",
+      "Zhengbo Jiao",
+      "Zhiqing Cui",
+      "Xinxiang Yin",
+      "Shuo Liang",
+      "Zhenglin Wan",
+      "Hongzhan Lin",
+      "Wangbo Zhao",
+      "Kaipeng Zhang",
+      "Pengfei Zhou",
+      "Odin Zhang",
+      "Yang You"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.36077",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261036143",
+    "title": "Program-Level Adversarial Co-Adaptive Self-Play for Robotic Security",
+    "authors": [
+      "Leo Benaharon",
+      "Chi Zhang",
+      "Wei Zheng",
+      "Weifan Zhang",
+      "Yifan Wei",
+      "Yong Sun"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.36143",
     "doi": ""
   },
   {
@@ -6085,6 +6135,675 @@
     "venue": "arXiv",
     "type": "preprint",
     "url": "https://arxiv.org/abs/2610.38388",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261040565",
+    "title": "Gym-Anything for Robotics: Scaling physical simulations with digital agents",
+    "authors": [
+      "Pranjal Aggarwal",
+      "Sean Welleck"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.40565",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261040799",
+    "title": "CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents",
+    "authors": [
+      "Yijia Fan",
+      "Xilin He",
+      "Yilei Jiang",
+      "Dongming Wu",
+      "Jiaxu Wang",
+      "Xiangyu Yue"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.40799",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261041168",
+    "title": "ROSTrans: Empirically Benchmarking LLMs for ROS1-to-ROS2 Migration",
+    "authors": [
+      "Yichen Zhao",
+      "Minghao Shao",
+      "Zhuoyan Yu",
+      "Yijun Shen",
+      "Boyuan Chen",
+      "Yik-Cheung Tam",
+      "Muhammad Shafique"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.41168",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261041216",
+    "title": "TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents",
+    "authors": [
+      "Kehong Gong",
+      "Xiaoxu Zheng",
+      "Guanli Hou",
+      "Seunghun Lee",
+      "Mengqi Guo",
+      "Runjia Tan",
+      "Zhengyu Wen",
+      "Qi Wang",
+      "Xiaoyu He",
+      "Mingyuan Zhang",
+      "Michael Bi Mi"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.41216",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261042141",
+    "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+    "authors": [
+      "Shengguang Wu",
+      "Suning Huang",
+      "Cherie Ho",
+      "Ria Doshi",
+      "Hao Zhu",
+      "Serena Yeung-Levy"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2610.42141",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261100896",
+    "title": "Verifying Test-State Identity in Paired Evaluation of Vision-Language-Action Models",
+    "authors": [
+      "Rafiqul Islam"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.00896",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261101112",
+    "title": "Auriga Technical Report: A Task-Agnostic Agent Harness for Zero-Shot Embodied Manipulation",
+    "authors": [
+      "Chengcheng Wang",
+      "Yuheng Shi",
+      "Siyu Xu",
+      "Yutong Wang",
+      "Jinjing Zhao",
+      "Chenghao Xia",
+      "Jinqi Liao",
+      "Jiankun Peng",
+      "Ligong Bi",
+      "Yuechuan Ma",
+      "Jiaqi Liu",
+      "Wenbo Wang",
+      "Zijian Wang",
+      "Yuemin Wu",
+      "Minjing Dong",
+      "Xiu Su",
+      "Tao Huang",
+      "Jianyuan Guo",
+      "Chengbin Du",
+      "Yunke Wang",
+      "Chang Xu"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.01112",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261101560",
+    "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
+    "authors": [
+      "Jiarui Yuan",
+      "Yuxin Zuo",
+      "Xiaoyu Huang",
+      "Wenbo Zhang",
+      "Kwanyoung Park",
+      "Junlin Yang",
+      "Tianxiang Zhang",
+      "Ruoqu Chen",
+      "Yutao Ouyang",
+      "Bingxiang He",
+      "Xingtai Lv",
+      "Hongjin Wu",
+      "Jiajun Liu",
+      "Jiahao Zhao",
+      "Tianwei Luo",
+      "Haozhan Li",
+      "Cheng Qian",
+      "Jiaxin Ge",
+      "Huan-ang Gao",
+      "Kaisen Yang",
+      "Jiaqi Deng",
+      "Qixin Xu",
+      "Siqiao Huang",
+      "Bowen Zhou",
+      "Mengdi Xu",
+      "Zhiyuan Liu",
+      "Pieter Abbeel",
+      "Ning Ding"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.01560",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261102391",
+    "title": "Late Autumn: LLM Agents Specialize a General Multi-Robot Planner for One Warehouse",
+    "authors": [
+      "Yimin Tang",
+      "Han Zhang",
+      "Shao-Hung Chan",
+      "Erdem Bıyık",
+      "Sven Koenig",
+      "Jingkai Chen"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.02391",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261104974",
+    "title": "LLMs as MDP Designers: A Dependency-Aware Agentic Framework for Automated Robot Policy Generation",
+    "authors": [
+      "Hong Je-Gal",
+      "Jinwoo Kim",
+      "Chanbin Yi",
+      "Hyun-Suk Lee"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.04974",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261105320",
+    "title": "PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data",
+    "authors": [
+      "Kewei Zhang",
+      "Juncheng Ma",
+      "Guodong Lv",
+      "Duomin Wang",
+      "Feixiang Ruan",
+      "Ruiyang Si",
+      "Chuanrui Zhang",
+      "Yuxuan Chen",
+      "Hao Chen",
+      "Yichen Liu",
+      "Yintianrun Zhang",
+      "Yufan Deng",
+      "Enze Xie",
+      "Daquan Zhou"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.05320",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261106654",
+    "title": "Compounding Physical RSI: Turning Execution Failure into Inherited Capability",
+    "authors": [
+      "Yixuan Yang",
+      "Qiang Chen",
+      "Run Shao",
+      "Shuwei Dong",
+      "Wenhao Li",
+      "Yunpeng Wang",
+      "Wenhan Fang",
+      "Haomiao Wu",
+      "Xingyu Wang",
+      "Lichen Man",
+      "Rong Zhang",
+      "Xuezhi Cui",
+      "Yuan Liu",
+      "Bingyan Lu",
+      "Jiawei Ma",
+      "Xiaoyang Ma",
+      "Zhemin Sun",
+      "Zhuorui Yao",
+      "Yutong Dong",
+      "Yuxuan Zhao",
+      "Yichong Mu",
+      "Jiabao Jiang",
+      "Wenxuan Deng",
+      "Junling Zhou",
+      "Yi Chen",
+      "Deyu Zhang",
+      "Yiming Yan",
+      "Yige Yuan",
+      "Shan You",
+      "Fei Wang",
+      "Haifeng Li",
+      "Hongyan Xu",
+      "Yichao Cao",
+      "Xiu Su"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.06654",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261106768",
+    "title": "PyRUA-REAL: Robot Exploration and Adaptive Learning through RSI in the Real World",
+    "authors": [
+      "Qiang Wang",
+      "Jianxin Bi",
+      "Shulong Jiang",
+      "Ruiyang Si",
+      "Wenbo Huang",
+      "Kaiqi Chen",
+      "Jiaxin Li",
+      "Liyun Li",
+      "Xuanyi Li",
+      "Daquan Zhou"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.06768",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261106863",
+    "title": "Rethinking Self-Repair in Code-as-Policy Agents: What Drives Retry Success?",
+    "authors": [
+      "Siddharth Aphale",
+      "Ayushman Singh"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.06863",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261106881",
+    "title": "VABAR: A Variational Automation Benchmark for Agentic Robotics",
+    "authors": [
+      "Shuangyu Xie",
+      "Kaiyuan Chen",
+      "Uksang Yoo",
+      "Xinyue Zhu",
+      "Meadow Shen",
+      "Jaimyn Drake",
+      "Eugen Solowjow",
+      "Lionel Gulich",
+      "Alexander Millane",
+      "Rafael Cathomen",
+      "Tuur Stuyck",
+      "Sangeeta Subramanian",
+      "Yichao Pan",
+      "Bruce McGowan",
+      "Michael Benedict",
+      "Linxi Fan",
+      "Yuke Zhu",
+      "Spencer Huang",
+      "Ken Goldberg"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.06881",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261108209",
+    "title": "RoboARCade: Benchmarking Agentic Robot Control",
+    "authors": [
+      "Satvik Sharma",
+      "Hengyuan Hu",
+      "Mihika Kamat",
+      "Dorsa Sadigh",
+      "Jeannette Bohg"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.08209",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261108318",
+    "title": "Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement",
+    "authors": [
+      "Wenbo Huang",
+      "Jianxin Bi",
+      "Shunyu Yang",
+      "Ruiyang Si",
+      "Rui Ni",
+      "Qiang Wang",
+      "Shulong Jiang",
+      "Yintianrun Zhang",
+      "Feixiang Ruan",
+      "Kewei Zhang",
+      "Ye Huang",
+      "Shukai Gong",
+      "Daquan Zhou"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.08318",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261108946",
+    "title": "Flex-RSI: Benchmarking Recursive Self-Improvement of Frontier Agents",
+    "authors": [
+      "Jingdong Zhang",
+      "Jionghao Wang",
+      "Zhengming Yu",
+      "Yancheng Cai",
+      "Wei Chow",
+      "Chris Choy",
+      "Zhiyang Dou",
+      "Hang Hua",
+      "Jiachen Li",
+      "Zhixuan Liu",
+      "Chen Wang",
+      "Songlin Wei",
+      "Siyuan Yang",
+      "Yu Yuan",
+      "Xiaohang Zhan",
+      "Yucheng Zhang",
+      "Shuhong Zheng",
+      "Xin Li",
+      "Lingjie Liu",
+      "Wojciech Matusik",
+      "Zhengzhong Tu",
+      "Wenping Wang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.08946",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261109030",
+    "title": "A Controlled Study of Models, Skills, Feedback, and Curriculum in Agentic Robotics",
+    "authors": [
+      "Kaiyuan Chen",
+      "Xinyue Zhu",
+      "Shuangyu Xie",
+      "Uksang Yoo",
+      "Thi Thu Phuong Luong",
+      "Marcus Gualtieri",
+      "Christian Juette",
+      "Liu Ren",
+      "Spencer Huang",
+      "Ken Goldberg"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.09030",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261109892",
+    "title": "On Agentic Manipulation Policies",
+    "authors": [
+      "Chen Chen",
+      "Omid Bagherieh",
+      "Naveen Nikamanth Appiah Balaji",
+      "Jesse T. Gonzalez",
+      "Negin Heravi",
+      "Fahad Islam",
+      "Xueting Li",
+      "Jean-Baptiste Regli",
+      "Kejia Ren",
+      "Petr Švec",
+      "David J. Yoon",
+      "Matthias Müller",
+      "Vladlen Koltun"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.09892",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261110510",
+    "title": "ReSkill: Selective Self-Improvement for Robot Manipulation",
+    "authors": [
+      "Zheng Sun",
+      "Zhihao Li",
+      "Zhuo Li",
+      "Wenrui Liu",
+      "Xin Wang",
+      "Fei Chen"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.10510",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261111438",
+    "title": "When Coding Agents Get Arms: Safety Risks Across the Digital-Physical Boundary",
+    "authors": [
+      "Yiming Sun",
+      "Mi Zhang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.11438",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261111690",
+    "title": "A Physical Testbed for Self-Driving Laboratories: Comparing Bayesian and Agentic Optimization in a Minimal Closed-Loop Color Formulation Task",
+    "authors": [
+      "Tony Qin",
+      "Ziheng Wu",
+      "Maximilian Schommer",
+      "Roya Amini-Naieni",
+      "Aldair Gongora"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.11690",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261112177",
+    "title": "Embodied First Exam",
+    "authors": [
+      "Kangrui Wang",
+      "Qineng Wang",
+      "Changhe Chen",
+      "Pingyue Zhang",
+      "Chi Gui",
+      "Feishi Wang",
+      "Canyu Chen",
+      "Wenli Xiao",
+      "Xiaoyu Huang",
+      "Tonghe Zhang",
+      "Linjie Li",
+      "Zihan Wang",
+      "Minyeong Kim",
+      "Yiyou Sun",
+      "Mingkai Deng",
+      "Jinyu Hou",
+      "Qi Zhu",
+      "Han Liu",
+      "Eric P. Xing",
+      "Huaxiu Yao",
+      "Zhiwen Fan",
+      "Yuejiang Liu",
+      "Dawn Song",
+      "Pieter Abbeel",
+      "Li Fei-Fei",
+      "Jiajun Wu",
+      "Yuke Zhu",
+      "Guanya Shi",
+      "Ruohan Zhang",
+      "Manling Li"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.12177",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261112885",
+    "title": "World In-Context Learning for Agentic Robot Manipulation",
+    "authors": [
+      "Heng Fang",
+      "Zehui Guo",
+      "Yuehan Zhang",
+      "Mingyang Du",
+      "Dingkang Liang",
+      "Xiang Bai"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.12885",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261113034",
+    "title": "RoboACE: Adversarial Co-Evolution for Robot Self-Improvement",
+    "authors": [
+      "Delin Zhao",
+      "Zhengrong Yue",
+      "Junlin He",
+      "Yali Wang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.13034",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261114115",
+    "title": "LEASH: Stay Safe in Agentic Robotics",
+    "authors": [
+      "Qinfeng Zhu",
+      "Weiguang Zhao",
+      "Ke Sun",
+      "Xihao Guo",
+      "Yunxi Jiang",
+      "Rui Zhang",
+      "Lei Fan",
+      "Kaizhu Huang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.14115",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261116009",
+    "title": "JustRUA: A Controlled Study of GPT-6 Robot-Use Agents",
+    "authors": [
+      "Zefan Wang",
+      "Yufan Dang",
+      "Xuanwei Shi",
+      "Mingqi Gao",
+      "Cheng Yin",
+      "SikYuen Tam",
+      "Hanyu Liu",
+      "Yasheng Wang",
+      "Yaxi Lu",
+      "Songyang Zhang",
+      "Xin Cong",
+      "Yuan Yao"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.16009",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261116116",
+    "title": "Robo-SWE: An Executable Issue-Resolution Dataset Mined from Robot Software Repositories",
+    "authors": [
+      "Vahid Haratian",
+      "Vahid Ansari",
+      "Mohammadhossein Malmir",
+      "Alois Knoll"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.16116",
+    "doi": ""
+  },
+  {
+    "id": "arxiv261116872",
+    "title": "ACE-CaP-0: Real-World Code-as-Policies in the Era of Experience",
+    "authors": [
+      "CaP Team",
+      "Changxu Wei",
+      "Yunpeng Qing",
+      "Guozheng Ma",
+      "Bowen Liu",
+      "Zexin He",
+      "Yilun Kong",
+      "Haoming Gu",
+      "Jingyuan Liu",
+      "Tianyu Zhu",
+      "Jianfei Wang",
+      "Junqiang Kou",
+      "Huinan Mo",
+      "Hao Lv",
+      "Pengbin Li",
+      "Yuesong Wang",
+      "Bo Li",
+      "Huan Zhou",
+      "Shunyu Liu",
+      "Chunxiao Liu",
+      "Bixuan Jin",
+      "Shaopeng Yin",
+      "Fei Wang",
+      "Zhi Hou",
+      "Jiaxing Huang",
+      "Changqing Zou",
+      "Dacheng Tao",
+      "Xiaogang Wang"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2611.16872",
     "doi": ""
   },
   {
@@ -6188,60 +6907,6 @@
     "type": "conference",
     "url": "https://aclanthology.org/2025.findings-acl.47/",
     "doi": "10.18653/v1/2025.findings-acl.47"
-  },
-  {
-    "id": "lin-etal-2025-fact",
-    "title": "FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models",
-    "authors": [
-      "Hongzhan Lin",
-      "Yang Deng",
-      "Yuxuan Gu",
-      "Wenxuan Zhang",
-      "Jing Ma",
-      "See-Kiong Ng",
-      "Tat-Seng Chua"
-    ],
-    "year": 2025,
-    "venue": "Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-    "type": "conference",
-    "url": "https://aclanthology.org/2025.acl-long.17/",
-    "doi": "10.18653/v1/2025.acl-long.17"
-  },
-  {
-    "id": "lin2024explainhm",
-    "title": "Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models",
-    "authors": [
-      "Hongzhan Lin",
-      "Ziyang Luo",
-      "Wei Gao",
-      "Jing Ma",
-      "Bo Wang",
-      "Ruichao Yang"
-    ],
-    "year": 2024,
-    "venue": "ACM Web Conference 2024",
-    "type": "conference",
-    "url": "https://doi.org/10.1145/3589334.3645381",
-    "doi": "10.1145/3589334.3645381"
-  },
-  {
-    "id": "lin2026explainhmpp",
-    "title": "ExplainHM++: Explainable Harmful Meme Detection With Retrieval-Augmented Debate Between Large Multimodal Models",
-    "authors": [
-      "Hongzhan Lin",
-      "Wei Gao",
-      "Jing Ma",
-      "Yang Deng",
-      "Ziyang Luo",
-      "Bo Wang",
-      "Ruichao Yang",
-      "Tat-Seng Chua"
-    ],
-    "year": 2026,
-    "venue": "IEEE Transactions on Knowledge and Data Engineering",
-    "type": "journal",
-    "url": "https://doi.org/10.1109/TKDE.2025.3637552",
-    "doi": "10.1109/TKDE.2025.3637552"
   },
   {
     "id": "luo-etal-2026-storage",

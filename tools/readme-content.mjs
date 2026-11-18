@@ -29,14 +29,15 @@ export const SURVEY = {
 };
 
 export const ABOUT = [
-  "Coding agents built to repair software now write, test, and repair programs for robots. Unlike in software, the test suite does not " +
-    "come with the code: whether a robot program works must be established by running it on a robot, in a physics simulator, or through " +
-    "the policies it helps to train. This survey examines this emerging area, *agentic intelligence for the physical world*, by treating " +
-    "the world as the program's test suite.",
-  "We locate each program along two axes: where it sits relative to the actuator, from programs that act or orchestrate learned policies " +
-    "to programs that write rewards and build training worlds, and what judges it, from simulator predicates and learned judges to humans " +
-    "and physical outcomes. Drawing on software engineering, we identify which of its practices transfer to physical agents and which break, " +
-    "and argue that progress will depend less on writing better programs than on building a physical counterpart of *continuous integration*.",
+  "Coding agents built to repair software now write, test, and repair programs for robots, laboratories, and industrial controllers. " +
+    "Unlike in software engineering, no test suite comes with the code: whether a program works must be established by running it on a robot, " +
+    "in a physics simulator, or through the policies it helps to train, and such evidence is costly to obtain and can itself be wrong. " +
+    "This survey examines this emerging area, *agentic intelligence for the physical world*, by treating the world as the program's test suite.",
+  "We organize the discussion around three questions: how agents write programs for the physical world, how these programs are tested, " +
+    "and how agents learn from the results. Each program is described by where it sits relative to the actuator and by what judges it. " +
+    "Writing programs is becoming cheap, while trustworthy evidence about what they do remains costly, so progress will depend on a physical " +
+    "counterpart of *continuous integration*: verification cheap enough to run often, reliable enough to trust under search, and maintained " +
+    "alongside the experience it validates.",
 ];
 
 export const FINDINGS = [
@@ -95,7 +96,7 @@ export const TRANSFER = [
   ["Stack trace and logs", "Per-primitive traces with keyframes and overlays", "ASPIRE"],
   ["Repository and refactoring", "Multi-file policy repositories and rebinding skills to a new body", "RHO, RECENT"],
   ["Executable behavioral tests", "Symbolic trace properties and controller test suites in simulation", "RoboEval, test-driven framework"],
-  ["Regression gate", "Practice suites and paired comparisons before accepting a skill or harness edit", "RPG, Skill2Real, HexaAnything"],
+  ["Regression gate", "Practice suites, validation against the current version, and regression tests before accepting a skill or harness edit", "RPG, Skill2Real, HexaAnything"],
   ["Contracts", "Skill schemas, allowed operators, and encoded safety constraints", "Contract-grounded BTs, SafeGate"],
   ["Hidden tests", "Verifiers never returned to the agent and grading in a separate environment", "CodeActionBench, EmbodiedSWE"],
 ];
