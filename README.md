@@ -211,11 +211,11 @@ Progress will depend less on writing better programs than on building a physical
 
 ## References
 
-350 bibliographic records cited by the survey, ordered from newest to oldest. Badges give the venue or record type.
+352 bibliographic records cited by the survey, ordered from newest to oldest. Badges give the venue or record type.
 
 | Conference | Journal | Preprint | Book | Other |
 | ---: | ---: | ---: | ---: | ---: |
-| 110 | 31 | 209 | 0 | 0 |
+| 111 | 31 | 210 | 0 | 0 |
 
 <img src="https://img.shields.io/static/v1?label=&amp;message=Conference&amp;color=2c5ca8&amp;style=flat-square" alt="Conference" height="18"> <img src="https://img.shields.io/static/v1?label=&amp;message=Journal&amp;color=2f7a3e&amp;style=flat-square" alt="Journal" height="18"> <img src="https://img.shields.io/static/v1?label=&amp;message=Preprint&amp;color=9b2016&amp;style=flat-square" alt="Preprint" height="18"> <img src="https://img.shields.io/static/v1?label=&amp;message=Book&amp;color=9a5c08&amp;style=flat-square" alt="Book" height="18"> <img src="https://img.shields.io/static/v1?label=&amp;message=Other&amp;color=5a5347&amp;style=flat-square" alt="Other" height="18">
 
@@ -230,7 +230,7 @@ Progress will depend less on writing better programs than on building a physical
 <a id="year-2026"></a>
 
 <details>
-<summary><strong>2026</strong> &middot; 221 references</summary>
+<summary><strong>2026</strong> &middot; 222 references</summary>
 
 - A Benchmark Suite and Ground-Truth Methodology for Formal Verification of IEC 61131-3 Ladder Diagram Programs. [[paper](<https://arxiv.org/abs/2609.18994>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
 - A Bird's-Eye View of Iterative Reward Design. [[paper](<https://arxiv.org/abs/2610.04364>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
@@ -313,6 +313,7 @@ Progress will depend less on writing better programs than on building a physical
 - FORCA: A Force-Aware Coding Agent for Contact-Rich Robot Manipulation. [[paper](<https://arxiv.org/abs/2610.31841>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
 - From Demonstrations to Rewards: Test-Time Prompt Optimization for VLM Reward Models. [[paper](<https://arxiv.org/abs/2606.00083>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
 - From Digital to Physical: Digital Agents as Autonomous Coaches for Physical Intelligence. [[paper](<https://arxiv.org/abs/2601.21570>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
+- From Evidence to Action: How Tool-Using Agents Fail. [[paper](<https://arxiv.org/abs/2610.07753>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
 - From LLM-Generated Specifications to Learned Quadruped Locomotion. [[paper](<https://arxiv.org/abs/2609.07111>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
 - From Local Corrections to Generalized Skills: Improving Neuro-Symbolic Policies with MEMO. [[paper](<https://arxiv.org/abs/2603.04560>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
 - From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks. [[paper](<https://arxiv.org/abs/2610.30051>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
@@ -459,7 +460,7 @@ Progress will depend less on writing better programs than on building a physical
 <a id="year-2025"></a>
 
 <details>
-<summary><strong>2025</strong> &middot; 54 references</summary>
+<summary><strong>2025</strong> &middot; 55 references</summary>
 
 - A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning. [[paper](<https://doi.org/10.1016/j.knosys.2025.114065>)] <img src="https://img.shields.io/static/v1?label=&amp;message=Knowledge-Based+Systems&amp;color=2f7a3e&amp;style=flat-square" alt="Knowledge-Based Systems" height="18">
 - A Survey on Vision-Language-Action Models: An Action Tokenization Perspective. [[paper](<https://arxiv.org/abs/2507.01925>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
@@ -479,6 +480,7 @@ Progress will depend less on writing better programs than on building a physical
 - EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents. [[paper](<https://proceedings.mlr.press/v267/yang25f.html>)] <img src="https://img.shields.io/static/v1?label=&amp;message=ICML&amp;color=2c5ca8&amp;style=flat-square" alt="International Conference on Machine Learning (ICML)" height="18">
 - EnvTrace: Simulation-Based Semantic Evaluation of LLM Code via Execution Trace Alignment – Demonstrated at Synchrotron Beamlines. [[paper](<https://arxiv.org/abs/2511.09964>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
 - Evaluating Gemini Robotics Policies in a Veo World Simulator. [[paper](<https://arxiv.org/abs/2512.10675>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
+- FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models. [[paper](<https://aclanthology.org/2025.acl-long.17/>)] <img src="https://img.shields.io/static/v1?label=&amp;message=ACL&amp;color=2c5ca8&amp;style=flat-square" alt="Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)" height="18">
 - Gemini Robotics 1.5: Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer. [[paper](<https://arxiv.org/abs/2510.03342>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
 - Gemini Robotics: Bringing AI into the Physical World. [[paper](<https://arxiv.org/abs/2503.20020>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
 - GRS: Generating Robotic Simulation Tasks from Real-World Images. [[paper](<https://doi.org/10.1109/cvprw67362.2025.00064>)] <img src="https://img.shields.io/static/v1?label=&amp;message=CVPR+Workshop&amp;color=2c5ca8&amp;style=flat-square" alt="2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)" height="18">
