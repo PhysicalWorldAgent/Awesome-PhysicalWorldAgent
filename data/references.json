@@ -6820,24 +6820,6 @@
     "doi": "10.1038/s41586-023-06792-0"
   },
   {
-    "id": "lin-etal-2025-fact",
-    "title": "FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models",
-    "authors": [
-      "Hongzhan Lin",
-      "Yang Deng",
-      "Yuxuan Gu",
-      "Wenxuan Zhang",
-      "Jing Ma",
-      "See-Kiong Ng",
-      "Tat-Seng Chua"
-    ],
-    "year": 2025,
-    "venue": "Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-    "type": "conference",
-    "url": "https://aclanthology.org/2025.acl-long.17/",
-    "doi": "10.18653/v1/2025.acl-long.17"
-  },
-  {
     "id": "luo-etal-2026-storage",
     "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
     "authors": [

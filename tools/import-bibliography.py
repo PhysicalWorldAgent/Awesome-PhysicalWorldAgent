@@ -37,7 +37,7 @@ EXCLUDED_FIRST_AUTHORS = {"Meng Luo", "Yanlin Li"}
 EXCLUDED_IDS = {
     "arxiv250407981", "cao-etal-2026-diffcot", "chen-etal-2025-adammeme", "chen-etal-2025-memearena",
     "huang-etal-2024-towards", "kong-etal-2025-sharp", "yang-etal-2026-dialectical",
-    "arxiv260102669", "lin2024explainhm", "lin2026explainhmpp",
+    "arxiv260102669", "lin2024explainhm", "lin2026explainhmpp", "lin-etal-2025-fact",
 }
 LATEX = LatexNodes2Text()
 ARXIV_ID = re.compile(r"(?:\d{4}\.\d{4,5}|[a-z-]+(?:\.[A-Z]{2})?/\d{7})(?:v\d+)?", re.I)
