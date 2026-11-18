@@ -32,6 +32,11 @@ except ImportError:
 PUBLIC_FIELDS = {"id", "title", "authors", "year", "venue", "type", "url", "doi"}
 # The survey's own authors' first-author papers are cited in the manuscript but not listed in this repository.
 EXCLUDED_FIRST_AUTHORS = {"Meng Luo", "Yanlin Li", "Hongzhan Lin"}
+# Papers by the survey's authors that are off the survey's topic (memes, fake news, role-play, GUI grounding, reasoning)
+EXCLUDED_IDS = {
+    "arxiv250407981", "cao-etal-2026-diffcot", "chen-etal-2025-adammeme", "chen-etal-2025-memearena",
+    "huang-etal-2024-towards", "kong-etal-2025-sharp", "yang-etal-2026-dialectical",
+}
 LATEX = LatexNodes2Text()
 ARXIV_ID = re.compile(r"(?:\d{4}\.\d{4,5}|[a-z-]+(?:\.[A-Z]{2})?/\d{7})(?:v\d+)?", re.I)
 DOI = re.compile(r"10\.\d{4,9}/\S+", re.I)
@@ -129,7 +134,7 @@ def import_entries(source: str, keep: set[str] | None = None) -> tuple[list[dict
     warnings = []
     seen_titles: dict[str, str] = {}
     for identifier, entry in bibliography.entries.items():
-        if keep is not None and identifier not in keep:
+        if keep is not None and identifier not in keep or identifier in EXCLUDED_IDS:
             continue
         fields = entry.fields
         title = clean_text(fields.get("title", ""))

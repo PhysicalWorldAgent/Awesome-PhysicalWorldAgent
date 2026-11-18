@@ -211,11 +211,11 @@ Progress will depend less on writing better programs than on building a physical
 
 ## References
 
-357 bibliographic records cited by the survey, ordered from newest to oldest. Badges give the venue or record type.
+350 bibliographic records cited by the survey, ordered from newest to oldest. Badges give the venue or record type.
 
 | Conference | Journal | Preprint | Book | Other |
 | ---: | ---: | ---: | ---: | ---: |
-| 117 | 31 | 209 | 0 | 0 |
+| 110 | 31 | 209 | 0 | 0 |
 
 <img src="https://img.shields.io/static/v1?label=&amp;message=Conference&amp;color=2c5ca8&amp;style=flat-square" alt="Conference" height="18"> <img src="https://img.shields.io/static/v1?label=&amp;message=Journal&amp;color=2f7a3e&amp;style=flat-square" alt="Journal" height="18"> <img src="https://img.shields.io/static/v1?label=&amp;message=Preprint&amp;color=9b2016&amp;style=flat-square" alt="Preprint" height="18"> <img src="https://img.shields.io/static/v1?label=&amp;message=Book&amp;color=9a5c08&amp;style=flat-square" alt="Book" height="18"> <img src="https://img.shields.io/static/v1?label=&amp;message=Other&amp;color=5a5347&amp;style=flat-square" alt="Other" height="18">
 
@@ -230,7 +230,7 @@ Progress will depend less on writing better programs than on building a physical
 <a id="year-2026"></a>
 
 <details>
-<summary><strong>2026</strong> &middot; 223 references</summary>
+<summary><strong>2026</strong> &middot; 221 references</summary>
 
 - A Benchmark Suite and Ground-Truth Methodology for Formal Verification of IEC 61131-3 Ladder Diagram Programs. [[paper](<https://arxiv.org/abs/2609.18994>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
 - A Bird's-Eye View of Iterative Reward Design. [[paper](<https://arxiv.org/abs/2610.04364>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
@@ -287,8 +287,6 @@ Progress will depend less on writing better programs than on building a physical
 - Demonstration-Free Robotic Control via LLM Agents. [[paper](<https://openreview.net/forum?id=nh704PUegV>)] <img src="https://img.shields.io/static/v1?label=&amp;message=IROS&amp;color=2c5ca8&amp;style=flat-square" alt="IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)" height="18">
 - DiagGen: Agentic Generation of Deformable Assets with Sim-based Diagnostics for Robotic Simulation. [[paper](<https://arxiv.org/abs/2609.23103>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
 - Diagnosing Semantic Handoff Failures in Agent-Orchestrated Vision-Language-Action Skill Composition. [[paper](<https://arxiv.org/abs/2607.06256>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
-- Dialectical Structured Reasoning for Explainable Multimodal Fake News Detection. [[paper](<https://aclanthology.org/2026.findings-acl.1601/>)] <img src="https://img.shields.io/static/v1?label=&amp;message=Findings+of+ACL&amp;color=2c5ca8&amp;style=flat-square" alt="Findings of the Association for Computational Linguistics: ACL 2026" height="18">
-- DiffCoT: Diffusion-styled Chain-of-Thought Reasoning in LLMs. [[paper](<https://aclanthology.org/2026.findings-acl.1939/>)] <img src="https://img.shields.io/static/v1?label=&amp;message=Findings+of+ACL&amp;color=2c5ca8&amp;style=flat-square" alt="Findings of the Association for Computational Linguistics: ACL 2026" height="18">
 - Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory. [[paper](<https://arxiv.org/abs/2608.16889>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
 - DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents. [[paper](<https://arxiv.org/abs/2609.40306>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
 - Efficient Skill Grounding via Code Refactoring with Small Language Models. [[paper](<https://openreview.net/forum?id=GQ4zj5YiyC>)] <img src="https://img.shields.io/static/v1?label=&amp;message=ICML&amp;color=2c5ca8&amp;style=flat-square" alt="International Conference on Machine Learning (ICML)" height="18">
@@ -461,13 +459,12 @@ Progress will depend less on writing better programs than on building a physical
 <a id="year-2025"></a>
 
 <details>
-<summary><strong>2025</strong> &middot; 58 references</summary>
+<summary><strong>2025</strong> &middot; 54 references</summary>
 
 - A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning. [[paper](<https://doi.org/10.1016/j.knosys.2025.114065>)] <img src="https://img.shields.io/static/v1?label=&amp;message=Knowledge-Based+Systems&amp;color=2f7a3e&amp;style=flat-square" alt="Knowledge-Based Systems" height="18">
 - A Survey on Vision-Language-Action Models: An Action Tokenization Perspective. [[paper](<https://arxiv.org/abs/2507.01925>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
 - A Systematic Study of Large Language Models for Task and Motion Planning With PDDLStream. [[paper](<https://arxiv.org/abs/2510.00182>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
 - A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation. [[paper](<https://doi.org/10.1109/iccv51701.2025.01253>)] <img src="https://img.shields.io/static/v1?label=&amp;message=2025+IEEE%2FCVF+International+Conference+on+Computer+Vision+%28ICCV%29&amp;color=2c5ca8&amp;style=flat-square" alt="2025 IEEE/CVF International Conference on Computer Vision (ICCV)" height="18">
-- AdamMeme: Adaptively Probe the Reasoning Capacity of Multimodal Large Language Models on Harmfulness. [[paper](<https://aclanthology.org/2025.acl-long.213/>)] <img src="https://img.shields.io/static/v1?label=&amp;message=ACL&amp;color=2c5ca8&amp;style=flat-square" alt="Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)" height="18">
 - AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation. [[paper](<https://openreview.net/forum?id=JVkdSi7Ekg>)] <img src="https://img.shields.io/static/v1?label=&amp;message=ICLR&amp;color=2c5ca8&amp;style=flat-square" alt="International Conference on Learning Representations (ICLR)" height="18">
 - AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning. [[paper](<https://arxiv.org/abs/2512.17853>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
 - Articulate-Anything: Automatic Modeling of Articulated Objects via a Vision-Language Foundation Model. [[paper](<https://openreview.net/forum?id=s3FTX4Ay55>)] <img src="https://img.shields.io/static/v1?label=&amp;message=ICLR&amp;color=2c5ca8&amp;style=flat-square" alt="International Conference on Learning Representations (ICLR)" height="18">
@@ -493,7 +490,6 @@ Progress will depend less on writing better programs than on building a physical
 - LogicGuard: Improving Embodied LLM agents through Temporal Logic based Critics. [[paper](<https://arxiv.org/abs/2507.03293>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
 - Long-horizon Locomotion and Manipulation on a Quadrupedal Robot with Large Language Models. [[paper](<https://doi.org/10.1109/iros60139.2025.11246632>)] <img src="https://img.shields.io/static/v1?label=&amp;message=IROS&amp;color=2c5ca8&amp;style=flat-square" alt="2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)" height="18">
 - ManiAgent: An Agentic Framework for General Robotic Manipulation. [[paper](<https://arxiv.org/abs/2510.11660>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
-- MemeArena: Automating Context-Aware Unbiased Evaluation of Harmfulness Understanding for Multimodal Large Language Models. [[paper](<https://aclanthology.org/2025.emnlp-main.890/>)] <img src="https://img.shields.io/static/v1?label=&amp;message=EMNLP&amp;color=2c5ca8&amp;style=flat-square" alt="2025 Conference on Empirical Methods in Natural Language Processing" height="18">
 - Memory Transfer Planning: LLM-driven Context-Aware Code Adaptation for Robot Manipulation. [[paper](<https://arxiv.org/abs/2509.24160>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
 - MM-CRITIC: A Holistic Evaluation of Large Multimodal Models as Multimodal Critique. [[paper](<https://aclanthology.org/2025.findings-emnlp.733/>)] <img src="https://img.shields.io/static/v1?label=&amp;message=Findings+of+EMNLP&amp;color=2c5ca8&amp;style=flat-square" alt="Findings of the Association for Computational Linguistics: EMNLP 2025" height="18">
 - ModuLoop: Low-Level Code Generation using Modular Synthesizer and Closed-Loop Debugger for Robotic Control. [[paper](<https://doi.org/10.1109/lra.2025.3623437>)] <img src="https://img.shields.io/static/v1?label=&amp;message=IEEE+RA-L&amp;color=2f7a3e&amp;style=flat-square" alt="IEEE Robotics and Automation Letters" height="18">
@@ -508,9 +504,7 @@ Progress will depend less on writing better programs than on building a physical
 - RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies. [[paper](<https://openreview.net/forum?id=cpmwi3Xwcr>)] <img src="https://img.shields.io/static/v1?label=&amp;message=CoRL&amp;color=2c5ca8&amp;style=flat-square" alt="Conference on Robot Learning (CoRL)" height="18">
 - RoboMoRe: LLM-based Robot Co-design via Joint Optimization of Morphology and Reward. [[paper](<https://arxiv.org/abs/2506.00276>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
 - Robotic Programmer: Video Instructed Policy Code Generation for Robotic Manipulation. [[paper](<https://doi.org/10.1109/iros60139.2025.11247043>)] <img src="https://img.shields.io/static/v1?label=&amp;message=IROS&amp;color=2c5ca8&amp;style=flat-square" alt="2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)" height="18">
-- ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use. [[paper](<https://doi.org/10.1145/3746027.3755688>)] <img src="https://img.shields.io/static/v1?label=&amp;message=ACM+International+Conference+on+Multimedia&amp;color=2c5ca8&amp;style=flat-square" alt="ACM International Conference on Multimedia" height="18">
 - SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models. [[paper](<https://doi.org/10.1109/icra55743.2025.11128420>)] <img src="https://img.shields.io/static/v1?label=&amp;message=ICRA&amp;color=2c5ca8&amp;style=flat-square" alt="2025 IEEE International Conference on Robotics and Automation (ICRA)" height="18">
-- SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing LLMs. [[paper](<https://aclanthology.org/2025.findings-acl.47/>)] <img src="https://img.shields.io/static/v1?label=&amp;message=Findings+of+ACL&amp;color=2c5ca8&amp;style=flat-square" alt="Findings of the Association for Computational Linguistics: ACL 2025" height="18">
 - SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation. [[paper](<https://doi.org/10.52202/085713-2565>)] <img src="https://img.shields.io/static/v1?label=&amp;message=NeurIPS&amp;color=2c5ca8&amp;style=flat-square" alt="Advances in Neural Information Processing Systems 38" height="18">
 - Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods. [[paper](<https://doi.org/10.1109/tnnls.2024.3497992>)] <img src="https://img.shields.io/static/v1?label=&amp;message=IEEE+Transactions+on+Neural+Networks+and+Learning+Systems&amp;color=2f7a3e&amp;style=flat-square" alt="IEEE Transactions on Neural Networks and Learning Systems" height="18">
 - Task adaptation of Vision-Language-Action model: 1st Place Solution for the 2025 BEHAVIOR Challenge. [[paper](<https://arxiv.org/abs/2512.06951>)] <img src="https://img.shields.io/static/v1?label=&amp;message=arXiv&amp;color=9b2016&amp;style=flat-square" alt="arXiv" height="18">
@@ -527,7 +521,7 @@ Progress will depend less on writing better programs than on building a physical
 <a id="year-2024"></a>
 
 <details>
-<summary><strong>2024</strong> &middot; 51 references</summary>
+<summary><strong>2024</strong> &middot; 50 references</summary>
 
 - Augmenting large language models with chemistry tools. [[paper](<https://doi.org/10.1038/s42256-024-00832-8>)] <img src="https://img.shields.io/static/v1?label=&amp;message=Nature+Machine+Intelligence&amp;color=2f7a3e&amp;style=flat-square" alt="Nature Machine Intelligence" height="18">
 - Automated Control Logic Test Case Generation using Large Language Models. [[paper](<https://doi.org/10.1109/etfa61755.2024.10711016>)] <img src="https://img.shields.io/static/v1?label=&amp;message=2024+IEEE+29th+International+Conference+on+Emerging+Technologies+and+Factory+Automation+%28ETFA%29&amp;color=2c5ca8&amp;style=flat-square" alt="2024 IEEE 29th International Conference on Emerging Technologies and Factory Automation (ETFA)" height="18">
@@ -573,7 +567,6 @@ Progress will depend less on writing better programs than on building a physical
 - SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering. [[paper](<https://doi.org/10.52202/079017-1601>)] <img src="https://img.shields.io/static/v1?label=&amp;message=NeurIPS&amp;color=2c5ca8&amp;style=flat-square" alt="Advances in Neural Information Processing Systems 37" height="18">
 - SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [[paper](<https://openreview.net/forum?id=VTF8yNQM66>)] <img src="https://img.shields.io/static/v1?label=&amp;message=ICLR&amp;color=2c5ca8&amp;style=flat-square" alt="International Conference on Learning Representations (ICLR)" height="18">
 - Text2Reward: Reward Shaping with Language Models for Reinforcement Learning. [[paper](<https://openreview.net/forum?id=tUM39YTRxH>)] <img src="https://img.shields.io/static/v1?label=&amp;message=ICLR&amp;color=2c5ca8&amp;style=flat-square" alt="International Conference on Learning Representations (ICLR)" height="18">
-- Towards Low-Resource Harmful Meme Detection with LMM Agents. [[paper](<https://aclanthology.org/2024.emnlp-main.136/>)] <img src="https://img.shields.io/static/v1?label=&amp;message=EMNLP&amp;color=2c5ca8&amp;style=flat-square" alt="2024 Conference on Empirical Methods in Natural Language Processing" height="18">
 - Trust the PRoC3S: Solving Long-Horizon Robotics Problems with LLMs and Constraint Satisfaction. [[paper](<https://proceedings.mlr.press/v270/curtis25a.html>)] <img src="https://img.shields.io/static/v1?label=&amp;message=CoRL&amp;color=2c5ca8&amp;style=flat-square" alt="Conference on Robot Learning (CoRL)" height="18">
 - Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistency and Progress. [[paper](<https://openreview.net/forum?id=yqLFb0RnDW>)] <img src="https://img.shields.io/static/v1?label=&amp;message=CoRL&amp;color=2c5ca8&amp;style=flat-square" alt="Conference on Robot Learning (CoRL)" height="18">
 - URDFormer: A Pipeline for Constructing Articulated Simulation Environments from Real-World Images. [[paper](<https://doi.org/10.15607/rss.2024.xx.124>)] <img src="https://img.shields.io/static/v1?label=&amp;message=RSS&amp;color=2c5ca8&amp;style=flat-square" alt="Robotics: Science and Systems XX" height="18">

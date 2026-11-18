@@ -2223,25 +2223,6 @@
     "doi": ""
   },
   {
-    "id": "arxiv250407981",
-    "title": "ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use",
-    "authors": [
-      "Kaixin Li",
-      "Ziyang Meng",
-      "Hongzhan Lin",
-      "Ziyang Luo",
-      "Yuchen Tian",
-      "Jing Ma",
-      "Zhiyong Huang",
-      "Tat-Seng Chua"
-    ],
-    "year": 2025,
-    "venue": "ACM International Conference on Multimedia",
-    "type": "conference",
-    "url": "https://doi.org/10.1145/3746027.3755688",
-    "doi": "10.1145/3746027.3755688"
-  },
-  {
     "id": "arxiv250412636",
     "title": "A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation",
     "authors": [
@@ -6822,93 +6803,6 @@
     "doi": "10.1038/s41586-023-06792-0"
   },
   {
-    "id": "cao-etal-2026-diffcot",
-    "title": "DiffCoT: Diffusion-styled Chain-of-Thought Reasoning in LLMs",
-    "authors": [
-      "Shidong Cao",
-      "Hongzhan Lin",
-      "Yuxuan Gu",
-      "Ziyang Luo",
-      "Jing Ma"
-    ],
-    "year": 2026,
-    "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
-    "type": "conference",
-    "url": "https://aclanthology.org/2026.findings-acl.1939/",
-    "doi": "10.18653/v1/2026.findings-acl.1939"
-  },
-  {
-    "id": "chen-etal-2025-adammeme",
-    "title": "AdamMeme: Adaptively Probe the Reasoning Capacity of Multimodal Large Language Models on Harmfulness",
-    "authors": [
-      "Zixin Chen",
-      "Hongzhan Lin",
-      "Kaixin Li",
-      "Ziyang Luo",
-      "Zhen Ye",
-      "Guang Chen",
-      "Zhiyong Huang",
-      "Jing Ma"
-    ],
-    "year": 2025,
-    "venue": "Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-    "type": "conference",
-    "url": "https://aclanthology.org/2025.acl-long.213/",
-    "doi": "10.18653/v1/2025.acl-long.213"
-  },
-  {
-    "id": "chen-etal-2025-memearena",
-    "title": "MemeArena: Automating Context-Aware Unbiased Evaluation of Harmfulness Understanding for Multimodal Large Language Models",
-    "authors": [
-      "Zixin Chen",
-      "Hongzhan Lin",
-      "Kaixin Li",
-      "Ziyang Luo",
-      "Yayue Deng",
-      "Jing Ma"
-    ],
-    "year": 2025,
-    "venue": "2025 Conference on Empirical Methods in Natural Language Processing",
-    "type": "conference",
-    "url": "https://aclanthology.org/2025.emnlp-main.890/",
-    "doi": "10.18653/v1/2025.emnlp-main.890"
-  },
-  {
-    "id": "huang-etal-2024-towards",
-    "title": "Towards Low-Resource Harmful Meme Detection with LMM Agents",
-    "authors": [
-      "Jianzhao Huang",
-      "Hongzhan Lin",
-      "Ziyan Liu",
-      "Ziyang Luo",
-      "Guang Chen",
-      "Jing Ma"
-    ],
-    "year": 2024,
-    "venue": "2024 Conference on Empirical Methods in Natural Language Processing",
-    "type": "conference",
-    "url": "https://aclanthology.org/2024.emnlp-main.136/",
-    "doi": "10.18653/v1/2024.emnlp-main.136"
-  },
-  {
-    "id": "kong-etal-2025-sharp",
-    "title": "SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing LLMs",
-    "authors": [
-      "Chuyi Kong",
-      "Ziyang Luo",
-      "Hongzhan Lin",
-      "Zhiyuan Fan",
-      "Yaxin Fan",
-      "Yuxi Sun",
-      "Jing Ma"
-    ],
-    "year": 2025,
-    "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
-    "type": "conference",
-    "url": "https://aclanthology.org/2025.findings-acl.47/",
-    "doi": "10.18653/v1/2025.findings-acl.47"
-  },
-  {
     "id": "luo-etal-2026-storage",
     "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
     "authors": [
@@ -6927,26 +6821,6 @@
     "type": "conference",
     "url": "https://aclanthology.org/2026.findings-acl.2069/",
     "doi": "10.18653/v1/2026.findings-acl.2069"
-  },
-  {
-    "id": "yang-etal-2026-dialectical",
-    "title": "Dialectical Structured Reasoning for Explainable Multimodal Fake News Detection",
-    "authors": [
-      "Ruichao Yang",
-      "Yufan Bian",
-      "Wei Gao",
-      "Bo-Wen Zhang",
-      "Jing Ma",
-      "Hongzhan Lin",
-      "Ziyang Luo",
-      "Xiaobin Zhu",
-      "Xu-Cheng Yin"
-    ],
-    "year": 2026,
-    "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
-    "type": "conference",
-    "url": "https://aclanthology.org/2026.findings-acl.1601/",
-    "doi": "10.18653/v1/2026.findings-acl.1601"
   },
   {
     "id": "zeng-etal-2025-mm",
