@@ -4,8 +4,9 @@
 
   <p><strong><em>⭐ Star us if you find this useful!</em></strong></p>
 
+  <a href="https://arxiv.org/abs/2611.22291"><img src="https://img.shields.io/static/v1?label=&amp;message=arXiv+2611.22291&amp;color=16130f&amp;style=flat-square" alt="arXiv 2611.22291" height="18"></a>
   <a href="https://PhysicalWorldAgent.github.io/"><img src="https://img.shields.io/static/v1?label=&amp;message=Project+website&amp;color=b8301f&amp;style=flat-square" alt="Project website" height="18"></a>
-  <a href="#references"><img src="https://img.shields.io/static/v1?label=&amp;message=References&amp;color=16130f&amp;style=flat-square" alt="References" height="18"></a>
+  <a href="#references"><img src="https://img.shields.io/static/v1?label=&amp;message=References&amp;color=2c5ca8&amp;style=flat-square" alt="References" height="18"></a>
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome" height="18"></a>
 
   <p>Kaixin&nbsp;Li<sup>1</sup> · Meng&nbsp;Luo<sup>1</sup> · Yanlin&nbsp;Li<sup>1</sup> · Yuchen&nbsp;Tian<sup>2</sup> · Xiang&nbsp;Liu<sup>1</sup> · Xiangru&nbsp;Jian<sup>3</sup> · Yan&nbsp;Yang<sup>4</sup> · Zhiheng&nbsp;Xi<sup>5</sup> · Yang&nbsp;Zhang<sup>1</sup> · Ziyang&nbsp;Luo<sup>2</sup> · Mingfei&nbsp;Cheng<sup>6</sup> · Hongzhan&nbsp;Lin<sup>1†</sup></p>
@@ -85,7 +86,7 @@ The survey makes four contributions:
 
 <p align="center"><a href="#the-world-as-the-test-suite">The world as the test suite</a> &nbsp;·&nbsp; <a href="#references">References</a> &nbsp;·&nbsp; <a href="#contributing">Contributing</a> &nbsp;·&nbsp; <a href="#contributors">Contributors</a> &nbsp;·&nbsp; <a href="#citation">Citation</a> &nbsp;·&nbsp; <a href="#star-history">Star history</a> &nbsp;·&nbsp; <a href="#repository-layout">Repository layout</a></p>
 
-<p align="center"><sub>Survey resources: <a href="https://github.com/PhysicalWorldAgent/Awesome-PhysicalWorldAgent">Awesome-PhysicalWorldAgent</a> &nbsp;·&nbsp; Website: <a href="https://PhysicalWorldAgent.github.io/">PhysicalWorldAgent.github.io</a> (<a href="https://github.com/PhysicalWorldAgent/PhysicalWorldAgent.github.io">source</a>)</sub></p>
+<p align="center"><sub>Paper: <a href="https://arxiv.org/abs/2611.22291">arXiv:2611.22291</a> &nbsp;·&nbsp; Survey resources: <a href="https://github.com/PhysicalWorldAgent/Awesome-PhysicalWorldAgent">Awesome-PhysicalWorldAgent</a> &nbsp;·&nbsp; Website: <a href="https://PhysicalWorldAgent.github.io/">PhysicalWorldAgent.github.io</a> (<a href="https://github.com/PhysicalWorldAgent/PhysicalWorldAgent.github.io">source</a>)</sub></p>
 
 ---
 
@@ -660,12 +661,12 @@ Thanks to everyone who has improved the project.
 If you find the survey or the reference list useful, please cite:
 
 ```bibtex
-@misc{li2026world,
-  title        = {When the World Is the Test Suite: Agentic Intelligence for the Physical World},
-  author       = {Li, Kaixin and Luo, Meng and Li, Yanlin and Tian, Yuchen and Liu, Xiang and Jian, Xiangru and Yang, Yan and Xi, Zhiheng and Zhang, Yang and Luo, Ziyang and Cheng, Mingfei and Lin, Hongzhan},
-  year         = {2026},
-  howpublished = {\url{https://github.com/PhysicalWorldAgent/Awesome-PhysicalWorldAgent}},
-  note         = {Manuscript}
+@article{li2026world,
+  title   = {When the World Is the Test Suite: Agentic Intelligence for the Physical World},
+  author  = {Li, Kaixin and Luo, Meng and Li, Yanlin and Tian, Yuchen and Liu, Xiang and Jian, Xiangru and Yang, Yan and Xi, Zhiheng and Zhang, Yang and Luo, Ziyang and Cheng, Mingfei and Lin, Hongzhan},
+  journal = {arXiv preprint arXiv:2611.22291},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2611.22291}
 }
 ```
 

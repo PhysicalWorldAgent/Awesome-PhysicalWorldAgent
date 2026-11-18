@@ -3,6 +3,8 @@
 
 export const SITE_URL = "https://PhysicalWorldAgent.github.io/";
 export const REPO_URL = "https://github.com/PhysicalWorldAgent/Awesome-PhysicalWorldAgent";
+export const ARXIV_ID = "2611.22291";
+export const ARXIV_URL = `https://arxiv.org/abs/${ARXIV_ID}`;
 export const WEBSITE_REPO_URL = "https://github.com/PhysicalWorldAgent/PhysicalWorldAgent.github.io";
 
 export const SURVEY = {
@@ -146,12 +148,12 @@ export function surveyBibtex() {
     })
     .join(" and ");
   return [
-    `@misc{${SURVEY.bibtexKey},`,
-    `  title        = {${SURVEY.title}: ${SURVEY.subtitle}},`,
-    `  author       = {${authors}},`,
-    `  year         = {${SURVEY.year}},`,
-    `  howpublished = {\\url{${REPO_URL}}},`,
-    "  note         = {Manuscript}",
+    `@article{${SURVEY.bibtexKey},`,
+    `  title   = {${SURVEY.title}: ${SURVEY.subtitle}},`,
+    `  author  = {${authors}},`,
+    `  journal = {arXiv preprint arXiv:${ARXIV_ID}},`,
+    `  year    = {${SURVEY.year}},`,
+    `  url     = {${ARXIV_URL}}`,
     "}",
   ].join("\n");
 }

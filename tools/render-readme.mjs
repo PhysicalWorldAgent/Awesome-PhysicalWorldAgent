@@ -24,6 +24,7 @@ import {
   TRANSFER,
   UNREPORTED,
   WEBSITE_REPO_URL,
+  ARXIV_URL,
   surveyBibtex,
 } from "./readme-content.mjs";
 
@@ -148,8 +149,9 @@ export function renderReadme(references) {
     "",
     "  <p><strong><em>⭐ Star us if you find this useful!</em></strong></p>",
     "",
+    `  <a href="${ARXIV_URL}">${badge("arXiv 2611.22291", "16130f")}</a>`,
     `  <a href="${SITE_URL}">${badge("Project website", "b8301f")}</a>`,
-    `  <a href="#references">${badge("References", "16130f")}</a>`,
+    `  <a href="#references">${badge("References", "2c5ca8")}</a>`,
     '  <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome" height="18"></a>',
     "",
     "  <p>" +
@@ -194,7 +196,7 @@ export function renderReadme(references) {
     "",
     `<p align="center">${more.map((title) => `<a href="#${anchor(title)}">${html(title)}</a>`).join(" &nbsp;·&nbsp; ")}</p>`,
     "",
-    `<p align="center"><sub>Survey resources: <a href="${REPO_URL}">Awesome-PhysicalWorldAgent</a> &nbsp;·&nbsp; Website: <a href="${SITE_URL}">PhysicalWorldAgent.github.io</a> (<a href="${WEBSITE_REPO_URL}">source</a>)</sub></p>`,
+    `<p align="center"><sub>Paper: <a href="${ARXIV_URL}">arXiv:2611.22291</a> &nbsp;·&nbsp; Survey resources: <a href="${REPO_URL}">Awesome-PhysicalWorldAgent</a> &nbsp;·&nbsp; Website: <a href="${SITE_URL}">PhysicalWorldAgent.github.io</a> (<a href="${WEBSITE_REPO_URL}">source</a>)</sub></p>`,
     "",
     "---",
     "",
